@@ -1,7 +1,7 @@
 
 #Idea#
 
-An _$n$-truncated object of an [[âˆž-stack]] [[(âˆž,1)-topos]]_ is the anaolog of a [[homotopy n-type]] in the archetypical [[(âˆž,1)-topos]] [[âˆž-Grpd]]/[[Top]]: 
+An _$n$-truncated object of an [[âˆž-stack]] [[(âˆž,1)-topos]]_ is the analog of an [[n-groupoid]] or [[homotopy n-type]] in the archetypical [[(âˆž,1)-topos]] [[âˆž-Grpd]]/[[Top]]: 
 
 it is an object $X$ whose [[homotopy group (of an âˆž-stack)|homotopy groups (of an âˆž-stack)]] $\pi_k(X)$ are trivial for $k \gt n$.
 
