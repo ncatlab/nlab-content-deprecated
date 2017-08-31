@@ -10,17 +10,15 @@
 
 ## Connections on bundles
 
-* [[connection on a bundle|connection]], [[connection on an âˆž-bundle|âˆž-connection]]
+* [[connection on a bundle]] 
 
-  * [[parallel transport]], [[higher parallel transport]]
-
-  * [[holonomy]]
+  * [[parallel transport]], [[holonomy]]
 
 * [[curvature]]
 
   * [[curvature characteristic form]], [[Chern character]]
 
-* [[Chern-Weil theory]], [[âˆž-Chern-Weil theory]]
+* [[Chern-Weil theory]]
 
   * [[Chern-Weil homomorphism]]
 
@@ -45,13 +43,18 @@
 
 ## Higher nonabelian differential cohomology
 
+* [[principal âˆž-bundle]]
+
+* [[connection on an âˆž-bundle]]
+
 * [[âˆž-Chern-Weil theory]]
 
-  * [[âˆž-Lie algebra cohomology]], [[smooth âˆž-groupoid]]
+  * [[âˆž-Lie algebra cohomology]]
 
 * [[âˆž-Chern-Simons theory]]
 
-## In physics
+
+## Application on gauge theory
 
 * [[gauge theory]], [[gauge field]]
 
