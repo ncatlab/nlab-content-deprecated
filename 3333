@@ -330,7 +330,7 @@ Let the ambient [[(âˆž,1)-category]] be [[âˆžGrpd]], let $G$ be an ordinar
 +-- {: .un_prop}
 ###### Proposition
 
-We have 
+We have that the [[loop groupoid]]
 
 $$
   \mathcal{L} \mathbf{B}G \simeq G//_{Ad} G
