@@ -66,7 +66,8 @@ are described the following two [[(âˆž,n)-category|(âˆž,n)-categories]]
 
 * the [[(âˆž,n)-category of cobordisms]] $Bord_n$: its [[k-morphism]]s are roughly $k$-dimensional [[manifold]]s with boundaries and corners;
 
-* for $C$ any [[(âˆž,n)-category]] the [[(âˆž,n)-category]] $Fam_n(C)$
+* for $C$ any [[(âˆž,n)-category]] the [[(âˆž,n)-category of spans]] over $C$, denoted $Fam_n(C)$,
+
   whose 
 
   * [[object]]s are [[âˆž-groupoid]]s $P$ equipped with functors $F_P :P \to C$ 
