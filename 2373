@@ -16,7 +16,22 @@
 
     * [[(âˆž,1)-category]]
 
+      * [[quasi-category]]
+
+      * [[simplicially enriched category]]
+
+      * [[complete Segal space]]
+
+      * [[model category]]
+
     * [[(âˆž,0)-category]]/[[âˆž-groupoid]]
+
+      * [[Kan complex]]
+
+    * [[(âˆž,n)-category]]
+
+      * [[n-fold complete Segal space]]
+
 
 * [[geometric definition of higher category]]
 
@@ -25,6 +40,10 @@
   * [[quasi-category]]
 
   * [[simplicial model for weak Ï‰-categories]]
+
+    * [[complicial set]]
+
+    * [[weak complicial set]]
 
 * [[algebraic definition of higher category]]
 
