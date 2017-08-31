@@ -1,0 +1,99 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### $(\infty,1)$-Topos Theory
++--{: .hide}
+[[!include (infinity,1)-topos - contents]]
+=--
+=--
+=--
+
+#Contents#
+* table of contents
+{:toc}
+
+
+## Idea
+
+A [[site]] is **$\infty$-local** if it satisfies sufficient conditions for the [[(âˆž,1)-sheaf (âˆž,1)-topos]] over it to be a [[local (âˆž,1)-topos]].
+
+
+
+## Definition
+
++-- {: .un_def}
+###### Definition
+
+A [[site]] $C$ is **$\infty$-local** if 
+
+* it has a [[terminal object]];
+
+* the [[limit]]-functor $\lim_\leftarrow : [C^{op}, sSet] \to$ [[sSet]]
+  sends [[Cech nerve]] projections $C(U) \to X$ over [[covering]] families
+  $\{U_i \to X\}$ to [[weak homotopy equivalence]]s:
+
+  $$
+    Hom_C(*, C(U)) \stackrel{\simeq}{\to} Hom_C(*,X)
+    \,.
+  $$
+
+=--
+
+
++-- {: .un_remark}
+###### Remark
+
+If $C$ is also a [[strongly âˆž-connected site]] then it is an [[âˆž-cohesive site]].
+
+=--
+
+## Proposition
+
++-- {: .un_prop}
+###### Proposition
+
+For $C$ an $\infty$-local site, the [[(âˆž,1)-sheaf (âˆž,1)-topos]] $Sh_{(\infty,1)}(C)$ over it is a [[local (âˆž,1)-topos]].
+
+=--
+
+The proof is currently at [[âˆž-cohesive site]]. To me moved here.
+
+## Examples
+
+* [[CartSp]], [[ThCartSp]]
+
+
+## Related concepts
+
+* [[locally connected topos]] / [[locally âˆž-connected (âˆž,1)-topos]]
+
+  * [[connected topos]] / [[âˆž-connected (âˆž,1)-topos]]
+
+  * [[strongly connected topos]] / [[strongly âˆž-connected (âˆž,1)-topos]]
+
+  * [[totally connected topos]] / [[totally âˆž-connected (âˆž,1)-topos]]
+
+* [[local topos]] / [[local (âˆž,1)-topos]].
+
+* [[cohesive topos]] / [[cohesive (âˆž,1)-topos]]
+
+and
+
+* [[locally connected site]] / [[locally âˆž-connected site]]
+
+  * [[connected site]] / [[âˆž-connected site]]
+
+  * [[strongly connected site]] / [[strongly âˆž-connected site]]
+
+  * [[totally connected site]] / [[totally âˆž-connected site]]
+
+* [[local site]] / **âˆž-local site**
+
+* [[cohesive site]], [[âˆž-cohesive site]]
+
+
+[[!redirects âˆž-local site]]
+
+[[!redirects âˆž-local sites]]
+[[!redirects infinity-local sites]]
