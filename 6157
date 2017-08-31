@@ -41,7 +41,7 @@ Further generalization of the concept leads to [[(âˆž,n)-vector bundle]]s: an
 
 ### General
 
-Throughout we denote by $K$ an [[E-âˆž ring]] and by $A$ a $K$-algebra, hence an [[A-âˆž algebra]] in [[Spec]] equipped with a $\infty$-algebra homomorphism $K \to A$.
+Throughout we denote by $K$ an [[E-âˆž ring]] and by $A$ a $K$-[[algebra spectrum|algebra]], hence an [[A-âˆž algebra]] in [[Spec]] equipped with a $\infty$-algebra homomorphism $K \to A$.
 
 Write $A Mod$ for the [[(âˆž,1)-category]] of $A$-[[module spectrum|module spectra]].
 
