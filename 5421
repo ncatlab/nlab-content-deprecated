@@ -1,12 +1,18 @@
+
+# Context-free grammar
+* table of contents
+{: toc}
+
 ## Definition
 
 ...
 
+
 ## Early sources
 
-A notion of context-free grammar, now used in linguistics, computer science and mathematics has been introduced in the works of N. Chomsky. Here is list of some of the original references in English and also of their Russian translations. 
+The notion of context-free grammar, now used in [[linguistics]], [[computer science]] and [[mathematics]], was introduced in the works of [[Noam Chomsky]]. Here is list of some of the original references in English and also of their Russian translations. 
 
-* [[Noam Chomsky]], _Three models for the description of language, I. R. E.
+* N. Chomsky, _Three models for the description of language, I. R. E.
 Trans. PGIT 2 (1956), 113â€”124. (Ð ÑƒÑÑÐºÐ¸Ð¹ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´: Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ð., Ð¢Ñ€Ð¸
 Ð¼Ð¾Ð´ÐµÐ»Ð¸ Ð´Ð»Ñ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ ÑÐ·Ñ‹ÐºÐ°, ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº, Ð²Ñ‹Ð¿. 2, Ð˜Ð› 1961, 237-266)
 * N. Chomsky, _On certain formal properties of grammars_, Information
@@ -32,6 +38,7 @@ Control __1__ (1958), 91â€”-112. (Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ð., Ðœ�
 * N. Chomsky, M. P. SchÃ¼tzenberger, _The algebraic theory of
 context-free languages_, in: Computer programming and formal systems, 118â€“161 North-Holland 1963, Amsterdam [MR152391](http://www.ams.org/mathscinet-getitem?mr=152391) (ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº __3__, 195--242, 1966)
 
+
 ## Modern literature
 
 * wikipedia: [context-free language](http://en.wikipedia.org/wiki/Context-free_language)
@@ -42,7 +49,12 @@ Some chapters in "Handbook of formal language theory" (3 vols.), G. Rozenberg, A
 
 * Jean-Michel Autebert, Jean Berstel, Luc Boasson, _Context-free languages and push-down automata_, vol. 1, ch. 3 
 
+
+[[!redirects context-free grammar]]
 [[!redirects context-free grammars]]
 [[!redirects context free grammar]]
+[[!redirects context free grammars]]
 [[!redirects context-free language]]
 [[!redirects context-free languages]]
+[[!redirects context free language]]
+[[!redirects context free languages]]
