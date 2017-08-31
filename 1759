@@ -18,8 +18,9 @@ These comments should go in _reverse_ chronological order, so that the latest ar
 ## 2009-07-28
 
 *  [[Toby Bartels]]:
+   *  Incorporated results of discussion into [[effective epimorphism]] and [[regular epimorphism]].
    *  Everyone who uses â€˜$\sqcup$â€™ (`\sqcup`) should be aware of â€˜$\amalg$â€™ (`\amalg`) and â€˜$\coprod$â€™ (`\coprod`), as in â€˜$A \amalg B$â€™ and â€˜$\coprod_i A_i$â€™.
-   *  Interaction with [[Rafael Borwiecki]] at [[category theory]].
+   *  Interaction with [[Rafael Borowiecki]] at [[category theory]].
    *  Golf department?  *Golf* department???
 
 * [[Urs Schreiber]] created [[Kan fibrant replacement]]
