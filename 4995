@@ -3145,7 +3145,7 @@ Examples of [[âˆž-cohesive site]]s are
 
 * any category with finite [[product]]s and equipped with the trivial [[coverage]].
 
-* the [[full subcategory]] $TopBalls \subset$ [[Top]] on [[open ball]]s with the [[good open cover]] [[coverage]];
+* the [[full subcategory]] $CartSp_{top} \subset$ [[Top]] on [[open ball]]s with the [[good open cover]] [[coverage]];
 
 * the site [[CartSp]] of [[Cartesian space]]s with [[smooth function]]s between them and [[good open cover]] [[coverage]].
 
@@ -3154,11 +3154,16 @@ Examples of [[âˆž-cohesive site]]s are
 =--
 
 
+### Discrete $\infty$-groupoids
 
-
+* [[discrete âˆž-groupoid]]
 
 
 ### Continuous $\infty$-groupoids
+
+* [[continuous âˆž-groupoid]]
+
+(...)
 
 The cohesive $(\infty,1)$-topos $(\infty,1)Sh(TopBalls)$ is that of [[topological âˆž-groupoid]]s.
 
@@ -3200,6 +3205,10 @@ See [[nonabelian cohomology]] for more details.
 
 ### Smooth $\infty$-groupoids
 
+* [[smooth âˆž-groupoid]]
+
+(...)
+
 The cohesive $(\infty,1)$-topos $(\infty,1)Sh(CartSp)$ is that of [[smooth âˆž-groupoid]]s.
 
 The 0-[[truncated]] [[concrete (âˆž,1)-sheaf|concrete]] objects in this are precisely the [[diffeological space]]s. Accordingly the general [[concrete (âˆž,1)-sheaves]] here we may think of as **diffeological $\infty$-groupoids**.
@@ -3223,7 +3232,7 @@ This is shown at [[âˆž-Lie groupoid]].
 
 
 +-- {: .un_prop}
-###### Propositioon
+###### Proposition
 
 In $\mathbf{H} = $ [[âˆžLieGrpd]] the intrinsic definition of differemtial cohomology reproduces [[ordinary differential cohomology]]. 
 
@@ -3360,6 +3369,8 @@ $$
 
 
 ### Synthetic differential $\infty$-groupoids
+
+* [[synthetic differential âˆž-groupoid]]
 
 The $(\infty,1)$-topos $(\infty,1)Sh(ThCartSp)$ is that of [[smooth âˆž-groupoid|synthetic differential âˆž-groupoid]] 
 
