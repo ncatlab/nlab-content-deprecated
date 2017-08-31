@@ -22,7 +22,7 @@ The _hypercompletion_ ([Lurie](#Lurie)) or _$t$-completion_ ([Rezk](#Rezk), [To�
 +-- {: .un_defn}
 ###### Definition
 
-An [[(âˆž,1)-topos]] of [[(âˆž,1)-category of (âˆž,1)-sheaves|(âˆž,1)-sheaves]] is a **[[hypercomplete (âˆž,1)-topos]]**  if every $\infty$-[[connective]] morphism is an [[equivalence in an (âˆž,1)-category|equivalence]].
+An [[(âˆž,1)-topos]] of [[(âˆž,1)-category of (âˆž,1)-sheaves|(âˆž,1)-sheaves]] is a **[[hypercomplete (âˆž,1)-topos]]**  if every $\infty$-[[n-connective|connective]] morphism is an [[equivalence in an (âˆž,1)-category|equivalence]].
 
 =--
 
