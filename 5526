@@ -1,0 +1,97 @@
+
+**[[cohesive (âˆž,1)-topos]]**
+
+## Backround
+
+* [[(âˆž,1)-topos theory]]
+
+* [[higher geometry]]
+
+## Definition
+
+* [[locally connected topos]] / [[locally âˆž-connected (âˆž,1)-topos]]
+
+  * [[connected topos]] / [[âˆž-connected (âˆž,1)-topos]]
+
+  * [[strongly connected topos]] / [[strongly âˆž-connected (âˆž,1)-topos]]
+
+  * [[totally connected topos]] / [[totally âˆž-connected (âˆž,1)-topos]]
+
+* [[local topos]] / [[local (âˆž,1)-topos]].
+
+* [[cohesive topos]] / [[cohesive (âˆž,1)-topos]]
+
+
+## Construction
+
+* [[locally connected site]] / [[locally âˆž-connected site]]
+
+  * [[connected site]] / [[âˆž-connected site]]
+
+  * [[strongly connected site]] / [[strongly âˆž-connected site]]
+
+  * [[totally connected site]] / [[totally âˆž-connected site]]
+
+* [[local site]] / [[âˆž-local site]]
+
+* [[cohesive site]], [[âˆž-cohesive site]]
+
+
+## Structures in a cohesive $(\infty,1)$-topos
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#ConcreteObjects">concrete objects</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#GeometryAndStructureSheaves">geometry and structure sheaves</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#InfinGroups">cohesive âˆž-groups</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#Cohomology">cohomology and principal âˆž-bundles</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#Concordance">concordance</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#Homotopy">geometric homotopy and Galois theory</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#vanKampenTheorem">van Kampen theorem</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#Paths">paths and geometric Postnikov towers</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#Coverings">universal coverings and geometric Whitehead towers</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#FlatDifferentialCohomology">flat âˆž-connections and local systems</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#deRhamCohomology">de Rham cohomology</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#LieAlgebras">âˆž-Lie algebras</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#CurvatureCharacteristics">Maurer-Cartan forms and curvatue characteristic forms</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#DifferentialCohomology">differential cohomology</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#ChernWeilTheory">Chern-Weil homomorphism and âˆž-connections</a>
+
+* . <a href="http://ncatlab.org/nlab/show/cohesive+(infinity%2C1)-topos#ChernSimonsTheory">higher holonomy and Chern-Simons functional</a>
+
+## Models
+
+
+* [[discrete âˆž-groupoid]]
+
+  * [[discrete space]], [[discrete group]]
+
+* [[continuous âˆž-groupoid]]
+
+  * [[topological space]], [[topological groupoid]], [[topological group]]
+
+* [[smooth âˆž-groupoid]]
+
+  * [[smooth manifold]], [[diffeological space]], [[Lie group]], [[Lie groupoid]], [[Lie 2-group]], [[Lie 2-groupoid]]
+
+* [[synthetic differential âˆž-groupoid]]
+
+  * [[Lie algebra]], [[Lie algebroid]], [[âˆž-Lie algebra]], [[âˆž-Lie algebroid]]
+
+
+<div markdown="1">[Edit this sidebar](/nlab/edit/cohesive+infinity-toposes+-+contents)</div>
+
+
+
