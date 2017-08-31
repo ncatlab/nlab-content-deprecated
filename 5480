@@ -1,0 +1,92 @@
+
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### $(\infty,1)$-Topos Theory
++--{: .hide}
+[[!include (infinity,1)-topos - contents]]
+=--
+=--
+=--
+
+#Contents#
+* table of contents
+{:toc}
+
+
+## Idea
+
+A *totally $\infty$-connected site* is a [[site]] satisfying sufficient conditions to make the [[(âˆž,1)-sheaf (âˆž,1)-topos]] over it a [[totally âˆž-connected (âˆž,1)-topos]].
+
+
+## Definition
+
++-- {: .un_prop}
+###### Proposition
+
+
+Let $C$ be an [[âˆž-connected site]]; we say it is a **strongly $\infty$-connected site** if it is also a [[cofiltered (âˆž,1)-category]].
+
+=--
+
+## Properties
+
+
++-- {: .un_prop}
+###### Proposition
+
+If $C$ is a totally $\infty$-connected site, then the [[(âˆž,1)-sheaf (âˆž,1)-topos]] $Sh_{(\infty,1)}(C)$ over it is a [[totally âˆž-connected (âˆž,1)-topos]]. 
+
+=--
+
+
++-- {: .proof}
+###### Proof
+
+We need to check that the [[fundamental âˆž-groupoid in a locally âˆž-connected (âˆž,1)-topos]]-functor $\Pi : Sh_{(\infty,1)}(C) \to \infty Grpd$ preserves [[finite limit|finite]] [[(âˆž,1)-limit]]s.
+
+By the discussion at [[âˆž-connected site]] we have that $\Pi$ is given by the [[(âˆž,1)-colimit]] [[(âˆž,1)-functor]] $\lim_\to : Func(C^{op}, \infty Grpd) \to \infty Grpd$. On the [[opposite (âˆž,1)-category|opposite]] and therefore [[filtered (âˆž,1)-category]] $C^{op}$ these preserve finite [[(âˆž,1)-limit]]s.
+
+=--
+
+## Examples
+
+* [[CartSp]], [[ThCartSp]].
+
+## Related concepts
+
+* [[locally connected topos]] / [[locally âˆž-connected (âˆž,1)-topos]]
+
+  * [[connected topos]] / [[âˆž-connected (âˆž,1)-topos]]
+
+  * [[strongly connected topos]] / [[strongly âˆž-connected (âˆž,1)-topos]]
+
+  * [[totally connected topos]] / [[totally âˆž-connected (âˆž,1)-topos]]
+
+* [[local topos]] / [[local (âˆž,1)-topos]].
+
+* [[cohesive topos]] / [[cohesive (âˆž,1)-topos]]
+
+and
+
+* [[locally connected site]] / [[locally âˆž-connected site]]
+
+  * [[connected site]] / [[âˆž-connected site]]
+
+  * [[strongly connected site]] / [[strongly âˆž-connected site]]
+
+  * [[totally connected site]] / **totally âˆž-connected site**
+
+* [[local site]]
+
+* [[cohesive site]], [[(âˆž,1)-cohesive site]]
+
+
+
+
+
+[[!redirects totally âˆž-connected site]]
+
+[[!redirects totally âˆž-connected sites]]
+[[!redirects totally infinity-connected sites]]
