@@ -15,12 +15,11 @@ This establishes a statement (theorem 5.3) that characterizes [[âˆž-stack]]s 
 
 1. and respect [[(âˆž,1)-limit|(âˆž,1)-pullback]]s
 
-with those arising by [[Lie integration]] from an [[âˆž-Lie algebra]] $\mathfrak{g}$
+with those associated to an [[âˆž-Lie algebra]] $\mathfrak{g}$ in the sense of 
 
-$$
-  X \simeq \exp(\mathfrak{g})
-  \,.
-$$
+* [[Vladimir Hinich]], _DG coalgebras as formal stacks_ ([arXiv:math/9812034](http://arxiv.org/abs/math/9812034))
+
+The construction is then generalized to noncommutative geometry.
 
 
 category: reference
