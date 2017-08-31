@@ -21,7 +21,7 @@
 
 ## Idea
 
-$Pr(\infty,1)Cat$ is the [[(âˆž,1)-category]] of [[locally presentable (âˆž,1)-categories]] and colimit-preserving [[(âˆž,1)-functor]]s between them ([[Lawvere distribution]]s).
+$Pr(\infty,1)Cat$ is the [[(âˆž,1)-category]] of [[locally presentable (âˆž,1)-categories]] and [[(âˆž,1)-colimit]]-preserving [[(âˆž,1)-functor]]s between them ([[Lawvere distribution]]s).
 
 
 Recall that a [[presentable (âˆž,1)-category]] is a [[localization of an (âˆž,1)-category|localization]] of a [[(âˆž,1)-category of (âˆž,1)-presheaves]]. In particular it has all small [[colimit]]s. An [[(âˆž,1)-functor]] $C \times D \to E$ from the cartesian product of two presentable $(\infty,1)$-categories is _bilinear_ if it respects colimits in both variables.
@@ -43,13 +43,12 @@ Using $Pr(\infty,1)Cat$ with its notion of "linearity" one obtains a very genera
 
 ### Unstable version
 
-Write $Pr(\infty,1)Cat_1$ for the sub-$(\infty,1)$-category of the [[(âˆž,1)-category of (âˆž,1)-categories]] whose
+Write $Pr(\infty,1)Cat_1$ for the full [[sub-(âˆž,1)-category]] of the [[(âˆž,1)-category of (âˆž,1)-categories]] whose
 
 * objects are [[presentable (âˆž,1)-category|presentable (âˆž,1)-categories]];
 
-* morphisms are [[limit in a quasi-category|colimit]]-preserving [[(âˆž,1)-functor]]s.
+* morphisms are [[(âˆž,1)-colimit]]-preserving [[(âˆž,1)-functor]]s.
 
-With $C \times D \to C \otimes D$ the tensor product obtainmed as the universal colimit-preserving functor, $Pr(\infty,1)Cat_1^L$ becomes a [[symmetric monoidal (âˆž,1)-category]].
 
 
 ### Stable version
@@ -127,6 +126,9 @@ onto the full [[sub-(âˆž,1)-category]] of those functors, that preserves coli
 =--
 
 This is  ([Lurie, NA, theorem 4.1.4](#LurieNoncommutative))
+
+This tensor product makes $Pr(\infty,1)Cat$ a [[symmetric monoidal (âˆž,1)-category]].
+
 
 ## As $\infty$-vector spaces
 
