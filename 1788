@@ -1862,18 +1862,18 @@ Something to break-up the code
 
 __style="background-color:white; text-align:center"__
 
-     A   A                         
-     o---o       o---o             
-     |           |                 
-     @     =     @     =     @     
+    A   A                    
+    o---o       o---o        
+    |           |            
+    @     =     @     =     @
 {: style="background-color:#ffffff; text-align:center"}
 
 __style="background-color:ghostwhite; font-weight:bold; text-align:center"__
 
-     A   A                         
-     o---o       o---o             
-     |           |                 
-     @     =     @     =     @     
+    A   A                    
+    o---o       o---o        
+    |           |            
+    @     =     @     =     @
 {: style="background-color:#f8f8ff; font-weight:bold; text-align:center"}
 
 ***
