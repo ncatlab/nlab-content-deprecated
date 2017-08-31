@@ -1,0 +1,8 @@
+[[!redirects Internal âˆž-groupoid]]
+The [[Kan complex]] definition of [[âˆž-groupoid]] immediately generalizes to an arbitrary category. Namely, if $C$ is a cetegory, a âˆž-$C$-groupoid is a Kan object in $C$, i.e., a [[simplicial object]] in $C$ which satisfies the Kan conditions. In this sense, an âˆž-groupoid is a âˆž-$Sets$-groupoid. 
+
+Classical examples are topological âˆž-groupoids. The [[nerve]] construction makes a topological âˆž-groupoid from a topological groupoid. This is actually a characterization of topological groupoids among topological categories.
+
+In particular, if $G$ is a topological group, then $N(\mathbf{B}G)$ is a topological âˆž-groupoid. This is relevant to the construction of the [[classifying space]]s for continuous [[principal bundle]]s.
+
+Another classical example are âˆž-Lie-groupoids.
