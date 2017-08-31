@@ -13,19 +13,6 @@
 =--
 =--
 
-* [[âˆž-Lie algebroid valued differential forms]]
-
-* [[connection on an âˆž-bundle]]
-
-* [[curvature]]
-
-* [[Bianchi identity]]
-
-* [[curvature characteristic form]]
-
-* **Chern-Simons form**
-
-***
 
 
 #Contents#
@@ -707,6 +694,20 @@ $$
   }
   \,.
 $$
+
+## Related concepts
+
+* [[âˆž-Lie algebroid valued differential forms]]
+
+* [[connection on an âˆž-bundle]]
+
+* [[curvature]]
+
+* [[Bianchi identity]]
+
+* [[curvature characteristic form]]
+
+* **Chern-Simons form**
 
 
 
