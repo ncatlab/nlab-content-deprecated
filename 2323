@@ -53,8 +53,9 @@
 
 * [[(âˆž,1)-geometric morphism]]
 
-* [[(âˆž,1)Toposes]]
+* [[(âˆž,1)Topos]]
 
+* [[Lawvere distribution]]
 
 ## Extra stuff, structure and property
 
@@ -100,7 +101,7 @@
 
 ## Constructions  ##
 
-**[[schreiber:structures in an (âˆž,1)-topos]]**
+**structures in a [[cohesive (âˆž,1)-topos]]**
 
 * [[shape of an (âˆž,1)-topos|shape]] / [[coshape of an (âˆž,1)-topos|coshape]]
 
@@ -110,7 +111,7 @@
 
   * [[fundamental âˆž-groupoid in a locally âˆž-connected (âˆž,1)-topos]]/[[fundamental âˆž-groupoid of a locally âˆž-connected (âˆž,1)-topos|of a locally âˆž-connected (âˆž,1)-topos]]
 
-  * [[categorical homotopy groups in an (âˆž,1)-topos|categorical]]/[[geometric homotopy groups in an (âˆž,1)-topos|geometric]]
+  * [[categorical homotopy groups in an (âˆž,1)-topos|categorical]]/[[geometric homotopy groups in an (âˆž,1)-topos|geometric]] homotopy groups
 
   * [[Postnikov tower in an (âˆž,1)-category|Postnikov tower]]
 
