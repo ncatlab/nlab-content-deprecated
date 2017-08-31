@@ -1,14 +1,16 @@
-This entry is about Ã©tale morphisms in the sense of algebraic geometry. Word Ã©tale map is preffered in differentiable and topological contexts, see [[etale space]] for the topological version. 
+This entry is about Ã©tale morphisms in the sense of [[algebraic geometry]]. The word [[etale map|Ã©tale map]] is preffered in differentiable and topological contexts, see [[Ã©talÃ© space]] for the topological version. 
 
 Recall that for a [[smooth morphism of schemes]] $f:X\to Y$ we can define a relative dimension in every point $X$. 
 A morphism of [[schemes]] is **Ã©tale** if it is a smooth morphism and if it is of relative dimension $0$. Equivalently, it is [[flat morphism|flat]] and unramified. 
-Property of being Ã©tale is preserved under pullbacks along any morphism of schemes; the composition of Ã©tale maps is Ã©tale.
+The property of being Ã©tale is [[base change|preserved under pullbacks]] along any morphism of schemes; a [[composite]] of Ã©tale maps is Ã©tale.
 
-There is a weaker notion of a formally Ã©tale morphism. A morphism is **formally Ã©tale** if it is [[formally smooth]] (satisfying infinitesimal lifting property) and formally unramified. These are sheaf-like properties, what can be formalized in the language of [[Q-categories]] ([[monopresheaf]] and epipresheaf properties on the Q-category of nilpotent thickenings). 
+There is a weaker notion of a formally Ã©tale morphism. A morphism is **formally Ã©tale** if it is [[formally smooth]] (satisfying an infinitesimal lifting property) and formally unramified. These are sheaf-like properties, what can be formalized in the language of [[Q-categories]] ([[monopresheaf]] and [[epipresheaf]] properties on the $Q$-category of nilpotent thickenings). 
 
-Etale morphisms are used to define small and big Ã©tale sites and [[Ã©tale cohomology]]. Etale topology has similar cohomological properties to complex analytic topology, and in particular it is much finer for cohomological purposes than the Zariski topology. 
+Ã‰tale morphisms are used to define small and big [[etale site|Ã©tale sites]] and [[Ã©tale cohomology]]. Ã‰tale topology has similar cohomological properties to complex [[analytic topology]], and in particular it is much finer for cohomological purposes than the [[Zariski topology]]. 
+
 
 [[!redirects etale morphism of schemes]]
 [[!redirects Ã©tale morphism]]
 [[!redirects Ã©tale morphism of schemes]]
 [[!redirects formally etale morphism]]
+[[!redirects formally Ã©tale morphism]]
