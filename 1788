@@ -1860,6 +1860,14 @@ Something to break-up the code
     quite a lot of code
 {: style="background-color:#ffffff"}
 
+__style="background-color:white; text-align:center"__
+
+     A   A                         
+     o---o       o---o             
+     |           |                 
+     @     =     @     =     @     
+{: style="background-color:#ffffff; text-align:center"}
+
 ***
 
 category: meta
