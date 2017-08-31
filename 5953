@@ -1,0 +1,29 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Higher algebra
++--{: .hide}
+[[!include higher algebra - contents]]
+=--
+=--
+=--
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+A _coherent $(\infty,1)$-operad_ is an [[(âˆž,1)-operad]] $\mathcal{O}$ whose [[âˆž-module over an âˆž-algebra over an (âˆž,1)-operad|modules]] over $\mathcal{O}$-[[algebra over an (âˆž,1)-operad|algebras]] come equipped with a well behaved [[tensor product]]
+
+## References
+
+Section 3.3.1 of 
+
+* [[Jacob Lurie]], _[[Higher Algebra]]_
+
+[[!redirects coherent (âˆž,1)-operad]]
+
+[[!redirects coherent (âˆž,1)-operads]]
+[[!redirects coherent (infinity,1)-operads]]
