@@ -13,24 +13,28 @@
 * table of contents
 {:toc}
 
+## Idea
+
+Just as the [[shape of an (âˆž,1)-topos]] is the functor $\infty Gpd\to \infty Gpd$ which it *corepresents* (after identifying âˆž-groupoids with their presheaf (âˆž,1)-topoi), so the *coshape* of an (âˆž,1)-topos is the functor $\infty Gpd^{op}\to \infty Gpd$ which it *represents*.
+
+Unlike the shape, which is only (co)representable (by an âˆž-groupoid) when the topos is [[locally âˆž-connected (âˆž,1)-topos|locally âˆž-connected]], the coshape is *always* representable, albeit possibly by a *large* âˆž-groupoid---specifically the âˆž-groupoid of [[point of a topos|points]] of the (âˆž,1)-topos in question.
+
+
 ## Definition
 
 +-- {: .un_defn}
 ###### Definition
 
-For $\mathbf{H}$ an [[(âˆž,1)-topos]] we say its **co-shape** $\Gamma \mathbf{H}$  is the object
+For $\mathbf{H}$ an [[(âˆž,1)-topos]] we say its **co-shape** $\Gamma \mathbf{H}$ is the functor $\Gamma(\mathbf{H}) \colon \infty Gpd^{op}\to \infty Gpd$ defined by
 
 $$
-  \Gamma(\mathbf{H}) : A
-  \mapsto
-  (\infty,1)Topos((\infty,1)PSh(A), \mathbf{H})
-  \in
-  (\infty,1)\hat Sh(\infty Grpd)
+  \Gamma(\mathbf{H})(A) =
+  Topos(PSh(A), \mathbf{H})
 $$
-
-in the [[huge (âˆž,1)-sheaf (âˆž,1)-topos]] on [[âˆžGrpd]].
 
 =--
+
+We can, if we wish, regard $\Gamma \mathbf{H}$ as an object of the [[very large (âˆž,1)-sheaf (âˆž,1)-topos]] on [[âˆžGrpd]].
 
 +-- {: .un_remark}
 ###### Remark
