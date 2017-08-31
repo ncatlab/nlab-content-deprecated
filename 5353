@@ -1,0 +1,51 @@
+
+
+#Contents#
+* table of contents
+{:toc}
+
+## Definition
+
++-- {: .un_defn}
+###### Definition
+
+For $X$ a [[scheme]], a set $\{p_i : U_i \to X\}$ of [[Ã©tale morphism]]s that [[cover]] $X$
+
+$$
+  X \simeq \coprod_i p_i(U_i)
+$$
+
+is an **Ã©tale cover** of $X$.
+
+=--
+
+The [[Ã©tale site]] has [[covering]]s given by the Ã©tale covers.
+
+## Properties
+
++-- {: .un_prop}
+###### Proposition
+
+Every Ã©tale cover is a [[cover]] in the [[fpqc topology]].
+
+=--
+
+This appears for instance as ([de Jong, lemma 3.3](#deJong)).
+
+## References
+
+* de Jong, _&Eacute;tale cohomology_ ([pdf](http://math.columbia.edu/~pugin/Teaching/Etale_files/EtaleCohomology.pdf))
+{#deJong}
+
+
+[[!redirects etale covers]]
+
+[[!redirects Ã©tale cover]]
+[[!redirects Ã©tale covers]]
+
+
+[[!redirects etale covering]]
+[[!redirects etale coverings]]
+
+[[!redirects Ã©tale covering]]
+[[!redirects Ã©tale coverings]]
