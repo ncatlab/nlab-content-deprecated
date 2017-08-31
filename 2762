@@ -224,7 +224,7 @@ Such objects are called [[âˆž-stack]]s on $\mathcal{G}$. The [[(âˆž,1)-cat
 
 A supposedly pedagogical discussion of the general philosophy of [[âˆž-stacks]] as probebable spaces is at [[motivation for sheaves, cohomology and higher stacks]].
 
-The [[âˆž-stack]]s on $\mathcal{G}$ that are used in the following are those that satisfy [[descent]] on [[Cech cover]]s. But we will see [[(âˆž,1)-topos]]es of [[âˆž-stack]]s that may satisfy different descent conditions, in particular with respect to [[hypercover]]s. Every [[âˆž-stack]] [[(âˆž,1)-topos]] has a [[hypercompletion]] to one of this form.
+The [[âˆž-stack]]s on $\mathcal{G}$ that are used in the following are those that satisfy [[descent]] on [[ÄŒech cover]]s. But we will see [[(âˆž,1)-topos]]es of [[âˆž-stack]]s that may satisfy different descent conditions, in particular with respect to [[hypercover]]s. Every [[âˆž-stack]] [[(âˆž,1)-topos]] has a [[hypercompletion]] to one of this form.
 
 For concretely working with [[hypercomplete (âˆž,1)-topos]]es it is often useful to use [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model structure on simplicial presheaves]].
 
