@@ -25,9 +25,11 @@
 
   * [[2-groupoid]]
 
-  * [[strict Ï‰-groupoid|strict âˆž-groupoid]]
+  * [[strict âˆž-groupoid]]
 
     * [[crossed complex]]
+
+* [[âˆž-group]]
 
   * [[simplicial group]]
 
@@ -46,36 +48,38 @@
 
   * [[âˆž-Lie groupoid|strict âˆž-Lie groupoid]]
 
-  * [[Lie group]]
-
   * [[Lie groupoid]]
 
     * [[differentiable stack]]
 
     * [[orbifold]]
 
+* [[âˆž-Lie group]]
 
+  * [[Lie group]]
+
+  * [[Lie 2-group]]
 
 ## âˆž-Lie algebroids
 
-* [[Lie-âˆž-algebroid]]
-
-* [[L-âˆž-algebra]]
-
-* [[Lie algebroid]]
-
-* [[Lie algebra]]
-
-* [[Lie 2-algebra]]
-
-* [[strict Lie 2-algebra]]
-
-  * [[differential crossed module]]
-
-* [[Lie 3-algebra]]
+* [[âˆž-Lie algebroid]]
+  
+  * [[Lie algebroid]]
 
 * [[Lie âˆž-algebroid representation]]
 
+
+* [[L-âˆž-algebra]]
+
+  * [[Lie algebra]]
+
+  * [[Lie 2-algebra]]
+
+    * [[strict Lie 2-algebra]]
+
+    * [[differential crossed module]]
+
+* [[Lie 3-algebra]]
 
 
 ## Integration and differentiation
