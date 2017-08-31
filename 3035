@@ -1,0 +1,127 @@
+
+**[[schreiber:âˆž-Lie theory|âˆž-Lie theory]]**
+
+## Context
+
+* [[âˆž-groupoid]]
+
+  * [[strict Ï‰-groupoid|strict âˆž-groupoid]]
+
+  * [[crossed complex]]
+
+* [[Lie theory]]
+
+  * [[Lie's three theorems]]
+
+  * [[Lie theory for stacky Lie groupoids]]
+
+* [[schreiber:smooth (âˆž,1)-topos|smooth (âˆž,1)-topos]]
+
+
+## $\infty$-Lie groupoids
+
+* [[schreiber:âˆž-Lie groupoid|âˆž-Lie groupoid]]
+
+  * [[schreiber:strict âˆž-Lie groupoid|strict âˆž-Lie groupoid]]
+
+  * [[differentiable stack]]
+
+* [[Lie group]]
+
+* [[Lie groupoid]]
+
+  * [[orbifold]]
+
+### Examples
+
+* [[orthogonal group]]
+
+* [[spin group]]
+
+* [[string 2-group]]
+
+* [[fivebrane 6-group]]
+
+* [[Atiyah Lie groupoid]]
+
+* [[schreiber:path âˆž-groupoid|path âˆž-groupoid]]
+
+  * [[path groupoid]]
+
+  * [[path n-groupoid]]
+
+
+## $\infty$-Lie algebroids
+
+* [[Lie-âˆž-algebroid]]
+
+* [[L-âˆž-algebra]]
+
+* [[Lie algebroid]]
+
+* [[Lie algebra]]
+
+* [[strict Lie 2-algebra]]
+
+  * [[differential crossed module]]
+
+* [[Lie âˆž-algebroid representation]]
+
+
+### Examples
+
+* [[string Lie 2-algebra]]
+
+* [[supergravity Lie 3-algebra]]
+
+* [[tangent Lie algebroid]]
+
+  * [[schreiber:infinitesimal path âˆž-groupoid|infinitesimal path âˆž-groupoid]]
+
+* [[Atiyah Lie algebroid]]
+
+* [[n-symplectic manifold]]
+
+  * [[symplectic manifold]]
+
+  * [[Poisson Lie algebroid]]
+
+  * [[Courant Lie algebroid]]
+
+    * [[generalized complex geometry]]
+
+## Integration and differentiation
+
+* [[Lie integration]]
+
+## Cohomology
+
+* [[Lie algebra cohomology]]
+
+  * [[Chevalley-Eilenberg algebra]]
+
+  * [[Weil algebra]]
+
+  * [[invariant polynomial]]
+
+* [[nonabelian Lie algebra cohomology]]
+
+## âˆž-Chern-Weil theory ##
+
+* [[schreiber:invariant polynomial on âˆž-Lie algebroid|invariant polynomial on âˆž-Lie algebroid]]
+
+* [[schreiber:theory of differential nonabelian cohomology|theory of differential nonabelian cohomology]]
+
+  * [[schreiber:âˆž-Lie algebroid valued differential forms|âˆž-Lie algebroid valued differential forms]]
+
+    * [[schreiber:curvature|curvature]]
+
+  * [[schreiber:Cartan-Ehresmann âˆž-connection|Cartan-Ehresmann âˆž-connection]]
+
+
+
+
+<div markdown="1">[Edit this sidebar](/nlab/edit/infinity-Lie+theory+-+contents)</div>
+
+
+
