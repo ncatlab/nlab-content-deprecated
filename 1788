@@ -10,7 +10,7 @@ Every wiki needs a sandbox! Just test _below_ and don't worry about messing thin
 
 # Contents #
 
-* a few bytes for the docbot to eat while building the toc
+* a few bytes for the docbot to munch while building the toc
 {:toc}
 
 ***
@@ -1867,6 +1867,14 @@ __style="background-color:white; text-align:center"__
      |           |                 
      @     =     @     =     @     
 {: style="background-color:#ffffff; text-align:center"}
+
+__style="background-color:ghostwhite; font-weight:bold; text-align:center"__
+
+     A   A                         
+     o---o       o---o             
+     |           |                 
+     @     =     @     =     @     
+{: style="background-color:#f8f8ff; font-weight:bold; text-align:center"}
 
 ***
 
