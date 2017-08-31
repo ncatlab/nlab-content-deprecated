@@ -10,7 +10,15 @@ An automaton is an abstract concept of machine, which consists of states and pro
 
 ## Definition
 
-An __automaton__ is formally definable as in [[Joy of Cats]] as a sextuple ....  
+An __automaton__ is formally definable as in [[Joy of Cats]] as a sextuple ($Q$, Î£, $Y$, Î´,  $q_{0}$, $y$), where $Q$ is the set of states,  Î£ and $Y$ are the sets of input symbols and output symbols, respectively,  Î´:  Î£ $\times$ $Q$ $\to$ $Q$ is the transition map, $q_{0}$ Ïµ $Q$ is the initial state, and $y$: $Q$ $\to$ $Y$ is the output map.  Morphisms from an automaton ($Q$, Î£, $Y$, Î´,  $q_{0}$, $y$) to an automaton ($Q$â€², Î£â€², $Y$â€², Î´â€²,  $q_{0}$â€², $y$â€²) are triples ($f_{Q}$, $f_{\Sigma}$, $f_{Y}$) of functions $f_{Q}:  Q \to Q\prime$,  $f_{\Sigma}: \Sigma \to \Sigma$,  and $f_{Y}:  Q \to Q$ satisfying the following conditions:
+
+(i) preservation of transition: 
+    $\delta\prime(f_{\Sigma}(\gamma), f_{Q}(q)) =      f_{Q}(\delta(\gamma, q))$,
+
+(ii) preservation of outputs: $f_{Y}$($y$($q$)) = $y$$\prime(f_{Q}(q))$,
+
+(iii) preservation of initial state: 
+      $f_{Q}(q_{0}) = q_{0}\prime$.    
 
 A __deterministic sequential Moore automaton__ is ....
 
