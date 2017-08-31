@@ -1,5 +1,16 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Topology
++--{: .hide}
+[[!include topology - contents]]
+=--
+=--
+=--
+
 #Contents#
-* automatic table of contents goes here
+* table of contents
 {:toc}
 
 ## Idea
@@ -37,17 +48,21 @@ $$
 
 of the bundle projection.
 
+## Related concepts
+
+* [[Thom spectrum]]
+
 ## References
 
 * [[eom]], _[Thom space](http://eom.springer.de/t/t092680.htm)_
 
-* [[Rene Thom]],   _Quelques propriÃ©tÃ©s globales des variÃ©tÃ©s diffÃ©rentiables_  Comm. Math. Helv. , 28  (1954)  pp. 17â€“86
+* [[RenÃ© Thom]],   _Quelques propriÃ©tÃ©s globales des variÃ©tÃ©s diffÃ©rentiables_  Comm. Math. Helv. , 28  (1954)  pp. 17â€“86
 
 * R.E. Stong, _Notes on cobordism theory_ , Princeton Univ. Press  (1968)
 
 * W.B. Browder, _Surgery on simply-connected manifolds_ , Springer  (1972)
 
-* [[Dave HusemÃ¶ller]], _Fibre bundles_ , McGraw-Hill  (1966)
+* [[Dale HusemÃ¶ller]], _Fibre bundles_ , McGraw-Hill  (1966)
 
 * [[Michael Atiyah]], _Thom complexes_, Proc. London Math. Soc. __11__  (1961)  pp. 291â€“310
 
