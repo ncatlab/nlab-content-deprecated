@@ -1,7 +1,16 @@
 
 **[[schreiber:âˆž-Lie theory|âˆž-Lie theory]]**
 
-## Context
+## Background
+
+
+* [[smooth space]]
+
+  * [[smooth manifold]]
+
+  * [[diffeological space]]
+
+  * [[FrÃ¶licher space]]
 
 * [[âˆž-groupoid]]
 
@@ -15,22 +24,21 @@
 
   * [[Lie theory for stacky Lie groupoids]]
 
-* [[schreiber:smooth (âˆž,1)-topos|smooth (âˆž,1)-topos]]
-
 
 ## âˆž-Lie groupoids
 
-* [[schreiber:âˆž-Lie groupoid|âˆž-Lie groupoid]]
+* [[âˆž-Lie groupoid]]
 
   * [[schreiber:strict âˆž-Lie groupoid|strict âˆž-Lie groupoid]]
 
-  * [[differentiable stack]]
+  * [[Lie group]]
 
-* [[Lie group]]
+  * [[Lie groupoid]]
 
-* [[Lie groupoid]]
+    * [[differentiable stack]]
 
-  * [[orbifold]]
+    * [[orbifold]]
+
 
 ### Examples
 
@@ -44,7 +52,7 @@
 
 * [[Atiyah Lie groupoid]]
 
-* [[path âˆž-groupoid]]
+* [[schreiber:path âˆž-groupoid]]
 
   * [[path groupoid]]
 
@@ -75,8 +83,6 @@
 * [[supergravity Lie 3-algebra]]
 
 * [[tangent Lie algebroid]]
-
-  * [[schreiber:infinitesimal path âˆž-groupoid|infinitesimal path âˆž-groupoid]]
 
 * [[Atiyah Lie algebroid]]
 
@@ -110,14 +116,7 @@
 
 * [[schreiber:invariant polynomial on âˆž-Lie algebroid|invariant polynomial on âˆž-Lie algebroid]]
 
-* [[schreiber:theory of differential nonabelian cohomology|theory of differential nonabelian cohomology]]
-
-  * [[schreiber:âˆž-Lie algebroid valued differential forms|âˆž-Lie algebroid valued differential forms]]
-
-    * [[schreiber:curvature|curvature]]
-
-  * [[schreiber:Cartan-Ehresmann âˆž-connection|Cartan-Ehresmann âˆž-connection]]
-
+* [[schreiber:âˆž-Lie algebroid valued differential forms|âˆž-Lie algebroid valued differential forms]]
 
 
 
