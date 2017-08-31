@@ -6,6 +6,10 @@
 +-- {: .hide}
 [[!include topos theory - contents]]
 =--
+#### Geometry
++--{: .hide}
+[[!include higher geometry - contents]]
+=--
 =--
 =--
 
@@ -76,6 +80,8 @@ The [[derived geometry]] of the Ã©tale site is the [[Ã©tale (âˆž,1)-site]
 * [[Ã©tale morphism]], **Ã©tale site**, [[Ã©tale topos]], [[Ã©tale cohomology]]
 
 * [[Ã©tale (âˆž,1)-site]]
+
+* [[fppf-site]], [[fpqc-site]]
 
 ## References
 
