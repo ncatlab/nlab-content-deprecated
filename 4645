@@ -18,7 +18,7 @@
 
 ## Idea
 
-Ordinary [[Chern-Weil theory]] studies [[connection on a bundle|connections]] on $G$-[[principal bundle]]s over a [[Lie group]] $G$. In [[(âˆž,1)-category theory]] these generalize to connections on [[principal âˆž-bundle]]s over [[âˆž-Lie group]]s $G$. **[[âˆž-Chern-Weil theory]]** deals with these higher connections and their relation to [[ordinary differential cohomology]].
+Ordinary [[Chern-Weil theory]] studies [[connection on a bundle|connections]] on $G$-[[principal bundle]]s over a [[Lie group]] $G$. In the context of the [[cohesive (âˆž,1)-topos]] [[âˆžLieGrpd]] of [[âˆž-Lie groupoid]]s these generalize to [[connection on an âˆž-bundle|âˆž-connections]] on [[principal âˆž-bundle]]s over [[âˆž-Lie group]]s $G$. Accordingly **[[âˆž-Chern-Weil theory]]** deals with these higher connections and their relation to [[ordinary differential cohomology]].
 
 Here we describe some introducory basics of the general theory in concrete terms.
 
