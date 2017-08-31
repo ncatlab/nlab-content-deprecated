@@ -48,11 +48,11 @@ $$
      Sh_{(\infty,1)}(CartSp\times SuperPoint, \infty Grpd)
     \\
     & =:
-     Sh_{(\infty,1)}(CartSp\times SuperPoint, \infty Grpd)
+     Sh_{(\infty,1)}(CartSp\times SuperPoint)
   \end{aligned}
 $$
 
-be the [[(âˆž,1)-sheaf (âˆž,1)-topos]] of [[smooth super âˆž-groupoid]]s. This is cohesive over $Super \infty Grpd$.
+be the [[(âˆž,1)-sheaf (âˆž,1)-topos]] of [[smooth super âˆž-groupoid]]s. This is cohesive over the [[base topos]] $Super \infty Grpd$.
 
 ## References
 
@@ -91,3 +91,5 @@ The site of formal duals not just to [[Grassmann algebra]]s but to all super-[[i
 
 
 [[!redirects super âˆž-groupoid]]
+
+[[!redirects SuperâˆžGrpd]]
