@@ -159,6 +159,8 @@ I would like to *also* mention â€˜$(n,k)$-transformationâ€™ (or maybe �
 _Toby_:  One could also say â€˜$n$-natural $k$-transformationâ€™, which fits (what Crans claims on page 2 to be standard) â€˜$2$-natural transformationâ€™ for a strict $(2,1)$-transformation.  But I still like â€˜$k$-transforâ€™ when $n$ is suppressed (which should be the default).
 
 _Mike_: What about "$n$-categorical $k$-transfor" if it is necessary to specify $n$?
+
+_Toby_:  That works too.  (Well, I don\'t like 'categorical', but that\'s a separate issue.)
 =--
 
 
