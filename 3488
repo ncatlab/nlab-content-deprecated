@@ -128,7 +128,7 @@ In this case we call for $X \in \mathbf{H}$ the [[n-groupoid]] $\Pi_n(X)$ the **
 
 A locally $n$-connected $(n,1)$-topos for $n = \infty$ we call a **locally âˆž-connected $(\infty,1)$-topos**. 
 
-In this case $\Pi = \Pi_\infty$ is the [[schreiber:homotopy âˆž-groupoid]] functor.
+In this case $\Pi = \Pi_\infty$ is the operation of forming the **[[fundamental âˆž-groupoid in a locally âˆž-connected (âˆž,1)-topos]]**.
 
 
 
