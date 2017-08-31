@@ -28,7 +28,24 @@ An [[(âˆž,1)-category]] is **sifted** if a [[quasi-category]] $K \in sSet$ mo
 
 ## Properties
 
-* In a category of commutative monoids in a symmetric monoidal $(\infty,1)$-category, sifted colimits are computed as sifted colimits in the underlying $(\infty,1)$-category. See [[commutative monoid in a symmetric monoidal (âˆž,1)-category]] for details.
++-- {: .un_prop }
+###### Proposition
+
+
+In a category of commutative monoids in a symmetric monoidal $(\infty,1)$-category, sifted colimits are computed as sifted colimits in the underlying $(\infty,1)$-category. See [[commutative monoid in a symmetric monoidal (âˆž,1)-category]] for details.
+
+=--
+
++-- {: .un_prop }
+###### Proposition
+
+Let $K$ be a sifted $(\infty,1)$-category and let $C$ be an [[(âˆž,1)-category]] with $K$-shaped [[(âˆž,1)-colimit]]s and finite [[(âˆž,1)-products]] such that [[(âˆž,1)-colimit]]s of shape $K$ are preserved by finite [[(âˆž,1)-product]]s.
+
+Then $K$-shaped [[(âˆž,1)-colimit]]s in $C$ commute with finite products. 
+
+=--
+
+This is [[Higher Topos Theory|HTT, lemma 5.5.8.1]].
 
 ## Examples
 
@@ -54,3 +71,8 @@ Section 5.5.8 of
 [[!redirects sifted (infinity,1)-categories]]
 [[!redirects sifted (âˆž,1)-category]]
 [[!redirects sifted (âˆž,1)-categories]]
+
+[[!redirects cosifted (infinity,1)-category]]
+[[!redirects cosifted (infinity,1)-categories]]
+[[!redirects cosifted (âˆž,1)-category]]
+[[!redirects cosifted (âˆž,1)-categories]]
