@@ -16,9 +16,17 @@ It
 
 * reviews basics of [[elliptic cohomology]]
 
-* indicates the construction of the [[tmf]] [[spectrum]]
+* indicates the construction of the [[tmf]]-[[spectrum]]
 
 * and discusses this in the context of [[equivariant cohomology]].
+
+The central theorem is 
+
+* the realization of the moduli space of [[elliptic curve]]s as a [[structured (âˆž,1)-topos]] 
+
+* with a structure [[(âˆž,1)-sheaf]] of [[E-âˆž ring]]-valued functions 
+
+* such that the [[tmf]]-[[spectrum]] is the [[E-âˆž ring]] of global sections of this structure sheaf.
 
 =--
 
