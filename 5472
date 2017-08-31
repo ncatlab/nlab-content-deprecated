@@ -25,11 +25,34 @@ A [[site]] is **locally $\infty$-connected** if it has properties that ensure th
 
 
 
-* [[locally connected site]], **locally $\infty$-connected site**
+* [[locally connected topos]] / [[locally âˆž-connected (âˆž,1)-topos]]
 
-* [[local site]]
+  * [[connected topos]] / [[âˆž-connected (âˆž,1)-topos]]
 
-* [[cohesive site]], [[(âˆž,1)-cohesive site]]
+  * [[strongly connected topos]] / [[strongly âˆž-connected (âˆž,1)-topos]]
+
+  * [[totally connected topos]] / [[totally âˆž-connected (âˆž,1)-topos]]
+
+* [[local topos]] / [[local (âˆž,1)-topos]].
+
+* [[cohesive topos]] / [[cohesive (âˆž,1)-topos]]
+
+and
+
+* [[locally connected site]] / **locally âˆž-connected site**
+
+  * [[connected site]] / [[âˆž-connected site]]
+
+  * [[strongly connected site]] / [[strongly âˆž-connected site]]
+
+  * [[totally connected site]] / [[totally âˆž-connected site]]
+
+* [[local site]] / [[âˆž-local site]]
+
+* [[cohesive site]], [[âˆž-cohesive site]]
+
+
+
 
 [[!redirects locally âˆž-connected site]]
 
