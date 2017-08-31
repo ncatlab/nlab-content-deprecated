@@ -3,15 +3,20 @@ Higher geometry studies [[vertical categorification]]s of [[geometry]].
 
 # related entries #
 
-* [[higher topos theory]]
+* [[(âˆž,1)-topos]]
 
-  * [[âˆž-space]]
+  * [[higher topos theory]]
+
+    * [[âˆž-space]]
 
     * [[âˆž-stack]]
 
-* [[structured generalized space]]
+* [[structured (âˆž,1)-topos]]
+
+  * [[geometry (for structured (âˆž,1)-toposes)]]
 
   * [[generalized scheme]]
 
     * [[derived algebraic geometry]]
 
+  * [[derived smooth manifold]]
