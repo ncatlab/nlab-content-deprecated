@@ -258,7 +258,7 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
 * the [[(âˆž,1)-category of (âˆž,1)-categories]]
 
-* [[Grothendieck construction]]
+* [[(âˆž,1)-Grothendieck construction]]
 
   * [[cartesian fibration]]
 
@@ -274,7 +274,6 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
 ##4 Limits and Colimits {#Limits}
 
-* [[homotopy limit]]
 
 * [[limit in quasi-categories]]
 
@@ -286,6 +285,22 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
   * [[Karoubi envelope]]
 
+### 4.1 Cofinality
+
+* [[cofinal (âˆž,1)-functor]]
+
+### 4.2 Techniques for computing colimits
+
+* [[homotopy limit]]
+
+
+### 4.3 Kan extensions
+
+...
+
+### 4.4 Examples of colimits
+
+...
 
 ##5 Presentable and Accessible $\infty$-Categories##
 
