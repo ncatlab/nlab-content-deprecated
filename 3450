@@ -1,13 +1,16 @@
 
 
-An **âˆž-group** is a [[groupoid object in an (âˆž,1)-category|group object]] in [[âˆžGrpd]].
+An **âˆž-group** is a [[groupoid object in an (âˆž,1)-category|group object]] in [[âˆžGrpd]].  Equivalently (by the [[delooping hypothesis]]) it is a [[pointed object|pointed]] [[connected groupoid|connected]] $\infty$-[[infinity-groupoid|groupoid]].
 
-Under the [[homotopy hypothesis|identification]] $\infty Grpd \simeq Top$ this is known as an $A_\infty$-space, for instance.
+Under the [[homotopy hypothesis|identification]] of [[âˆžGrpd]] with [[Top]] this is known as an $A_\infty$-[[A-infinity-space|space]], for instance.
 
 Special cases are
 
 * [[group]]
 
 * [[2-group]]
+
+* $n$-[[n-group|group]]
+
 
 [[!redirects âˆž-group]]
