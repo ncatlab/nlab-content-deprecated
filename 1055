@@ -25,6 +25,7 @@ Every [[covering space]] (even in the more general sense not requiring any conne
 
 
 ## Grammar note
+{#grammar}
 
 In French, the verb 'Ã©taler' means, roughly, to spread out; '-er' becomes '-Ã©' to make a past participle.  So an 'espace Ã©talÃ©' is a space that has been spread out over $B$.  On the other hand, 'Ã©tale' is a (relatively obscure, distantly related) nautical adjective that can be translated as 'calm' or 'slack'.  So a 'fonction Ã©tale' is a slack function, one which is kind of a homeomorphism, but perhaps only locally. 
 
