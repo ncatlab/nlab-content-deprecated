@@ -111,11 +111,13 @@ This adjunction $(L \dashv R)$ is a [[Quillen equivalence]] with respect to the 
 
 ## Related concepts
 
-* [[âˆž-groupoid]]
+* [[cohesive (âˆž,1)-topos]]
 
-* **topological $\infty$-groupoid**
+  * [[âˆž-groupoid]]
 
-* [[smooth âˆž-groupoid]]
+  * **topological $\infty$-groupoid**
+
+  * [[smooth âˆž-groupoid]]
 
 
 
@@ -126,3 +128,5 @@ This adjunction $(L \dashv R)$ is a [[Quillen equivalence]] with respect to the 
 
 [[!redirects topological âˆž-groupoid]]
 [[!redirects topological âˆž-groupoids]]
+
+[[!redirects âˆžTopGrpd]]
