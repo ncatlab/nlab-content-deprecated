@@ -6,8 +6,14 @@
 +--{: .hide}
 [[!include (infinity,1)-topos - contents]]
 =--
+#### Homotopy theory
++--{: .hide}
+[[!include homotopy - contents]]
 =--
 =--
+=--
+
+
 
 #Contents#
 * table of contents
@@ -194,7 +200,7 @@ More generally the [[shape of an (âˆž,1)-topos]] of $(\infty,1)Sh(X)$ reprodu
 
 * [[homotopy group]], [[homotopy groups in an (âˆž,1)-topos]]
 
-* **fundamental $\infty$-groupoid in a locally $\infty$-connected $(\infty,1)$-topos** / [[fundamental âˆž-groupoid of a locally âˆž-connected (âˆž,1)-topos|of a locally âˆž-connected (âˆž,1)-topos]]
+* [[fundamental âˆž-groupoid in a locally âˆž-connected (âˆž,1)-topos]] / **of a locally $\infty$-connected $(\infty,1)$-topos**
 
 
 
