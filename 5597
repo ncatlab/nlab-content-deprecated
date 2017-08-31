@@ -21,7 +21,7 @@
 ###### Definition
 
 
-A  **separated** [[(âˆž,1)-presheaf]]/ over an [[(âˆž,1)-site]] $C$ is a [[(âˆž,1)-presheaf]] $X : C^{op} \to $ [[âˆžGrpd]] such that [[covering]] families $\{U_i \to U\}$ in $C$ the [[descent]] morphism
+A  **separated** [[(âˆž,1)-presheaf]] over an [[(âˆž,1)-site]] $C$ is a [[(âˆž,1)-presheaf]] $X : C^{op} \to $ [[âˆžGrpd]] such that [[covering]] families $\{U_i \to U\}$ in $C$ the [[descent]] morphism
 
 $$
   X(U) \to PSh_{(\infty,1)}(S(\{U_i\}), X)
@@ -32,9 +32,13 @@ is a [[full and faithful (âˆž,1)-functor]] and hence exhibits a full
 
 (Here $S(\{U_i\})$ denotes the [[sieve]] associated to the cover).
 
-If this morphism is even an [[equivalence of (âˆž,1)-categories]], then $X$ is even a [[(âˆž,1)-sheaf]].
+More generally, $X$ is **$k$-separated** for $k \in \mathbb{N}$ if the  descent morphism is a $(k-2)$-[[n-truncated|truncated morphism]].
 
 =--
+
+Notice that this means that a _0-separated $(\infty,1)$-presheaf_ is one whose descent morphisms are [[equivalence in an (âˆž,1)-category|equivalences]], hence those which are [[(âˆž,1)-sheaves]].
+
+
 ## Related concepts
 
 * [[separated presheaf]]
