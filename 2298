@@ -9,11 +9,17 @@
 
 ## Contents ##
 
+* [notions of space](http://ncatlab.org/nlab/show/A+Survey+of+Elliptic+Cohomology+-+the+derived+moduli+stack+of+derived+elliptic+curves#NotionsOfSpace)
+
 * [[(âˆž,1)-topos]]
 
   * [[âˆž-space]]
 
   * [[âˆž-stack]]
+
+  * [[internal âˆž-groupoid]]
+
+    * [[âˆž-Lie groupoid]]
 
 * [[structured (âˆž,1)-topos]]
 
