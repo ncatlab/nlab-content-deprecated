@@ -1,0 +1,39 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Higher category theory
++--{: .hide}
+[[!include higher category theory - contents]]
+=--
+=--
+=--
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+An **$(\infty,n)$-presheaf** on an [[(âˆž,n)-category]] $C$ is an [[(âˆž,n)-functor]] $F : C^{op} \to $ [[(âˆž,n)Cat]].
+
+
+## Related concepts
+
+* [[presheaf]]
+
+* [[(2,1)-presheaf]]
+
+* [[(âˆž,1)-presheaf]]
+
+* **$(\infty,n)$-presheaf**
+
+[[!redirects (infinity,2)-presheaf]]
+[[!redirects (âˆž,2)-presheaf]]
+[[!redirects (infinity,2)-presheaves]]
+[[!redirects (âˆž,2)-presheaves]]
+
+[[!redirects (âˆž,n)-presheaf]]
+
+[[!redirects (infinity,n)-presheaves]]
+[[!redirects (âˆž,n)-presheaves]]
