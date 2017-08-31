@@ -1,5 +1,7 @@
-[[!redirects locally n-connected (infinity,1)-topos]]
-[[!redirects locally n-connected (infinity,1)-tops]]
+
+<div class="rightHandSide toc">
+[[!include (infinity,1)-topos - contents]]
+</div>
 
 
 #Contents#
@@ -206,7 +208,7 @@ exhibits [[âˆžGrpd]] as a [[reflective sub-(âˆž,1)-category]] of $\mathbf{
 
 
 
-**Examples.** All the locally conneted $(\infty,1)$-toposes on sites with geometrically contractible objects given by the proposition [above](#LocallyContractibleExamples) are also contractible.
+**Examples.** All the locally connected $(\infty,1)$-toposes on sites with geometrically contractible objects given by the proposition [above](#LocallyContractibleExamples) are also contractible.
 
 
 [[!redirects locally n-connected (âˆž,1)-topos]]
@@ -218,3 +220,6 @@ exhibits [[âˆžGrpd]] as a [[reflective sub-(âˆž,1)-category]] of $\mathbf{
 [[!redirects contractible (âˆž,1)-topos]]
 [[!redirects contractible (infinity,1)-toposes]]
 [[!redirects contractible (âˆž,1)-toposes]]
+
+[[!redirects locally n-connected (infinity,1)-topos]]
+[[!redirects locally n-connected (infinity,1)-tops]]
