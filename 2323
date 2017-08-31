@@ -1,11 +1,10 @@
-
-
 **[[Higher Topos Theory|(âˆž,1)-topos theory]]**
-
 
 ## Contents ##
 
 * [[(âˆž,1)-topos]]
+
+* [[(n,1)-topos]]
 
 * [[(âˆž,1)-category of (âˆž,1)-sheaves]]
 
@@ -19,7 +18,7 @@
 
   * [[model structure on simplicial presheaves]]
 
-## characterization of (âˆž,1)-toposes ##
+## Characterization ##
 
 * [[universal colimits]]
 
@@ -27,12 +26,12 @@
 
 * [[groupoid object in an (âˆž,1)-category|groupoid object in an (âˆž,1)-topos]]
 
-## constructions in (âˆž,1)-toposes
+## Constructions  ##
 
 * [[cohomology]]
 
+* [[homotopy groups in an (âˆž,1)-topos|homotopy]]
 
-<div markdown="1">[Edit this sidebar]()</div>
 
 
 [[!redirects infinity,1-topos - contents]]
