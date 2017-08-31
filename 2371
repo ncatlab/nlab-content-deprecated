@@ -1,16 +1,10 @@
 
 **[[higher algebra]]**
 
-# Ingredients
-
-* [[higher category theory]]
-
-* [[algebra]]
-
-* [[stable homotopy theory]]
+[[universal algebra]]
 
 
-# Algebraic theories
+## Algebraic theories
 
 * [[algebraic theory]] / [[2-algebraic theory]] / [[(âˆž,1)-algebraic theory]]
 
@@ -18,17 +12,28 @@
 
 * [[operad]] / [[(âˆž,1)-operad]]
 
-# Universal algebra
+## Algebras and modules
 
-* [[universal algebra]]
+* [[algebra over a monad]]
 
-* [[algebra over a Lawvere theory]] 
+  [[âˆž-algebra over an (âˆž,1)-monad]] 
 
-* [[algebra over a monad]] 
+* [[algebra over an algebraic theory]] 
 
-* [[algebra over an operad]]
+  [[âˆž-algebra over an (âˆž,1)-algebraic theory]]
 
-# Higher algebras
+  * [[homotopy T-algebra]] / [[model structure on simplicial T-algebras]]
+
+* [[algebra over an operad]] 
+
+   [[âˆž-algebra over an (âˆž,1)-operad]]
+
+   * [[model structure on algebras over an operad]]
+
+
+
+
+## Higher algebras
 
 * [[monoidal (âˆž,1)-category]]
 
@@ -46,34 +51,21 @@
 
   * [[ring spectrum]]
 
-* [[A-âˆž ring]]
+* [[A-âˆž algebra]] 
 
-* [[E-âˆž ring]]
+  * [[A-âˆž ring]]
 
-# Models for higher algebras
+* [[E-âˆž algebra]] 
 
-* [[model structure on simplicial T-algebras]]
+  * [[E-âˆž ring]]
 
-  * [[simplicial ring]]
+* [[L-âˆž algebra]] 
 
-* [[dg-algebra]]
 
-* [[E-âˆž algebra]]
-
-* [[A-âˆž algebra]]
-
-* [[L-âˆž algebra]]
-
-# Geometry on formal duals of algebras
+## Geometry on formal duals of algebras
 
 * [[Isbell duality]]
 
 * [[derived geometry]]
-
-  * [[structured (âˆž,1)-topos]]
-
-  * [[generalized scheme]]
-
-  * [[function algebras on âˆž-stacks]]
 
 <div markdown="1">[Edit this sidebar](/nlab/edit/higher+algebra+-+contents)</div>
