@@ -1,0 +1,48 @@
+## Definition
+
+...
+
+## Early sources
+
+A notion of context-free grammar, now used in linguistics, computer science and mathematics has been introduced in the works of N. Chomsky. Here is list of some of the original references in English and also of their Russian translations. 
+
+* [[Noam Chomsky]], _Three models for the description of language, I. R. E.
+Trans. PGIT 2 (1956), 113â€”124. (Ð ÑƒÑÑÐºÐ¸Ð¹ Ð¿ÐµÑ€ÐµÐ²Ð¾Ð´: Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ð., Ð¢Ñ€Ð¸
+Ð¼Ð¾Ð´ÐµÐ»Ð¸ Ð´Ð»Ñ Ð¾Ð¿Ð¸ÑÐ°Ð½Ð¸Ñ ÑÐ·Ñ‹ÐºÐ°, ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº, Ð²Ñ‹Ð¿. 2, Ð˜Ð› 1961, 237-266)
+* N. Chomsky, _On certain formal properties of grammars_, Information
+and Control __2__ (1959), 137â€”267; _A note on phrase structure grammars_, Information andControl __2__ 1959_, 393â€”395. (Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ðš, Ð—Ð°Ð¼ÐµÑ‚ÐºÐ¸ o Ð³Ñ€Ð°Ð¼Ð¼Ð°Ñ‚Ð¸ÐºÐ°Ñ… Ð½ÐµÐ¿Ð¾ÑÑ€ÐµÐ´ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ñ… ÑÐ¾ÑÑ‚Ð°Ð²Ð»ÑÑŽÑ‰Ð¸Ñ…. ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹
+ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº, Ð²Ñ‹Ð¿. 5, Ð˜Ð›, 1962, 312â€”315.)
+
+* N. Chomsky, _On the notion Â«Rule of GrammarÂ»_, Proc. Symp. Applied
+Math., 12. Amer. Math. Soc. (1961). (Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ð.,
+Ðž Ð¿Ð¾Ð½ÑÑ‚Ð¸Ð¸ Â«Ð¿Ñ€Ð°Ð²Ð¸Ð»Ð¾ Ð³Ñ€Ð°Ð¼Ð¼Ð°Ñ‚Ð¸ÐºÐ¸Â», ÑÐ±. ÐÐ¾Ð²Ð¾Ðµ Ð² Ð»Ð¸Ð½Ð³Ð²Ð¸ÑÑ‚Ð¸ÐºÐµ, Ð²Ñ‹Ð¿. 4,
+Â«ÐŸÑ€Ð¾Ð³Ñ€ÐµÑÑÂ», 1965, ÑÑ‚Ñ€. 34â€”65.)
+* N. Chomsky, _Context-free grammars and pushdown storage_, Quarterly
+Progress Reports, â„– 65, Research Laboratory of Electronics, M. I. T.,
+1962.
+* N. Chomsky, _Formal properties of grammars_, in Handbook of Mathemati-
+Mathematical Psychology, 2, ch. 12, Wiley, 1963, p. 323â€”418. (Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ð., Ð¤Ð¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐ²Ð¾Ð¹ÑÑ‚Ð²Ð° Ð³Ñ€Ð°Ð¼Ð¼Ð°Ñ‚Ð¸Ðº, ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹
+ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº, Ð²Ñ‹Ð¿. 2, Â«ÐœÐ¸Ñ€Â», 1966, 121â€”-230.)
+* N. Chomsky, The logical basis for linguistic theory, Proc. IX-th Int.
+Cong. Linguists (1962). (Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ðâ€ž Ð›Ð¾Ð³Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ
+Ð¾ÑÐ½Ð¾Ð²Ñ‹ Ð»Ð¸Ð½Ð³Ð²Ð¸ÑÑ‚Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ Ñ‚ÐµÐ¾Ñ€Ð¸Ð¸, ÑÐ±. ÐÐ¾Ð²Ð¾Ðµ Ð² Ð»Ð¸Ð½Ð³Ð²Ð¸ÑÑ‚Ð¸ÐºÐµ, Ð²Ñ‹Ð¿. 4,
+Â«ÐŸÑ€Ð¾Ð³Ñ€ÐµÑÑÂ», 1965, 465â€”-575.)
+* N. Ð¡hÐ¾mskÑƒ, G. A. Miller G. A.. Finite state languages, Information and
+Control __1__ (1958), 91â€”-112. (Ð¥Ð¾Ð¼ÑÐºÐ¸Ð¹ Ð., ÐœÐ¸Ð»Ð»ÐµÑ€ Ð”., Ð¯Ð·Ñ‹ÐºÐ¸ Ñ ÐºÐ¾Ð½ÐµÑ‡Ð½Ñ‹Ð¼ Ñ‡Ð¸ÑÐ»Ð¾Ð¼ ÑÐ¾ÑÑ‚Ð¾ÑÐ½Ð¸Ð¹, ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº, Ð²Ñ‹Ð¿. 4, Ð˜Ð›, 1962, 231â€”-255.), _Introduction to the formal analysis of natural languages_. Handbook of Mathematical Psychology __2__, Ch. 12, Wiley, 1963, 269â€”-322 (Ð’Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ Ð² Ñ„Ð¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð°Ð½Ð°Ð»Ð¸Ð· ÐµÑÑ‚ÐµÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ñ… ÑÐ·Ñ‹ÐºÐ¾Ð², ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº, Ð²Ñ‹Ð¿. 1, Â«ÐœÐ¸Ñ€Â», 1965, ÑÑ‚Ñ€. 229â€”-290.)
+* N. Chomsky, M. P. SchÃ¼tzenberger, _The algebraic theory of
+context-free languages_, in: Computer programming and formal systems, 118â€“161 North-Holland 1963, Amsterdam [MR152391](http://www.ams.org/mathscinet-getitem?mr=152391) (ÐšÐ¸Ð±ÐµÑ€Ð½ÐµÑ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ ÑÐ±Ð¾Ñ€Ð½Ð¸Ðº __3__, 195--242, 1966)
+
+## Modern literature
+
+* wikipedia: [context-free language](http://en.wikipedia.org/wiki/Context-free_language)
+* A. V. Aho, J. D. Ullman, _The theory of parsing, translation, and compiling_, vol 1, Parsing; vol. 2, Compiling. Prentice Hall, 1972.
+* A. V. Aho, J. D. Ullman, _Principles of compiler design_, Addison-Wesley, 1977.
+
+Some chapters in "Handbook of formal language theory" (3 vols.), G. Rozenberg, A. Salomaa (eds.), Springer 1997:
+
+* Jean-Michel Autebert, Jean Berstel, Luc Boasson, _Context-free languages and push-down automata_, vol. 1, ch. 3 
+
+[[!redirects context-free grammars]]
+[[!redirects context free grammar]]
+[[!redirects context-free language]]
+[[!redirects context-free languages]]
