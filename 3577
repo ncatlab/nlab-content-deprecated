@@ -10,7 +10,16 @@
 
 ## Idea
 
-The analog in [[(âˆž,1)-category]] theory of the notion of a [[site]] in ordinary [[category theory]].
+The structure of an $(\infty,1)$-site on an [[(âˆž,1)-category]] $C$ is precisely the data encoding an [[(âˆž,1)-category of (âˆž,1)-sheaves]] 
+
+$$
+  Sh(C) \hookrightarrow PSh(C)
+$$
+
+inside the [[(âˆž,1)-category of (âˆž,1)-presheaves]] on $C$.
+
+The notion is the analog in [[(âˆž,1)-category]] theory of the notion of a [[site]] in 1-[[category theory]].
+
 
 ## Definition
 
