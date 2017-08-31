@@ -1,0 +1,41 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### $(\infty,1)$-Category theory
++--{: .hide}
+[[!include quasi-category theory contents]]
+=--
+=--
+=--
+
+Entries on the [[HomePage|nLab]] that use the **implicit $\infty$-category theory convention** leave the "$\infty$"-symbol notationally implicit when working in [[(âˆž,1)-category theory]].
+
+In this convention
+
+* _category_ means _[[(âˆž,1)-category]]_
+
+* _topos_ means _[[(âˆž,1)-topos]]_
+
+* _groupoid_ means _[[âˆž-groupoid]]_
+
+* _$n$-category_ means _[[(âˆž,n)-category]]_
+
+* _functor_ means _[[(âˆž,1)-functor]]_ or _[[(âˆž,n)-functor]]_ for some $n \in \mathbb{N}$, depending on the codomain;
+
+* _presheaf_ means _[[(âˆž,1)-presheaf]]_, 
+
+* _sheaf_ means _[[(âˆž,1)-sheaf]]_ , _[[âˆž-stack]]_   
+
+* _limit_ means [[(âˆž,1)-limit]]
+
+* _algebraic theory_ means _[[(âˆž,1)-algebraic theory]]_
+
+* _algebra over an algebraic theory_ means _[[âˆž-algebra over an (âˆž,1)-algebraic theory]]_ .
+
+Etc.
+
+category: meta
+
+[[!redirects implicit âˆž-category theory convention]]
+[[!redirects implicit (âˆž,1)-category theory convention]]
