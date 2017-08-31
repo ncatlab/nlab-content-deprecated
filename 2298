@@ -23,17 +23,21 @@
 
 * [[function algebras on âˆž-stacks]]
 
-  * [[Isbell duality]]
-
   * [[geometric âˆž-stacks]]
+
+## Constructions
+
+* [[loop space object]], [[free loop space object]]
+
+* [[fundamental âˆž-groupoid in an locally âˆž-connected (âˆž,1)-topos]]/[[fundamental âˆž-groupoid of a locally âˆž-connected (âˆž,1)-topos|of a locally âˆž-connected (âˆž,1)-topos]]
 
 ## Examples
 
 * [[derived algebraic geometry]]
 
-  * [[simplicial ring]], [[E-âˆž ring]]
+  * [[Ã©tale (âˆž,1)-site]], [[dg-geometry]], [[Hochschild cohomology]] of [[dg-algebra]]s
 
-  * [[dg-geometry]]
+  * [[schematic homotopy type]]
 
 * [[derived noncommutative geometry]]
 
@@ -41,10 +45,16 @@
 
 * derived smooth geometry 
 
-  * [[smooth algebra|Câˆž-ring]]/[[smooth locus]]
-
   * [[derived smooth manifold]]
 
-  * [[âˆž-Lie groupoid]]
+  * [[âˆž-Lie groupoid]], [[âˆž-Lie algebroid]]
+
+## Theorems
+
+* [[Isbell duality]]
+
+* [[Hochschild cohomology|Jones' theorem]], [[Hochschild cohomology|Deligne-Kontsevich conjecture]]
+
+* [[Tannaka duality for geometric stacks]]
 
 <div markdown="1">[Edit this sidebar](/nlab/edit/higher+geometry+-+contents)</div>
