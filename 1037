@@ -1,6 +1,8 @@
 <div class="rightHandSide toc">
 [[!include mathematicscontents]]
 ***
+[[!include higher category theory - contents]]
+***
 [[!include (infinity,1)-topos - contents]]
 </div>
 
@@ -11,6 +13,12 @@ This entry is about the book
 * [[Jacob Lurie]], _Higher Topos Theory_ ([arXiv](http://arxiv.org/abs/math.CT/0608040), [published version](http://www-math.mit.edu/~lurie/papers/highertopoi.pdf))
 
 which discusses the [[higher category theory]] of [[(âˆž,1)-categories]] in general and that of [[(infinity,1)-category of (infinity,1)-sheaves|(âˆž,1)-categories of (âˆž,1)-sheaves]] (i.e. of [[âˆž-stack]]s) -- called (Grothendieck-Rezk-Lurie) [[(âˆž,1)-topos]]es -- in particular.
+
+#Contents#
+* automatic table of contents goes here
+{:toc}
+
+#Related entries#
 
 For general information on higher category and higher topos theory see also
 
@@ -238,11 +246,11 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
 ##5 Presentable and Accessible $\infty$-Categories##
 
-## 5.1 $(\infty,1)$-categories of presheaves ##
+### 5.1 $(\infty,1)$-categories of presheaves ###
 
 * [[(âˆž,1)-category of (âˆž,1)-presheaves]]
 
-## 5.2 adjoint $(\infty,1)$-functors ##
+### 5.2 adjoint $(\infty,1)$-functors ###
 
 * [[adjoint (âˆž,1)-functor]]
 
@@ -252,7 +260,7 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
   * [[adjoint functor theorem]]
 
-## 5.3 $(\infty,1)$-categories of inductive limits ##
+### 5.3 $(\infty,1)$-categories of inductive limits ###
 
 * [[ind-object in an (âˆž,1)-category]]
 
@@ -266,11 +274,11 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
   * [[presentable (âˆž,1)-category]]
 
-## 5.4 accessible $(\infty,1)$-categories ##
+### 5.4 accessible $(\infty,1)$-categories ###
 
 * [[accessible (âˆž,1)-category]]
 
-## 5.5 presentable $(\infty,1)$-categories ##
+### 5.5 presentable $(\infty,1)$-categories ###
 
 * [[symmetric monoidal (âˆž,1)-category of presentable (âˆž,1)-categories]]
 
@@ -282,9 +290,11 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
   * [[local equivalence]]
 
+* [[n-truncated object of an (âˆž,1)-category]]
 
 ##6 $\infty$-Topoi##
 
+### 6.1 Definitions and characterizations ###
 
 * [[âˆž-topos]]
 
@@ -298,7 +308,20 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
 * [[object classifier]]
 
-* [[n-localic (âˆž,1)-topos]]
+* [[groupoid object in an (âˆž,1)-category]]
+
+  * [[Cech nerve]]
+
+  * [[effective epimorphism]]
+
+  * [[simplicial resolution]]
+
+  * [[delooping]]
+
+    * [[quotient object]]
+
+
+### 6.2 Constructions of $(\infty,1)$-toposes ###
 
 * [[(âˆž,1)-category of (âˆž,1)-sheaves]]
 
@@ -318,7 +341,6 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
   * [[hypercompletion]]
 
-
 * [[models for âˆž-stack (âˆž,1)-toposes]]
 
 * [[model structure on simplicial presheaves]]
@@ -333,17 +355,16 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
   * [[descent for simplicial presheaves]]
 
-* [[groupoid object in an (âˆž,1)-category]]
+### 6.4 $n$-Topoi ###
 
-  * [[Cech nerve]]
+* [[n-localic (âˆž,1)-topos]]
 
-  * [[effective epimorphism]]
+### 6.5 Homotopy theory in an $(\infty,1)$-topos ###
 
-  * [[simplicial resolution]]
+* [[homotopy group (of an âˆž-stack)]]
 
-  * [[delooping]]
+  * [[n-truncated object of an (âˆž,1)-topos]]
 
-    * [[quotient object]]
 
 * [[cohomology]]
 
@@ -363,9 +384,8 @@ theory of [[models for âˆž-stack (âˆž,1)-toposes]] in terms of the [[model
 
       * [[principal 2-bundle]]
 
-* [[homotopy group (of an âˆž-stack)]]
 
-  * [[n-truncated object of an (âˆž,1)-topos]]
+
      
 ##7 Higher Topos Theory in Topology
 
