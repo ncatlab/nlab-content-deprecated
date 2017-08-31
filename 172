@@ -60,6 +60,9 @@ Notice that an $\infty$-stack is a [[(âˆž,1)-presheaf]] for which not only th
 
 To emphasize that one considers $\infty$-stacks on higher categorical sites one speaks of [[derived stack]]s.
 
+## Higher $\infty$-stacks ##
+
+The above concerns $\infty$-stacks with values in [[âˆž-groupoid]]s, i.e, [[(âˆž,0)-category|(âˆž,0)-categories]]. More generally there should be notions of $\infty$-stacks with values in  [[(n,r)-category|(n,r)-categories]]. These are expected to be modeled by the [[model structure on homotopical presheaves]] with values in the category of [[Theta space]]s.
 
 #References#
 
