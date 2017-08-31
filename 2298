@@ -3,37 +3,23 @@
 
 ## Ingredients ##
 
-* [[Higher Topos Theory|higher topos theory]]
+* [[higher topos theory]]
 
 * [[higher algebra]]
 
 ## Concepts ##
 
-* [notions of space](http://ncatlab.org/nlab/show/A+Survey+of+Elliptic+Cohomology+-+the+derived+moduli+stack+of+derived+elliptic+curves#NotionsOfSpace)
+* **geometric [[big and little toposes|little]] [[(âˆž,1)-topos]]es**
 
-* [[(âˆž,1)-topos]]
-
-  * [[âˆž-space]]
-
-  * [[âˆž-stack]]
-
-  * [[derived stack]]
-
-  * [[internal âˆž-groupoid]]
-
-    * [[topological âˆž-groupoid]]
-
-    * [[âˆž-Lie groupoid]]
-
-* [[structured (âˆž,1)-topos]]
+  * [[structured (âˆž,1)-topos]]
 
   * [[geometry (for structured (âˆž,1)-toposes)]]
 
   * [[generalized scheme]]
 
-* [[(âˆž,1)-algebraic theory]]
+* **geometric [[big and little toposes|big]] [[(âˆž,1)-topos]]es**
 
-  * [[model structure on simplicial algebras]]
+  * [[cohesive (âˆž,1)-topos]]
 
 ## Examples
 
@@ -51,9 +37,10 @@
 
 * derived smooth geometry 
 
-  * [[generalized smooth algebra|Câˆž-ring]]/[[smooth locus]]
+  * [[smooth algebra|Câˆž-ring]]/[[smooth locus]]
 
   * [[derived smooth manifold]]
 
+  * [[smooth âˆž-groupoid]]
 
 <div markdown="1">[Edit this sidebar](/nlab/edit/higher+geometry+-+contents)</div>
