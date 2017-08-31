@@ -16,15 +16,7 @@
 
 
 
-* [[category theory]]
 
-* [[2-category theory]]
-
-* **$(\infty,1)$-category theory**
-
-* [[higher category theory]]
-
-***
 
 
 
@@ -73,6 +65,17 @@ The [[universal construction]]s of [[category theory]] generalize, with unique e
 * [[adjoint (âˆž,1)-functor]]
 
 * [[(âˆž,1)-Grothendieck construction]]
+
+
+## Related concepts
+
+* [[category theory]]
+
+* [[2-category theory]]
+
+* **$(\infty,1)$-category theory**
+
+* [[higher category theory]]
 
 
 [[!redirects (âˆž,1)-category theory]]
