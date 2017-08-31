@@ -173,18 +173,25 @@ There are various [[model category]] models for collections of $(n,r)$-categorie
 
 ## Related concepts
 
-* [[0-category]], [[0,1]-category]], [[Set]]
+* [[0-category]], [[(0,1)-category]]
 
 * [[category]]
 
-* [[2-category]], [[bicategory]]
+* [[2-category]]
 
-* [[3-category]], [[tricategory]]
-
-* [[4-category]], [[tetracategory]]
+* [[3-category]]
 
 * [[n-category]]
 
-* **$(n,r)$-category**
+* [[(âˆž,0)-category]]
+
+* [[(âˆž,1)-category]]
+
+* [[(âˆž,2)-category]]
+
+* [[(âˆž,n)-category]]
+
+* **(n,r)-category**
+
 
 
