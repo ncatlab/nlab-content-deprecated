@@ -23,7 +23,7 @@ One could also consider a basis of open sets such that the opens $U$ have trivia
 
 * Any [[CW-complex]] is locally contractible.
 
-> Any ideas for a locally relatively contractible space that is not locally contractible?
+> Any ideas for a semi-locally contractible space that is not locally contractible?
 
 ## Other viewpoints
 
@@ -37,4 +37,4 @@ If one considers [[fundamental âˆž-groupoid]]s, the inclusion $U\to X$ being 
 
 See also [[locally âˆž-connected (âˆž,1)-topos]]. There a converse to this conjecture is stated:
 
-**Propositon** Let $C$ be a [[site]] coming from a [[covergae]] such that constant [[(âˆž,1)-presheaf|(âˆž,1)-presheaves]] satisfy [[descent]] over objects of $C$ with respect to the generating [[covering]] families. Then the [[(âˆž,1)-category of (âˆž,1)-sheaves]] $\mathbf{H} = Sh_{(\infty,1)}(C)$ is a [[locally âˆž-connected (âˆž,1)-topos]].
+**Propositon** Let $C$ be a [[site]] coming from a [[coverage]] such that constant [[(âˆž,1)-presheaf|(âˆž,1)-presheaves]] satisfy [[descent]] over objects of $C$ with respect to the generating [[covering]] families. Then the [[(âˆž,1)-category of (âˆž,1)-sheaves]] $\mathbf{H} = Sh_{(\infty,1)}(C)$ is a [[locally âˆž-connected (âˆž,1)-topos]].
