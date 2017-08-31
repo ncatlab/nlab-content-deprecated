@@ -76,6 +76,8 @@
 
 * [[local (âˆž,1)-topos]]
 
+  * [[concrete (âˆž,1)-sheaf]]
+
 * [[cohesive (âˆž,1)-topos]]
 
 ## Models ##
@@ -90,7 +92,9 @@
 
   * [[model structure on simplicial presheaves]]
 
-  * [[Verity on descent for strict omega-groupoid valued presheaves|descent for âˆž-stacks with values in strict âˆž-groupoids]]
+  * [[descent for simplicial presheaves]]
+
+  * [[Verity on descent for strict omega-groupoid valued presheaves|descent for presheaves with values in strict âˆž-groupoids]]
 
 ## Constructions  ##
 
