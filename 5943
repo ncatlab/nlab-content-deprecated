@@ -1,0 +1,16 @@
+The valuative criterion of [[proper morphism|properness]] [[EGA II]], 7.3.8 ([numdam](http://www.numdam.org/item?id=PMIHES_1961__8__5_0)). It has been found by Chevalley.
+
+>ThÃ©orÃ¨me (7.3.8). â€” Soient Y un prÃ©schÃ©ma (resp. un prÃ©schÃ©ma localement noethÃ©rien),
+>$X\to Y$ un morphisme quasi-compact sÃ©parÃ© (resp. de type fini). Les conditions suivantes sont Ã©quivalentes :
+
+>a) f est universellement jermÃ© (resp. propre).
+
+>b) Pour tout $Y$-schÃ©ma de la forme $Y'=Spec(A)$, oÃ¹ $A$ est un anneau de valuation (resp. anneau de valuation discrÃ¨te) de corps des fractions $K$, l'application canonique
+>$$
+>Hom_Y(Y', X) \to Hom_Y(Spec(K), X)
+>$$
+>correspondant Ã  l'injection canonique $A\to K$, est surjective (resp. bijective).
+
+There is a (essentially pattern-terminological) reinterpretation in Kontsevich-Rosenberg, _Noncommutative spaces_, 6.8.1:
+
+Let $M_v'$ be the family of canonical injections of valuation rings to their fields of fractions, and let $M_v$ be its image in the category of functors $CRing\to Set$. Consider schemes as covariant presheaves on $CRing$. Then a morphism $f:X\to Y$ of schemes is [[separated morphism of schemes|separated]] iff it is formally $M_v$-unramified, [[universally closed morphism|universally closed]] iff it is formally $M_v$-smooth and proper iff it is formally $M_v$-etale (in the sense of KR 6.3).
