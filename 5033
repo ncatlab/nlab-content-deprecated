@@ -21,30 +21,10 @@ The collection of all [[(âˆž,1)-topos]]es. The [[(âˆž,1)-category]]-theory
 
 ## Definition
 
-**$(\infty,1)\,Topos$** (or **$(\infty,1)\,Toposes$**) is the (non-full) [[sub-(âˆž,1)-category]] of [[(âˆž,1)Cat]] on [[(âˆž,1)-toposes]] and $(\infty,1)$-geometric morphisms between them.
+**$(\infty,1)\,Topos$** (or **$(\infty,1)\,Toposes$**) is the (non-full) [[sub-(âˆž,1)-category]] of [[(âˆž,1)Cat]] on [[(âˆž,1)-toposes]] and [[(âˆž,1)-geometric morphisms]] between them.
 
+Morally, this should actually be an [[(âˆž,2)-category]], just as [[Topos]] is a [[2-category]], but since the technology of $(\infty,2)$-categories is not well developed, this point of view is not often taken yet.
 
-+-- {: .un_def}
-###### Defintion
-**(geometric morphism)**
-
-For $\mathbf{H}$, $\mathbf{K}$ two $(\infty,1)$-toposes, an [[(âˆž,1)-functor]]
-
-$$
-  f_* : \mathbf{H} \to \mathbf{K}
-$$
-
-is called an **[[(âˆž,1)-geometric morphisms]]** if it is the [[right adjoint]] of a pair of [[adjoint (âˆž,1)-functor]]s $(f^* \dashv f*)$ such that the [[left adjoint]] $f^*$ preserves finite [[(âˆž,1)-limit]]s (is a left [[exact (âˆž,1)-functor]]).
-
-Write
-
-$$
-  (\infty,1)Toposes \subset \widehat{(\infty,1)Cat}
-$$
-
-for the [[sub-(âˆž,1)-category]] of tje [[(âˆž,1)-category of (âˆž,1)-categories]] on $(\infty,1)$-toposes and geometric morphisms.
-
-=--
 
 ## Properties
 
