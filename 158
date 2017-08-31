@@ -1,3 +1,8 @@
+<div class="rightHandSide toc">
+[[!include higher category theory - contents]]
+</div>
+
+
 An $\infty$-groupoid -- equivalently an [[(âˆž,0)-category]] is an [[âˆž-category]] in which all morphisms are [[equivalences]].
 
 #Models#
