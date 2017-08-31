@@ -15,14 +15,16 @@
 
 ## Idea
 
-Every [[(âˆž,1)-topos]] $E$ has a [[shape of an (âˆž,1)-topos]] $Shape(E) \in Pro\infty Grpd$. When $E$ is [[locally âˆž-connected (âˆž,1)-topos|locally âˆž-connected]] then this is a genuine [[âˆž-groupoid]] $\Pi(E) \in $ [[âˆžGrpd]]. We may think of this as the [[fundamental âˆž-groupoid]] of the $(\infty,1)$-topos regarded as a generalized [[space]].
+Every [[(âˆž,1)-topos]] $E$ has a [[shape of an (âˆž,1)-topos|shape]] $Shape(E) \in Pro\infty Grpd$. When $E$ is [[locally âˆž-connected (âˆž,1)-topos|locally âˆž-connected]] then this is a genuine [[âˆž-groupoid]] $\Pi(E) \in $ [[âˆžGrpd]]. We may think of this as the [[fundamental âˆž-groupoid]] of the $(\infty,1)$-topos regarded as a generalized [[space]].
 
-But also every [[locally âˆž-connected (âˆž,1)-topos]] has an _internal_ notion of [[fundamental âˆž-groupoid in a locally âˆž-connected (âˆž,1)-topos]] $\Pi_E : E \to \infty Grpd$. Applied to its [[terminal object]] this does agree with the shape:
+But also every [[locally âˆž-connected (âˆž,1)-topos]] has an _internal_ notion of [[fundamental âˆž-groupoid in a locally âˆž-connected (âˆž,1)-topos]] for objects of $E$, denoted $\Pi_E : E \to \infty Grpd$. Applied to its [[terminal object]] this does agree with the fundamental âˆž-groupoid of the topos:
 
 $$
   \Pi(E) \simeq \Pi_E(*)
   \,.
 $$
+
+Conversely, for an object $X\in E$, the fundamental âˆž-groupoid $\Pi_E(X)$ internal to $E$ can be identified with the fundamental âˆž-groupoid of the locally âˆž-connected (âˆž,1)-topos $E/X$.
 
 
 ## Definition
