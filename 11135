@@ -36,8 +36,9 @@ In [[computer science]] this [[monad (in computer science)]] is used to model [[
 
 The continuation monad is discussed in the generality of [[linear type theory]] as the linear [[double negation monad]] in
 
-* [[Paul-AndrÃ© MelliÃ¨s]], _The parametric continuation monad_ ([[MelliesContinuation.pdf:file]])
+* [[Paul-AndrÃ© MelliÃ¨s]], Nicolas Tabareau, _Linear continuation and duality_, 2008 ([pdf](http://hal.inria.fr/docs/00/33/91/56/PDF/linear-control.pdf))
 
-* [[Paul-AndrÃ© MelliÃ¨s]], Nicolas Tabareau, _Linear continuation and duality_ ([pdf](http://hal.inria.fr/docs/00/33/91/56/PDF/linear-control.pdf))
+* [[Paul-AndrÃ© MelliÃ¨s]], _The parametric continuation monad_, Mathematical Structures in Computer Science, Festschrift in honor of Corrado BÃ¶hm for his 90th birthday (2013). ([[MelliesContinuation.pdf:file]])
+
 
 [[!redirects continuation monads]]
