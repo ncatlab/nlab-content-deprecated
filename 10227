@@ -1,0 +1,16 @@
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+The [[higher algebra]] refinement of ordinary [[linear algebra]]:
+
+for $E \in CRing_\infty$ an [[E-âˆž ring]], higher linear algebra over $E$ is the study of the [[tensor (âˆž,1)-category]] $E Mod$ of [[âˆž-modules]] over $E$.
+
+## Related concepts
+
+* [[(âˆž,1)-module bundle]]
+
+* [[(âˆž,n)-module]]
