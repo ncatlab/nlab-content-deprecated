@@ -29,6 +29,8 @@ Smooth super $\infty$-groupoids include
 
 ## Definition
 
+We consider one of at least two possible definitions, that differ (only) slightly in some fine technical detail. The other is at _[[super smooth infinity-groupoid]]_.
+
 We take a _smooth super $\infty$-groupoid_ to be a [[smooth âˆž-groupoid]] but not over the [[base topos]] [[âˆžGrpd]] of bare [[âˆž-groupoid]]s, but over the [[base topos]] [[SuperâˆžGrpd]] of [[super âˆž-groupoids]].
 
 
