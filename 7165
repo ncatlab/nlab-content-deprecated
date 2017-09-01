@@ -1,0 +1,43 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### $(\infty,1)$-Topos Theory
++--{: .hide}
+[[!include (infinity,1)-topos - contents]]
+=--
+=--
+=--
+
+
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+An _Ã©tale âˆž-groupoid_ is meant to be an [[âˆž-groupoid]]-analog to an [[Ã©tale groupoid]].
+
+## References
+
+A formalization of the [[petit topos|petit]] [[(âˆž,1)-toposes]] corresponding to Ã©tale âˆž-groupoids is in 
+
+* [[Jacob Lurie]], _[[Structured Spaces]]_.
+
+A characterization of Ã©tale âˆž-groupoids as objects in a [[big topos|big]] [[(âˆž,1)-topos]] is given in 
+
+* [[David Carchedi]], ...
+
+
+[[!redirects Ã©tale infinity-groupoids]]
+
+[[!redirects Ã©tale âˆž-groupoid]]
+[[!redirects Ã©tale âˆž-groupoids]]
+
+[[!redirects etale infinity-groupoid]]
+[[!redirects etale infinity-groupoids]]
+
+[[!redirects etale âˆž-groupoid]]
+[[!redirects etale âˆž-groupoids]]
+
