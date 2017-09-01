@@ -25,10 +25,17 @@
 
 ## Definition
 
-An **Ã©tale topos** is the [[sheaf topos]] over an [[Ã©tale site]].
+### General concrete
 
-### General abstract
- {#GeneralAbszrac}
+An **Ã©tale topos** is the [[sheaf topos]] over an [[Ã©tale site]], hence over a site whose "open subsets" are [[Ã©tale morphisms]] into the base [[space]]. The intrinsic [[cohomology]] of an Ã©tale [[(âˆž,1)-topos]] is _[[Ã©tale cohomology]]_.
+
+More generally there is the pro-Ã©tale topos over a [[pro-Ã©tale site]], which is a bit better behaved. In particular the intrinsic [[cohomology]] of a pro-Ã©tale [[(âˆž,1)-topos]] includes the [[Weil cohomology theory]] [[â„“-adic cohomology]].
+
+Generally, given that an [[Ã©tale morphism of schemes]] is a [[formally Ã©tale morphism]] subject to a size constraint on its [[fibers]] -- for an actual [[Ã©tale morphism of schemes]] the fibers are [[finite sets]] in the suitable sense (formal duals to [[Ã©tale algebras]]) while for a [[pro-Ã©tale morphism of schemes]] they are [[pro-objects]] of such fibers --
+in a suitable ambient context ("[[differential cohesion]]") one can drop all finiteness conditions and consider just opens given by [[formally Ã©tale morphisms]] as encoded by an [[infinitesimal shape modality]]. This we discuss [below](#GeneralAbstract).
+
+### General abstract 
+ {#GeneralAbstract}
 
 We discuss how in [[differential cohesion]] $\mathbf{H}_{th}$ every object $X$ canonically induces its Ã©tale topos $Sh_{\mathbf{H}_{th}}(X)$.
 
