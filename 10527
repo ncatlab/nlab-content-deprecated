@@ -1,3 +1,4 @@
+[[!redirects differentiable (infinity,1)-category]]
 
 +-- {: .rightHandSide}
 +-- {: .toc .clickDown tabindex="0"}
@@ -20,14 +21,14 @@
 
 ## Idea
 
-In the context of [[Goodwillie calculus]], an [[(âˆž,1)-category]] is called _differentiable_ if [[(âˆž,1)-functors]] to it admit "derivatives" in the form of [[n-excisive approximations]].
+In the context of [[Goodwillie calculus]], an [[(âˆž,1)-category]] is called _Goodwillie-differentiable_ if [[(âˆž,1)-functors]] to it admit "derivatives" in the form of [[n-excisive approximations]]. Note that this concept is not related to that of [[smooth âˆž-groupoids]].
 
 ## Definition
 
 +-- {: .num_defn }
 ###### Definition
 
-An [[(âˆž,1)-category]] $\mathcal{C}$ is **differentiable** if
+An [[(âˆž,1)-category]] $\mathcal{C}$ is **Goodwillie-differentiable** if
 
 1. it has [[finite (âˆž,1)-limits]];
 
@@ -42,7 +43,7 @@ An [[(âˆž,1)-category]] $\mathcal{C}$ is **differentiable** if
 +-- {: .num_example }
 ###### Example
 
-Every [[(âˆž,1)-topos]] is a differentiable $(\infty,1)$-category.
+Every [[(âˆž,1)-topos]] is a Goodwillie-differentiable $(\infty,1)$-category.
 
 =--
 
@@ -52,7 +53,7 @@ Every [[(âˆž,1)-topos]] is a differentiable $(\infty,1)$-category.
 
 ### $n$-Excisive reflection / Taylor tower
 
-By [[Goodwillie calculus]], [[(âˆž,1)-functors]] to differentiable $(\infty,1)$-categories have [[n-excisive approximations]]/[[Taylor towers]].
+By [[Goodwillie calculus]], [[(âˆž,1)-functors]] to Goodwillie-differentiable $(\infty,1)$-categories have [[n-excisive approximations]]/[[Taylor towers]].
 
 ## Related concepts
 
@@ -68,6 +69,12 @@ By [[Goodwillie calculus]], [[(âˆž,1)-functors]] to differentiable $(\infty,1
   {#Lurie}
 
 [[!redirects differentiable (infinity,1)-categories]]
+[[!redirects differentiable (infinity,1)-category]]
 
 [[!redirects differentiable (âˆž,1)-category]]
 [[!redirects differentiable (âˆž,1)-categories]]
+
+[[!redirects Goodwillie-differentiable (âˆž,1)-categories]]
+
+[[!redirects Goodwillie-differentiable (infinity,1)-categories]]
+[[!redirects Goodwillie-differentiable (infinity,1)-category]]
