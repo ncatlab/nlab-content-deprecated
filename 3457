@@ -31,7 +31,7 @@ An Ã©tale map between [[topological spaces]] is a  [[local homeomorphism]]; se
 
 ### Between smooth manifolds
 
-An Ã©tale map between [[smooth spaces]] is a  [[local diffeomorphisms]], a special case of a [[local homeomorphism]].
+An Ã©tale map between [[smooth spaces]] is a  [[local diffeomorphisms]], which is in particular a [[local homeomorphism]] on the underlying [[topological spaces]].
 
 ### Between schemes (affine schemes / rings)
 
