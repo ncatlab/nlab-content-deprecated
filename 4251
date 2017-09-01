@@ -14,7 +14,8 @@
 =--
 
 This is a sub-entry of [[homotopy groups in an (âˆž,1)-topos]].
-It discusses the general notion of **Ã©tale homotopy**.
+It discusses the general notion of **[[Ã©tale homotopy]]** in the contex of [[locally âˆž-connected (âˆž,1)-toposes]].
+
 
 For the other notion of homotopy grups in an $(\infty,1)$-topos see [[categorical homotopy groups in an (âˆž,1)-topos]].
 
@@ -700,8 +701,3 @@ For $\mathbf{B}\mathbb{Z}$ it is the other way round:
 [[!redirects geometric homotopy groups in an (infinity,1)-topos]]
 [[!redirects geometric homotopy groups in an (âˆž,1)-topos]]
 
-[[!redirects Ã©tale homotopy]]
-[[!redirects Ã©tale homotopy theory]]
-
-[[!redirects etale homotopy]]
-[[!redirects etale homotopy theory]]
