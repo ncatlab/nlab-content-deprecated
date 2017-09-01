@@ -5,6 +5,12 @@ Every wiki needs a sandbox! Just test *between* the horizontal rules below (`***
 
 ***
 
+**[[slice (âˆž,1)-topos|slice]]-[[automorphism âˆž-groups]] in [[higher prequantum geometry]]**
+
+| [[cohesive]] [[âˆž-groups]]: | [[Heisenberg âˆž-group]] | $\hookrightarrow$ | [[quantomorphism âˆž-group]] | $\hookrightarrow$ | [[âˆž-bisections]] of [[higher Courant groupoid]] | $\hookrightarrow$ | [[âˆž-bisections]] of [[higher Atiyah groupoid]] |
+|--|--|--|--|--|--|--|--|
+| [[L-âˆž algebras]]: | [[Heisenberg L-âˆž algebra]] | $\hookrightarrow$ | [[Poisson L-âˆž algebra]] | $\hookrightarrow$ | [[Courant L-âˆž algebra]] | $\hookrightarrow$ | twisted vector fields | 
+
 $$
   Alg_{Tens^\otimes_{[k]}}(\mathcal{C})
   \simeq
