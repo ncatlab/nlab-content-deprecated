@@ -14,7 +14,7 @@
 =--
 
 # Contents
-* automatic table of contents goes here
+* table of contents
 {:toc}
 
 ## Idea
@@ -532,6 +532,10 @@ higher versions
   * [[symmetric monoidal (âˆž,1)-category]]
 
   * [[closed monoidal (âˆž,1)-category]]
+
+## Related concepts
+
+* [[Picard group]]
 
 [[!redirects monoidal category]]
 [[!redirects monoidal categories]]
