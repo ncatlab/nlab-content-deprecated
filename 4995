@@ -55,7 +55,7 @@ Examples of cohesive $(\infty,1)$-toposes include
 
 * the $(\infty,1)$-topos $\mathbf{H} = $ [[SmoothâˆžGrpd]] of [[smooth âˆž-groupoids]]; 
 
-* the $(\infty,1)$-topos $\mathbf{H} = $ [[SynthDiffâˆžGrpd]] of [[synthetic differential âˆž-groupoids]];
+* the $(\infty,1)$-topos $\mathbf{H} = $ [[SynthDiffâˆžGrpd]] of [[formal smooth âˆž-groupoids]];
 
 * the $(\infty,1)$-topos $\mathbf{H} = $ [[SuperâˆžGrpd]] of [[super âˆž-groupoids]];
 
@@ -268,6 +268,7 @@ $$
   =:
   \;
   (coDisc \tilde \Gamma Disc \Gamma X
+
    \stackrel{\simeq}{\to}
   coDisc \tilde \Gamma X)
 \]
@@ -590,6 +591,7 @@ $$
 $$
 
 Now observe that we have an ordinary [[equivalence of categories]]
+
 
 $$
   [C^{op}, sSet]/const A 
@@ -1202,9 +1204,9 @@ From this one obtains the following list of examples of cohesive $(\infty,1)$-to
 
 * [[complex analytic âˆž-groupoid]]
 
-#### Synthetic differential $\infty$-groupoids
+#### Formal smooth $\infty$-groupoids
 
-* [[synthetic differential âˆž-groupoid]]
+* [[formal smooth âˆž-groupoid]]
 
 
 #### Smooth Super $\infty$-groupoids
@@ -1229,6 +1231,13 @@ $$
 of [[âˆž-stacks]] on the [[site]] of [[smooth manifolds]] with values in turn in [[âˆž-stack]] over a [[site]] of [[arithmetic schemes]], hence by [[smooth âˆž-groupoids]] but over a [[base (âˆž,1)-topos]] of algebraic [[âˆž-stacks]].
 
 This leads to [[differential algebraic K-theory]]. See there for details.
+
+### $E_\infty$-Arithmetic $\infty$-groupoids
+
+see _[[differential cohesion and idelic structure]]_
+
+[[!include arithmetic cohesion -- table]]
+
 
 ### Smooth cohesion over arbitrary base $\infty$-toposes
 
