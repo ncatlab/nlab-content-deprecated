@@ -218,7 +218,7 @@ The following table lists proposals for possible such identifications. The conte
 | $\to$ Ding |   |  [Â§1048](#1048)  |
 | Substanz   | the whole [[differential cohesion|differential]] [[cohesive (âˆž,1)-topos]]/[[cohesive homotopy type theory]]   |  [Â§1235](#1235), [Â§1238](#1238), [Â§1281](#1281) | 
 | **Idee**       | the [[term model]] of the above [[modal type theory]], in particular the true [[propositions]]  | [Â§1630b](#1630b), [Â§1631](#1631), [Â§1633](#1633), [Â§1634](#1634)  |
-| **Natur**      | [[model]] (representation) of the above [[modal type theory]] | [PNÂ§192](#PN192), [PNÂ§193b](#PN193b), [ELÂ§244](#EL244), [Â§1817](#1817) |
+| **Natur**      | [[model]] (representation) of the above [[modal type theory]] | [PNÂ§192](#PN192), [PNÂ§193b](#PN193b), [ELÂ§244](#EL244), [Â§1782](#1782), [Â§1817](#1817)  |
 | Raum-Zeit      | [[Ã©tale stacks]], being the models of [[infinitesimal shape modality|infinitesimal shape]] $\&$-[[modal types]] | [PNÂ§254a](#PN254a) |
 | Gravitation | [[adjoint modality]] $(&#643; \dashv \flat)$  | [PNÂ§204](#PN204)  |
 
@@ -2409,8 +2409,12 @@ See also [PSÂ§456b](#PS456b).
 
 > {#EL244} ELÂ§244 Die Idee, welche fÃ¼r sich ist, nach dieser ihrer Einheit mit sich betrachtet, ist sie Anschauen, und die anschauende Idee Natur. Als Anschauen aber ist die Idee in einseitiger Bestimmung der Unmittelbarkeit oder Negation durch Ã¤uÃŸerliche Reflexion gesetzt. Die absolute Freiheit der Idee aber ist, daÃŸ sie nicht bloÃŸ ins Leben Ã¼bergeht, noch als endliches Erkennen dasselbe in sich scheinen lÃ¤ÃŸt, sondern in der absoluten Wahrheit ihrer selbst sich entschlieÃŸt, das Moment ihrer Besonderheit oder des ersten Bestimmens und Andersseins, die unmittelbare Idee als ihren Widerschein, sich als Natur frei aus sich zu entlassen.
 
+> {#1782} Â§1782 Sie ist der einzige Gegenstand und Inhalt der Philosophie Indem sie alle Bestimmtheit in sich enthÃ¤lt, und ihr Wesen dieÃŸ ist, durch ihre Selbstbestimmung oder Besonderung zu sich zurÃ¼ckzukehren, so hat sie verschiedene Gestaltungen, und das GeschÃ¤ft der Philosophie ist, sie in diesen zu erkennen. Die Natur und der Geist sind Ã¼berhaupt unterschiedene Weisen, ihr Daseyn darzustellen; Kunst und Religion ihre verschiedenen Weisen, sich zu erfassen und ein sich angemessenes Daseyn zu geben; die Philosophie hat mit Kunst und Religion denselben Inhalt und denselben Zweck; aber sie ist die hÃ¶chste Weise, die absolute Idee zu erfassen, weil ihre Weise die hÃ¶chste, der Begriff, ist. Sie faÃŸt daher jene Gestaltungen der reellen und ideellen Endlichkeit, so wie der Unendlichkeit und Heiligkeit in sich, und begreift sie und sich selbst. Die Ableitung und ErkenntniÃŸ dieser besonderen Weisen ist nun das fernere GeschÃ¤ft der besonderen philosophischen Wissenschaften.
+
 > Â§1782 It is the sole subject matter and content of philosophy. Since it contains all determinations within it, and its essential nature is to return to itself through its self-determination or particularisation, it has various shapes, and the business of philosophy is to cognise it in these. Nature and spirit are in general different modes of presenting its existence, art and religion its different modes of apprehending itself and giving itself an adequate existence. Philosophy has the same content and the same end as art and religion; but it is the highest mode of apprehending the absolute idea, because its mode is the highest mode, the Notion.
 
+nature is [[representation]] of the (absolute) idea, but the idea is the [[term model]], hence nature is a [[model]] of the [[theory]] (the substance).
+see also in [PNÂ§193b](#PN193b), [PNÂ§250](#PN250)
 
 
 ##### (Die dialektische Methode)
@@ -2485,7 +2489,7 @@ Hence Nature is the externalization of the Idea, and, by [PNÂ§193b](#PN193b) i
 
 > PNÂ§193b $[$ ... $]$ nature is a representation of the idea, 
 
-Darstellung/representation: [[model]] of the [[theory]]
+Darstellung/representation: [[model]] of the [[theory]]. See also [Â§1782](#1782) and [PNÂ§250](#PN250)
 
 
 > PNÂ§195. Nature is, in itself a living whole. The movement of its idea through its sequence of stages is more precisely this: the idea posits itself as that which it is in itself; or, what is the same thing, it goes into itself out of that immediacy and externality which is death in order to go into itself; yet further, it suspends this determinacy of the idea, in which it is only life, and becomes spirit, which is its truth.
@@ -2508,6 +2512,8 @@ On the importance of the discussion of _Measure_ [above](#TheMeasure) in the pas
 > {#PN202b} PNÂ§202b The truly philosophical science of mathematics as theory of magnitude would be the science of measures, but this already presupposes the real particularity of things, which is only at hand in concrete nature.
 
 > {#PN250} PNÂ§250 Der Widerspruch der Idee, indem sie als Natur sich selbst Ã¤uÃŸerlich ist
+
+see also [PNÂ§193b](#PN193b)
 
 ### Die Mechanik
 
