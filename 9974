@@ -32,7 +32,7 @@ We discuss line 2-bundles in [[supergeometry]] and their relation to [[twisted K
 Let $\mathbf{H} \coloneqq $ [[SmoothSuperâˆžGrpd]] be the [[cohesive (âˆž,1)-topos]] of [[SmoothSuperâˆžGrpd|smooth super-âˆž-groupoids]]. With [[CartSp]]${}_{th}$ the [[site]] given by the [[full subcategory]] of the category of [[supermanifolds]] on those of the form $\mathbb{R}^{p|q}$ for $p,q \in \mathbb{N}$ this is the corresponding [[(âˆž,1)-category of (âˆž,1)-sheaves]]
 
 $$
-  SmoothSuper\infty Grod \simeq Sh_\infty(CartSp_{th})
+  SmoothSuper\infty Grpd \simeq Sh_\infty(CartSp_{th})
 $$
 
 This is cohesive over [[SuperâˆžGrpd]] $ \simeq Sh_\infty(SuperPoints)$
@@ -47,7 +47,7 @@ $$
 +-- {: .num_defn}
 ###### Definition
 
-Let $\mathbb{K} \in \mathbf{H}$ be the canocal [[affine line|affine]] [[line object]], whose underlying sheaf of sets assigns 
+Let $\mathbb{K} \in \mathbf{H}$ be the canonical [[affine line|affine]] [[line object]], whose underlying sheaf of sets assigns 
 
 $$
   \mathbb{K} \colon \mathbb{R}^{p|q} \mapsto C^\infty(\mathbb{R}^p, \mathbb{C})\otimes (\wedge^\bullet \mathbb{C}^q)_{even}
