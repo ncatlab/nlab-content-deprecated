@@ -200,6 +200,7 @@ Such morphisms are the integrated version of flat [[âˆž-Lie algebroid valued 
 
 The [[âˆž-Chern-Weil theory]] of [[connections on âˆž-bundles]] is about 
 
+
 1. the generalization of such flat form data to [[âˆž-Lie algebroid valued differential forms]] with [[curvature]].
 
 1. the generalization from globally defined differential form data -- which are connections on _trivial_ [[principal âˆž-bundle]]s -- to connections on arbitrary [[principal âˆž-bundle]]s.
@@ -776,8 +777,6 @@ The formulation of supergravity of [[supermanifolds]] and the relevance of the [
 The original articles that introduced specifically the D'Auria-FrÃ©-formalism are
 
 * {#DAuriaFre80} [[Riccardo D'Auria]], [[Pietro FrÃ©]] [[Tullio Regge]], _Graded Lie algebra, cohomology and supergravity_, Riv. Nuov. Cim. 3, fasc. 12 (1980) ([spire](http://inspirehep.net/record/156191))
-  
-
 
 * {#DAuriaFre}  [[Riccardo D'Auria]], [[Pietro FrÃ©]] _[[GeometricSupergravity.pdf:file]]_, Nuclear Physics B201 (1982) 101-140 
 
