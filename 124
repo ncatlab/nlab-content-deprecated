@@ -207,10 +207,16 @@ For various applications one uses toposes that have [[stuff, structure, property
 * [[(0,1)-topos]]
 
 * **topos**
+ 
+  [[category of sheaves]]
 
   [[base topos]], [[indexed topos]] 
 
-* [[(âˆž,1)-topos]] [[(âˆž,1)-sheaf]] / [[âˆž-stack]]
+* [[(âˆž,1)-topos]] 
+
+  * [[(âˆž,1)-category of (âˆž,1)-sheaves]]
+
+  * [[elementary (âˆž,1)-topos]] 
 
 * [[2-topos]], [[(âˆž,2)-topos]], [[(âˆž,2)-sheaf]]
 
