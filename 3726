@@ -272,41 +272,29 @@ A discussion in terms of [[model category]] [[presentable (âˆž,1)-category|pr
 [[!redirects (-2)-connected]]
 [[!redirects (-1)-connected]]
 [[!redirects 0-connected]]
+[[!redirects 0-connective]]
 [[!redirects 1-connected]]
+[[!redirects 1-connective]]
 [[!redirects 2-connected]]
+[[!redirects 2-connective]]
 [[!redirects 3-connected]]
+[[!redirects 3-connective]]
 [[!redirects 4-connected]]
 [[!redirects 5-connected]]
-
-
-[[!redirects 0-connective]]
-[[!redirects 1-connective]]
-[[!redirects 2-connective]]
-[[!redirects 3-connective]]
-
+[[!redirects âˆž-connected]]
+[[!redirects âˆž-connective]]
+[[!redirects n-connected]]
+[[!redirects n-connective]]
 
 [[!redirects n-connected object]]
+[[!redirects n-connective object]]
 [[!redirects n-connected objects]]
-[[!redirects n-connected]]
+[[!redirects n-connective objects]]
 [[!redirects n-simply connected object]]
 [[!redirects n-simply connected objects]]
 
-[[!redirects n-connected morphism]]
-[[!redirects n-connected morphisms]]
-
-
-[[!redirects âˆž-connected]]
-[[!redirects âˆž-connective]]
-
-
-[[!redirects n-connective object]]
-[[!redirects n-connective objects]]
-[[!redirects n-connective]]
-
 [[!redirects n-connected object in an (âˆž,1)-topos]]
 [[!redirects n-connected object in an (infinity,1)-topos]]
-
-
 [[!redirects n-connected object of an (âˆž,1)-topos]]
 [[!redirects n-connected objects of an (âˆž,1)-topos]]
 [[!redirects n-connected objects of (âˆž,1)-toposes]]
@@ -339,7 +327,9 @@ A discussion in terms of [[model category]] [[presentable (âˆž,1)-category|pr
 
 [[!redirects connected object in an (infinity,1)-category]]
 [[!redirects connected object in an (âˆž,1)-category]]
-
 [[!redirects connected object in an (infinity,1)-topos]]
 [[!redirects connected object in an (âˆž,1)-topos]]
+[[!redirects connective object]]
 
+[[!redirects n-connected morphism]]
+[[!redirects n-connected morphisms]]
