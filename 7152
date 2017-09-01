@@ -40,6 +40,27 @@ Notably, if the given site is a a [[locally âˆž-connected site]], then the Ã
 
 Even more generally, Ã©tale homotopy give the notion of [[shape of an (âˆž,1)-topos]]. (...)
 
+## Examples
+ {#Examples}
+
++-- {: .num_example}
+###### Example
+
+For $k$ a [[field]] of [[characteristic]] 0, then the [[affine line]] $\mathbb{A}^1_k$ is Ã©tale [[contractible homotopy type|contractible]]. This is no longer the case in [[positive number|positive]] [[characteristic]].
+
+=--
+
+([HSS 13, section 1](#HSS13))
+
++-- {: .num_prop}
+###### Proposition
+
+Let $k$ be an [[algebraically closed field]] of [[positive number|positive]] [[characteristic]]. Then the only [[smooth variety]] over $k$ which is Ã©tale [[contractible homotopy type|contractible]] is the point $Spec(k)$. In fact thisis the only smooth variety which is [[n-connected object of an (infinity,1)-topos|2-connected]].
+
+=--
+
+([HSS 13, theorem 1](#HSS13))
+
 ## Related concepts
 
 * [[algebraic fundamental group]]
@@ -66,12 +87,9 @@ An introduction is in
 
 * Tomer Schlank, Alexei Skorobogatov, _A very brief introduction to Ã©tale homotopy_. In: â€œTorsors, Ã©tale homotopy and applications to rational pointsâ€. LMS Lecture Note Series 405, Cambridge University Press, 2013. ([pdf](http://www2.imperial.ac.uk/~anskor/SCHLANK-SKOROBOGATOV.pdf))
 
-
 Lecture notes on the Ã©tale fundamental group are in
 
 * [[James Milne]], section 4 of _[[Lectures on Ã‰tale Cohomology]]
-
-
 Generalization to [[simplicial schemes]] is discussed in
 
 * [[Eric Friedlander]], 1982, _Ã‰tale homotopy of simplicial schemes_ , volume 104 of Annals of Mathematics Studies , Princeton University Press, Princeton, N.J. 
@@ -79,6 +97,15 @@ Generalization to [[simplicial schemes]] is discussed in
 More on this is in 
 
 * Michael Misamore, _Ã‰tale homotopy types and bisimplicial hypercovers_, Homology, Homotopy and Applications, Vol. 15 (2013), No. 1, pp.27-49. ([web](http://www.intlpress.com/HHA/v15/n1/a2/))
+
+Discussion from the point of view of [[(âˆž,1)-topos theory]] is in 
+
+* {#Hoyois13} [[Marc Hoyois]], _A note on Ã‰tale homotopy_, 2013 ([pdf](http://math.northwestern.edu/~hoyois/papers/etalehomotopy.pdf))
+
+Discussion in [[positive number|positive]] [[characteristic]] is in 
+
+* {#HSS13} Armin Holschbach, Johannes Schmidt, [[Jakob Stix]], _Ã‰tale contractible varieties in positive characteristic_ ([arXiv:1310.2784](http://arxiv.org/abs/1310.2784))
+
 
 [[!redirects Ã©tale homotopy theory]]
 
