@@ -5,7 +5,7 @@ The notion of a _classifying (âˆž,1)-topos_ is the [[vertical categorificatio
 Any (âˆž,1)-topos $K$ by definition classifies the âˆž-geometric morphisms into it in that it is the representing object of $geom(-,K)$.
 
 ## Examples
-A special case of this is the is the notion of a classifying (âˆž,1)-topos for a geometry in the sense of [[geometry (for structured (âˆž,1)-toposes)|structured spaces]]:
+A special case of this is the notion of a classifying (âˆž,1)-topos for a geometry in the sense of [[geometry (for structured (âˆž,1)-toposes)|structured spaces]]:
 
 The geometry $\mathcal{G}$ is the [[(âˆž,1)-category]] that plays role of the syntactic theory. For $\mathcal{X}$ an [[(âˆž,1)-topos]], a model of this theory is a limits and covering-preserving [[(âˆž,1)-functor]]
 
