@@ -1,22 +1,21 @@
+
 +-- {: .rightHandSide}
 +-- {: .toc .clickDown tabindex="0"}
-###Context###
+### Context
 #### $(\infty,1)$-Category theory
-+--{: .hide}
++-- {: .hide}
 [[!include quasi-category theory contents]]
 =--
 #### $(\infty,1)$-Topos Theory
-+--{: .hide}
++-- {: .hide}
 [[!include (infinity,1)-topos - contents]]
 =--
 =--
 =--
 
-
-
-#Contents#
+# Contents
 * table of contents
-{:toc}
+{: toc}
 
 ## Idea
 
@@ -30,6 +29,7 @@ The idea of $(\infty,1)$-toposes is to generalize the above situation from $1$ t
 * Working in the [[(âˆž,1)-category]] [[âˆžGrpd]] of [[infinity-groupoid|(âˆž,0)-categories]] amounts to doing [[homotopy theory]]. The point of 
 [[(âˆž,1)-sheaves]] is to pass to _parameterized_ [[(âˆž,0)-categories]], namely  [[(âˆž,1)-presheaf]] categories. Although these [[(âˆž,1)-topoi]] behave much like the $(\infty,1)$-topos 
 [[âˆžGrpd]], their objects are generalized  [[spaces]]  with higher [[homotopies]] that may carry  more structure. For instance, an [[âˆž-Lie groupoid]] is an [[(âˆž,1)-sheaf]] on [[CartSp]].
+
 
 ## Definition {#Definition}
 
@@ -86,11 +86,12 @@ an [[(âˆž,1)-topos]] is
 * in which all colimits are [[van Kampen colimits]].
  
 
-### Morphism
+### Morphisms
 
 A [[morphism]] between $(\infty,1)$-toposes is an [[(âˆž,1)-geometric morphism]].
 
 The [[(âˆž,1)-category]] of all $(\infty,1)$-topos is [[(âˆž,1)Toposes]].
+
 
 ## Types of $(\infty,1)$-toposes
 
@@ -100,16 +101,19 @@ for the moment see
 
 * [[topological localization]]
 
+
 ### Hypercomplete $(\infty,1)$-toposes
 
 for the moment see 
 
 * [[hypercomplete (âˆž,1)-topos]]
 
+
 ## Models 
 
 Another main theorem about $(\infty,1)$-toposes is that
 [[models for âˆž-stack (âˆž,1)-toposes]] are given by the [[model structure on simplicial presheaves]]. See there for details
+
 
 ## Properties
 
@@ -473,11 +477,39 @@ More on this with an eye on [[associated âˆž-bundle]]s is in
 
 * [[Matthias Wendt]], _Classifying spaces and fibrations of simplicial sheaves_ ([arXiv](http://arxiv.org/abs/1009.2930))
 
+
+[[!redirects (infinity,1)-topos]]
 [[!redirects (infinity,1)-topoi]]
 [[!redirects (infinity,1)-toposes]]
 [[!redirects (âˆž,1)-topos]]
 [[!redirects (âˆž,1)-topoi]]
 [[!redirects (âˆž,1)-toposes]]
 
-[[!redirects (âˆž,1)-Giraud theorem]]
+[[!redirects Grothendieck (infinity,1)-topos]]
+[[!redirects Grothendieck (infinity,1)-topoi]]
+[[!redirects Grothendieck (infinity,1)-toposes]]
+[[!redirects Grothendieck (âˆž,1)-topos]]
+[[!redirects Grothendieck (âˆž,1)-topoi]]
+[[!redirects Grothendieck (âˆž,1)-toposes]]
+
+[[!redirects Grothendieck-Rezk-Lurie (infinity,1)-topos]]
+[[!redirects Grothendieck-Rezk-Lurie (infinity,1)-topoi]]
+[[!redirects Grothendieck-Rezk-Lurie (infinity,1)-toposes]]
+[[!redirects Grothendieck-Rezk-Lurie (âˆž,1)-topos]]
+[[!redirects Grothendieck-Rezk-Lurie (âˆž,1)-topoi]]
+[[!redirects Grothendieck-Rezk-Lurie (âˆž,1)-toposes]]
+[[!redirects Grothendieckâ€“Rezkâ€“Lurie (infinity,1)-topos]]
+[[!redirects Grothendieckâ€“Rezkâ€“Lurie (infinity,1)-topoi]]
+[[!redirects Grothendieckâ€“Rezkâ€“Lurie (infinity,1)-toposes]]
+[[!redirects Grothendieckâ€“Rezkâ€“Lurie (âˆž,1)-topos]]
+[[!redirects Grothendieckâ€“Rezkâ€“Lurie (âˆž,1)-topoi]]
+[[!redirects Grothendieckâ€“Rezkâ€“Lurie (âˆž,1)-toposes]]
+[[!redirects Grothendieck--Rezk--Lurie (infinity,1)-topos]]
+[[!redirects Grothendieck--Rezk--Lurie (infinity,1)-topoi]]
+[[!redirects Grothendieck--Rezk--Lurie (infinity,1)-toposes]]
+[[!redirects Grothendieck--Rezk--Lurie (âˆž,1)-topos]]
+[[!redirects Grothendieck--Rezk--Lurie (âˆž,1)-topoi]]
+[[!redirects Grothendieck--Rezk--Lurie (âˆž,1)-toposes]]
+
 [[!redirects (infinity,1)-Giraud theorem]]
+[[!redirects (âˆž,1)-Giraud theorem]]
