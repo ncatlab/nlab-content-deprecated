@@ -1,16 +1,19 @@
 
 **[[Ã©tale morphism]]** ([[submersion]], [[immersion]])
 
+generally in **[[differential cohesion]]**
+
+* [[reduction modality]] $\dashv$ [[infinitesimal shape modality]]
+
 * [[formally Ã©tale morphism|formally Ã©tale]] ([[formally smooth morphism|formally smooth]], [[formally unramified morphism|formally unramified]])
 
 * [[Ã©tale topos]]
 
+* [[Ã©tale homotopy]]
+
+* [[Ã©tale cohomology]]
+
 * [[Ã©tale âˆž-groupoid]]
-
-axiomatization in **[[differential cohesion]]**
-
-* [[reduction modality]] $\dashv$ [[infinitesimal shape modality]]
-
 
 in **[[topology]]**
 
@@ -32,5 +35,4 @@ in **[[algebraic geometry]]**
 
 * [[Deligne-Mumford stack]]
 
-* [[Ã©tale cohomology]], [[pro-Ã©tale cohomology]], [[â„“-adic cohomology]]
-
+* [[â„“-adic cohomology]]
