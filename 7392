@@ -1,5 +1,5 @@
 
-The entries of the following table denote [[Quillen equivalences]] between [[model categories]] that [[presentable (âˆž,1)-category|present]] the [[(âˆž,1)-category]] of [[(âˆž,1)-categories]] (first table)  and [[(âˆž,1)-operads]] (second table).
+The entries of the following table denote [[Quillen equivalences]] between [[model categories]] that [[presentable (âˆž,1)-category|present]] the [[(âˆž,1)-category]] of [[(âˆž,1)-categories]] (first table)  and [[(âˆž,1)-operads]] (second table) and [[monoidal (âˆž,1)-categories]] (third table).
 
 |  | **[[(âˆž,1)Cat]]** |  | |  |
 |--|--|--|-|--|
@@ -10,7 +10,10 @@ The entries of the following table denote [[Quillen equivalences]] between [[mod
 |  | **[[(âˆž,1)Operad]]** |  | | |
 | [[model structure on simplicial operads|SimplicialOperads]] | $-$[[homotopy coherent dendroidal nerve]]$\to$ | [[model structure on dendroidal sets|DendroidalSets]] | | [[model structure for dendroidal Cartesian fibrations|RelativeDendroidalSets]] |
 | $\downarrow$[[dendroidal set|dendroidal nerve]] | | $\downarrow$ | | |
-| [[model structure for Segal operads|SegalOperads]] | $\hookrightarrow$ | [[model structure for dendroidal complete Segal spaces|DendroidalCompleteSegalSpaces]] |
+| [[model structure for Segal operads|SegalOperads]] | $\hookrightarrow$ | [[model structure for dendroidal complete Segal spaces|DendroidalCompleteSegalSpaces]] | | |
+|  |  |  | | |
+|  | **[[Mon(âˆž,1)Cat]]** |  | | |
+|  |  | [[model structure for dendroidal Cartesian fibrations|DendroidalCartesianFibrations]] | | |
 
 [[!redirects table - models for (infinity,1)-categories]]
 
