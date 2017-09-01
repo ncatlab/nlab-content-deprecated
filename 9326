@@ -25,7 +25,7 @@ Let $\mathcal{O}^\otimes$ be an [[(âˆž,1)-operad]]. A **coCartesian fibration
 1. such that the composite 
 
    $$
-     \mathcal{C}^\otimes \stackrel{p}{\to} \mathcal{O}^\otimes \to Fin_* = Comm
+     \mathcal{C}^\otimes \stackrel{p}{\to} \mathcal{O}^\otimes \to FinSet^{*/} = Comm^\otimes
    $$
 
    exhibits $\mathcal{C}^\otimes$ as an [[(âˆž,1)-operad]].
