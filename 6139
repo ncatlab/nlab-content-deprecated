@@ -39,7 +39,7 @@ $$
   \infty Group
 $$
 
-between [[pointed object|pointed]] [[âˆž-groupoid]]s and [[âˆž-group]]s, where $\Omega$ forms [[loop space object]]s.
+between [[pointed object|pointed]] [[connected]] [[âˆž-groupoid]]s and [[âˆž-group]]s, where $\Omega$ forms [[loop space object]]s.
 
 This is [[presentable (âˆž,1)-category|presented]] by a [[Quillen equivalence]] of [[model categories]]
 
