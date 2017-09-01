@@ -37,9 +37,35 @@ Externally this is a _$V$-fiber $\infty$-bundle_.
 
 See at _[[associated âˆž-bundle]]_ for more.
 
+## Example
+
+A fiber $\infty$-bundle whose typical fiber $V$ is a pointed [[connected object in an (âˆž,1)-topos|connected object]], hence a [[delooping]] $\mathbf{B}G$ of an [[âˆž-group]] $G$
+
+$$
+  V \simeq \mathbf{B}G
+$$
+
+is a _$G$-[[âˆž-gerbe]]_.
+
 ## Properties
 
 Every $V$-fiber $\infty$-bundle is the [[associated âˆž-bundle]] to an [[automorphism âˆž-group]]-[[principal âˆž-bundle]].
+
+## Related concepts
+
+* [[associated âˆž-bundle]], [[principal âˆž-bundle]]
+
+* [[âˆž-gerbe]]
+
+* [[local coefficient âˆž-bundle]]
+
+## References
+
+See the references at _[[associated âˆž-bundle]]_. 
+
+The explicit general definition appears as def. 4.1 in part I of
+
+* [[Thomas Nikolaus]], [[Urs Schreiber]], [[Danny Stevenson]], _[[schreiber:Principal infinity-bundles]]_
 
 [[!redirects fiber âˆž-bundle]]
 [[!redirects fiber âˆž-bundles]]
