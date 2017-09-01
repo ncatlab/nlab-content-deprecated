@@ -10,9 +10,9 @@
 +--{: .hide}
 [[!include etale morphisms - contents]]
 =--
-#### $(\infty,1)$-Category theory
+#### $(\infty,1)$-Topos Theory
 +--{: .hide}
-[[!include quasi-category theory contents]]
+[[!include (infinity,1)-topos - contents]]
 =--
 =--
 =--
@@ -25,14 +25,12 @@
 
 ## Definition
 
-### Traditional
-
 An **Ã©tale topos** is the [[sheaf topos]] over an [[Ã©tale site]].
 
 ### General abstract
  {#GeneralAbszrac}
 
-We discuss how in [[differential cohesion]] $\mathbf{H}_{th}$ every object $X$ canonically induces its Ã©tale topos $Sh_{\mathbf{H}_{th}}()$.
+We discuss how in [[differential cohesion]] $\mathbf{H}_{th}$ every object $X$ canonically induces its Ã©tale topos $Sh_{\mathbf{H}_{th}}(X)$.
 
 
 For $X \in \mathbf{H}_{th}$ any object in a [[differential cohesion|differential cohesive]] $\infty$-topos, we formulate 
@@ -168,7 +166,7 @@ $$
   (\mathbf{H}_{th})_{/X}^{fet}
 $$
 
-also as the ([[petit (âˆž,1)-topos|petit]]) [[(âˆž,1)-topos]] of $X$.
+also as the ([[petit (âˆž,1)-topos|petit]]) [[(âˆž,1)-topos]] of $X$, or the **Ã©tale topos** of $X$.
 
 Write
 
@@ -414,3 +412,13 @@ The Ã©tale topos over the big Ã©tale site of [[commutative rings]] is the [[
 [[!redirects Ã©tale topos]]
 [[!redirects Ã©tale toposes]]
 [[!redirects Ã©tale topoi]]
+
+[[!redirects Ã©tale (âˆž,1)-topos]]
+[[!redirects etale (âˆž,1)-topos]]
+[[!redirects Ã©tale (âˆž,1)-toposes]]
+[[!redirects etale (âˆž,1)-toposes]]
+
+[[!redirects Ã©tale (infinity,1)-topos]]
+[[!redirects etale (infinity,1)-topos]]
+[[!redirects Ã©tale (infinity,1)-toposes]]
+[[!redirects etale (infinity,1)-toposes]]
