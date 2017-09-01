@@ -49,13 +49,23 @@ Fully generally, a definition of augmentation of [[âˆž-algebras over an (âˆ
 +-- {: .num_example}
 ###### Example
 
-An augmentation of an [[E-âˆž ring]] $R$ itself, being an [[A-âˆž algebra]] over the [[sphere spectrum]] $\mathbb{S}$, is a homomorphism 
+An augmentation of an [[E-âˆž ring]] $R$, being an [[E-âˆž algebra]] over the [[sphere spectrum]] $\mathbb{S}$, is a homomorphism 
 
 $$
   \epsilon \colon R \to \mathbb{S}
 $$
 
 to the [[sphere spectrum]], regarded as an [[E-âˆž ring]].
+
+Forming [[augmentation ideals]] constitutes an [[equivalence of (âˆž,1)-categories]]
+
+$$
+  E_\infty Ring_{/\mathbb{S}}
+  \stackrel{\simeq}{\longrightarrow}
+  E_\infty Ring^{nu}
+$$
+
+of $\mathbb{S}$-augmented $E_\infty$-rings and [[nonunital E-âˆž rings]] ([Lurie, prop. 5.2.3.15](#Lurie)).
 
 =--
 
