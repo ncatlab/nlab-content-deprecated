@@ -1,0 +1,16 @@
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+AndrÃ©-Quillen cohomology is the [[cochain cohomology]] of the [[derived functor|derived]] [[KÃ¤hler differentials]], hence of the [[cotangent complex]] (for the moment see there for more).
+
+## Related concepts
+
+* [[topological AndrÃ©-Quillen homology]]
+
+[[!redirects AndrÃ©-Quillen cohomology]]
+[[!redirects Andre-Quillen homology]]
+[[!redirects Andre-Quillen cohomology]]
