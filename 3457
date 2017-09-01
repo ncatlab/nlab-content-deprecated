@@ -12,7 +12,6 @@
 =--
 =--
 =--
-=--
 
 
 #Contents#
@@ -38,6 +37,10 @@ An Ã©tale map between [[smooth spaces]] is a  [[local diffeomorphisms]], which
 For an Ã©tale map between [[schemes]] see _[[Ã©tale morphism of schemes]]_.
 
 Restricted to [[affine schemes]], this yields, [[Isbell duality|dually]], a notion of Ã©tale morphisms between [[rings]]. Ã‰tale maps between noncommutative [[rings]] have also been considered.
+
+### Between $E_\infty$-rings
+
+* [[Ã©tale morphism of E-âˆž rings]]
 
 
 ### Between analytic spaces
