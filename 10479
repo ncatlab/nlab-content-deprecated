@@ -33,7 +33,10 @@ $$
 
 of [[âˆž-stacks]] on the [[site]] of [[smooth manifolds]] with values in turn in [[âˆž-stack]] over a [[site]] of [[arithmetic schemes]], hence by [[smooth âˆž-groupoids]] but over a [[base (âˆž,1)-topos]] of algebraic [[âˆž-stacks]].
 
+This may be regarded as sitting inside the [[smooth E-âˆž-groupoids]].
+
 It is observed in this context that the [[Beilinson regulator]] in [[algebraic K-theory]] is naturally understood as a [[Chern character]] in this perspective of [[differential cohomology]] ([Bunke-Tamme 12](#BunkeTamme12)), which helps with studying it.
+
 
 ## Definition
 
