@@ -27,7 +27,7 @@ Typically and naturally, a model structure on spectra forms a [[stable model cat
 
 ## Examples
 
-A classical model structure, not however with a symmetric monoidal smash product, is ([Bousfield-Friedlander 78](#BousfieldFriedlander78)).
+A classical model structure, not however with a symmetric monoidal smash product, is ([Bousfield-Friedlander 78](#BousfieldFriedlander78)), see at _[[Bousfield-Friedlander model structure]]_.
 
 Among the model structures with a [[symmetric monoidal smash product of spectra]] ("highly structured spectra") are
 
@@ -44,6 +44,8 @@ as well as
 
 ## Related concepts
 
+* [[model structure for connective spectra]]
+
 * [[model structure on presheaves of spectra]]
 
 * [[model structure for ring spectra]] 
@@ -56,9 +58,11 @@ as well as
 
 ## References
 
+The [[Bousfield-Friedlander model structure]] is due to
+
 * {#BousfieldFriedlander78} [[Aldridge Bousfield]], [[Eric Friedlander]], _Homotopy theory of ô€€€$\Gamma$-spaces, spectra, and bisimplicial sets_, Springer Lecture Notes in Math., Vol. 658, Springer, Berlin, 1978, pp. 80-130. ([pdf](https://www.math.rochester.edu/people/faculty/doug/otherpapers/bousfield-friedlander.pdf))
 
-(a quick review of this is in [Lykadis 98, section 10](#Lykadis98))
+(a quick review of this is in [Lydakis 98, section 10](#Lydakis98)).
 
 * [[Michael Mandell]], [[Peter May]], [[Stefan Schwede]], [[Brooke Shipley]], _Model categories of diagram spectra_, Proceedings of the London Mathematical Society, 82 (2001), 441-512 ([pdf](http://www.math.uchicago.edu/~may/PAPERS/mmssLMSDec30.pdf))
 
@@ -70,7 +74,7 @@ A discussion of model structures on spectra in general ambient model categories 
 
 A discussion in the context of [[model structure for excisive functors]] is in
 
-* {#Lykadis98} Lykadis, section 10 of _Simplicial functors and stable homotopy theory_ Preprint, available via Hopf archive, 1998 ([pdf](http://hopf.math.purdue.edu/Lydakis/s_functors.pdf))
+* {#Lydakis98} lydakis, section 10 of _Simplicial functors and stable homotopy theory_ Preprint, available via Hopf archive, 1998 ([pdf](http://hopf.math.purdue.edu/Lydakis/s_functors.pdf))
 
 [[!redirects model category of spectra]]
 [[!redirects model categories of spectra]]
