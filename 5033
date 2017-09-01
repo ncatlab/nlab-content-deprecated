@@ -34,16 +34,17 @@ Morally, this should actually be an [[(âˆž,2)-category]], just as [[Topos]] i
 (...)
 
 ### Existence of limits and colimits
+ {#ExistenceOfLimitsAndColimits}
 
 We discuss existence of [[(âˆž,1)-limit]]s and [[(âˆž,1)-colimit]]s in $(\infty,1)Topos$.
 
 +-- {: .num_prop}
 ###### Proposition
 
-The $(\infty,1)$-category $(\infty,1)Topos$ has all small $(\infty,1)$-colimits and the inclusion
+The $(\infty,1)$-category $(\infty,1)Topos$ has all small $(\infty,1)$-colimits and functor
 
 $$
-  (\infty,1)Topos \hookrightarrow (\infty,1)Cat
+  (\infty,1)Topos \to (\infty,1)Cat
 $$
 
 preserves these.
@@ -59,10 +60,10 @@ This is [[Higher Topos Theory|HTT, prop. 6.3.2.3]].
 The $(\infty,1)$-category $(\infty,1)Topos$ has all small $(\infty,1)$-colimits and the inclusion
 
 $$
-  (\infty,1)Topos^{op} \hookrightarrow (\infty,1)Cat
+  (\infty,1)Topos^{op} \to (\infty,1)Cat
 $$
 
-sends [[(âˆž,1)-limit]]s to [[(âˆž,1)-limit]]s.
+sends [[(âˆž,1)-limits]] to [[(âˆž,1)-limits]].
 
 =--
 
