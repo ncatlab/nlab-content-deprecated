@@ -52,7 +52,7 @@ In ([Lurie](#Lurie)) a formalization and proof of the cobordism hypothesis is de
 
 For $\mathcal{C}$ a [[symmetric monoidal (âˆž,n)-category]] write $Core(\mathcal{C})$ for its [[core]] (the maximal [[âˆž-groupoid]] in $\mathcal{C}$).
 
-For $\mathcal{C}$, $\mathcal{D}$ twho [[symmetric monoidal (âˆž,n)-categories]], write   $Fun^\otimes(\mathcal{D}, \mathcal{C} )$ for  the [[(âˆž,n)-category]] of symmetric monoidal [[(âˆž,n)-functors]] between them.
+For $\mathcal{C}$, $\mathcal{D}$ two [[symmetric monoidal (âˆž,n)-categories]], write   $Fun^\otimes(\mathcal{D}, \mathcal{C} )$ for  the [[(âˆž,n)-category]] of symmetric monoidal [[(âˆž,n)-functors]] between them.
 
 
 +-- {: .num_defn #FramedCobordismsNCat}
