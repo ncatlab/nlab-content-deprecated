@@ -91,6 +91,9 @@ The [[derived geometry]] of the Ã©tale site is the [[Ã©tale (âˆž,1)-site]
 
 * [[Ã©tale morphism]], **Ã©tale site**, [[Ã©tale topos]], [[Ã©tale cohomology]], [[Ã©tale homotopy]]
 
+* The [[lisse-Ã©tale site]] of some $X$ consists of [[smooth morphisms]] $U \to X$.
+
+
 [[fpqc-site]] $\to$ [[fppf-site]] $\to$ [[syntomic site]] $\to$ **Ã©tale site** $\to$ [[Nisnevich site]] $\to$ [[Zariski site]]
 
 * [[pro-Ã©tale site]]
