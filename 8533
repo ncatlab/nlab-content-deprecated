@@ -34,13 +34,24 @@ See at _[[module over an algebra over an (âˆž,1)-operad]]_.
 
   * [[2-module]]
 
+* [[bimodule]]
+
+  [[(âˆž,1)-bimodule]]
+
+* [[(âˆž,n)-module]]
+
 * [[representation]], [[âˆž-representation]]
+
+
+
 
 ## References
 
-Section 3.3 of 
+Modues over algebras over an arbitrary [[(âˆž,1)-operad]] are discussed in  section 3.3 of 
 
 * [[Jacob Lurie]], _[[Higher Algebra]]_
+
+Modules specifically over [[A-âˆž algebras]] are discussed in section 4.2 there.
 
 
 [[!redirects âˆž-module]]
