@@ -23,11 +23,11 @@
 
 A variant of [[Ã©tale morphism of schemes]] where the finitess conditions on [[Ã©tale morphisms]] are relaxed.
 
-Using in the definition of _[[pro-Ã©tale site]]_ and _[[pro-Ã©tale cohomology]]_.
+Used in the definition of _[[pro-Ã©tale site]]_ and _[[pro-Ã©tale cohomology]]_.
 
 ## Definition
 
-+-- {: .num_defn}
++-- {: .num_defn #WeaklyEtale}
 ###### Definition
 
 A [[morphism]] $f \colon X \longrightarrow Y$ of [[schemes]]
@@ -69,9 +69,40 @@ A [[weakly Ã©tale morphism]] which is [[locally of finite presentation]] is an
 
 =--
 
+In fact a weakly Ã©tale morphism is equivalently a [[formally Ã©tale morphism]] which is "locally [[pro-object|pro-finitely]] presentable" (dually locally of [[ind-object|ind]]-finite rank) in the following sense
+
++-- {: .num_defn #IndEtale}
+###### Definition
+
+For $A \to B$ a [[homomorphism]] of [[rings]], say that it is an **[[ind-Ã©tale morphism]]** if that $A$-[[associative algebra|algebra]] $B$ is a [[filtered colimit]] of $A$-[[Ã©tale algebras]].
+
+=--
+
++-- {: .num_prop}
+###### Proposition
+
+Let $f \;\colon\; A \longrightarrow B$ be a [[homomorphism]] of [[rings]].
+
+* If $f$ is ind-Ã©tale, def. \ref{IndEtale}, then it is weakly Ã©tale, def. \ref{WeaklyEtale}.
+
+Almost conversely
+
+* If $f$ is weakly Ã©tale, then there is a [[faithfully flat morphism]] $g \colon B \to C$ which is ind-Ã©tale such that the [[composition|composite]] $g\circ f$ is ind-Ã©tale.
+
+=--
+
+([Bhatt-Scholze 13, theorem 1.3](#BhattScholze13))
+
++-- {: .num_cor}
+###### Corollary
+
+The [[sheaf toposes]] over the [[sites]]  of weak Ã©tale morphisms and of [[pro-Ã©tale morphisms of schemes]] into  some base [[scheme]] are [[equivalence of categories|equivalent]], both define the  _[[pro-Ã©tale topos]]_ over the _[[pro-Ã©tale site]]_.
+
+=--
+
 ## Related concepts
 
-
+[[Ã©tale morphism of schemes|Ã©tale morphism]] $\Rightarrow$ [[pro-Ã©tale morphism of schemes|pro-Ã©tale morphism]] $\Rightarrow$ [[weakly Ã©tale morphism of schemes|weakly Ã©tale morphism]] $\Rightarrow$ [[formally Ã©tale morphism of schemes|formally Ã©tale morphism]]
 
 ## References
 
