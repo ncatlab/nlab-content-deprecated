@@ -6,7 +6,7 @@
 
 ## Definition
 
-+-- {: .un_defn}
++-- {: .num_defn}
 ###### Definition
 
 An **Ã©tale cover** of an algebraic [[scheme]] $X$ is a set 
@@ -20,14 +20,14 @@ $$
 
 =--
 
-+-- {: .un_remark}
++-- {: .num_remark}
 ###### Remark
 
 The condition of being locally of finite type is just strengthening the variant of the  notion of Ã©tale: in the case of non-Noetherian schemes Grothendieck requires instead that Ã©tale morphisms be locally of finite presentation; for the purpose of [[Ã©tale topology]] locally of finite type is required. 
 
 =--
 
-+-- {: .un_remark}
++-- {: .num_remark}
 ###### Remark
 
 The [[Ã©tale site]] has [[covering]]s given by the Ã©tale covers.
@@ -36,7 +36,7 @@ The [[Ã©tale site]] has [[covering]]s given by the Ã©tale covers.
 
 ## Properties
 
-+-- {: .un_prop}
++-- {: .num_prop}
 ###### Proposition
 
 Every Ã©tale cover is a [[cover]] in the [[fpqc topology]].
