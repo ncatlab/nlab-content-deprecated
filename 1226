@@ -19,16 +19,21 @@ This is the analog of a [[filtered category]] in the context of [[(âˆž,1)-cat
 
 The main purpose of considering filtered (âˆž,1)-categories is to define [[filtered (âˆž,1)-colimits]], which are the colimits that commute with [[finite (âˆž,1)-limits]].
 
-## Definition of filtered quasicategory
+## Definition
+
++-- {: .num_defn}
+###### Definition
+
 
 Let $\kappa$ be a [[regular cardinal]], and let $C\in \sSet$ be an (âˆž,1)-category, incarnated as a [[quasicategory]].
 
 $C$ is called **$\kappa$-filtered** if for all $\kappa$-small $K\in\sSet$ and every morphism $f\colon K\to C$ there is a morphism $\hat p\colon \rcone(K)\to C$ extending $f$, where $\rcone(K)$ denotes the (right) [[cone]] of the simplicial set $K$.  $C$ is called **filtered** if it is $\omega$-filtered.
 
+=--
 
 ## Properties
 
-+-- {: .un_prop}
++-- {: .num_prop}
 ###### Proposition
 
 An [[(âˆž,1)-category]] $K$ is filtered precisely if [[(âˆž,1)-colimit]]s of shape $K$ in [[âˆž Grpd]] commute with all [[finite (âˆž,1)-limits]], hence if
@@ -43,9 +48,25 @@ is a left [[exact (âˆž,1)-functor]].
 
 This is [[Higher Topos Theory|HTT, prop. 5.3.3.3]].
 
++-- {: .num_prop}
+###### Proposition
+
+A filtered $(\infty,1)$-category is in particular a [[sifted (âˆž,1)-category]].
+
+=--
+
+This appears as ([Lurie, prop. 5.3.1.20](#Lurie)). Since [[sifted (âˆž,1)-colimits]] are precisely those that commute with finite [[products]], this is a direct reflection of the fact that finite products are a special kind of [[finite (âˆž,1)-limits]].
+
++-- {: .num_cor}
+###### Corollary
+
+For $C$ a filtered $(\infty,1)$-category, the [[diagonal]] [[(âˆž,1)-functor]] $\Delta : C \to C \times C$ if a [[cofinal (âˆž,1)-functor]].
+
+=--
+
 ## Related concepts
 
-* [[sifted category]], [[sifted (âˆž,1)-category]];
+* [[sifted category]], [[sifted colimit]], [[sifted (âˆž,1)-category]], [[sifted (âˆž,1)-colimit]]
 
 * [[directed set]], [[filtered category]], **filtered (âˆž,1)-category**
 
@@ -54,6 +75,7 @@ This is [[Higher Topos Theory|HTT, prop. 5.3.3.3]].
 Section 5.3.1 of
 
 * [[Jacob Lurie]], _[[Higher Topos Theory]]_
+ {#Lurie}
 
 [[!redirects filtered quasicategory]]
 [[!redirects filtered (infinity,1)-categories]]
