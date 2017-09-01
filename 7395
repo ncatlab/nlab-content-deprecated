@@ -20,7 +20,8 @@
 ## Idea
 
 The _model structure for dendroidal (co)Cartesian fibrations_ is an [[operad|operadic]] analog of the _[[model structure for Cartesian fibrations]]_. Its fibrant objects are (co)[[Cartesian fibrations of dendroidal sets]]. These in turn model (Grothendieck-)fibrations of [[(âˆž,1)-operads]].
-In particular, over the [[terminal object]], the [[E-âˆž operad]], this is a model for [[symmetric monoidal (âˆž,1)-categories]].
+
+In particular, over the [[terminal object]], the [[E-âˆž operad]], this is a model for the collection [[symmetric monoidal (âˆž,1)-categories]]. Over an arbitrary [[(âˆž,1)-operad]], this is a model for the [[(âˆž,1)-category]] [[OMon(âˆž,1)Cat]] of [[O-monoidal (âˆž,1)-categories]].
 
 
 
