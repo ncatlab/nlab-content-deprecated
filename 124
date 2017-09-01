@@ -222,7 +222,11 @@ For various applications one uses toposes that have [[stuff, structure, property
 
   * [[elementary (âˆž,1)-topos]] 
 
+  * [[(n,1)-topos]]
+
 * [[2-topos]], [[(âˆž,2)-topos]], [[(âˆž,2)-sheaf]]
+
+* [[(âˆž,n)-topos]]
 
 [[!include locally presentable categories - table]]
 
