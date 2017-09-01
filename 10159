@@ -1,0 +1,31 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Complex geometry
++--{: .hide}
+[[!include complex geometry - contents]]
+=--
+=--
+=--
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+On a [[KÃ¤hler manifold]] the [[KÃ¤hler form]] $\omega$ can locally be written as 
+
+$$
+  \omega = \partial \overline{\partial} K
+$$
+
+for some real-valued function $K$, where $\partial$ denotes the [[Dolbeault operator]]. This function $K$ is called the corresponding _KÃ¤hler potential_.
+
+## Related concepts
+
+* [[PoincarÃ© lemma]]
+
+
+[[!redirects KÃ¤hler potentials]]
