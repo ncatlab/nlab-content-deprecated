@@ -1,4 +1,8 @@
 
+#Contents#
+* table of contents
+{:toc}
+
 ## Idea
 
 The [[(âˆž,2)-category]] of [[(âˆž,1)-operads]]. The [[operad|operadic]] generalization of [[(âˆž,1)Cat]].
@@ -7,4 +11,19 @@ The [[(âˆž,2)-category]] of [[(âˆž,1)-operads]]. The [[operad|operadic]] g
 
 [[!include table - models for (infinity,1)-operads]]
 
+## Related concepts
+
+* [[Cat]], [[Operad]]
+
+* [[2Cat]]
+
+* [[(âˆž,1)Cat]], [[(âˆž,1)Operad]]
+
+* [[(âˆž,n)Cat]]
+
+
+
+
 category: category
+
+[[!redirects (infinity,1)Operad]]
