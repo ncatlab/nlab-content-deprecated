@@ -463,10 +463,9 @@ Classes of special cases of cohomologies with their own entries include
 
 The probably most familiar kind of cohomology is that of a [[cochain complex]] dual to a [[chain complex]]. 
 
-Using the [[Dold-Kan correspondence]] [[chain complex]]es are understood as components of strict [[spectrum object]]s in the archetypical [[(âˆž,1)-topos]] [[âˆžGrpd]] of [[âˆž-groupoid]]s: namely those [[âˆž-groupoid]]s with the structure of a _[[group object|strict]]_ abelian [[groupoid object in an (âˆž,1)-category|group object]]: as [[Kan complex]]es these are abelian [[simplicial group]]s.
+Using the [[Dold-Kan correspondence]] [[chain complex]]es are understood as particular [[spectra]], i.e. [[spectrum object]]s in the archetypical [[(âˆž,1)-topos]] [[âˆžGrpd]] of [[âˆž-groupoid]]s.  Positively graded chain complexes (the "connective" ones) are just [[âˆž-groupoid]]s with the structure of a _[[group object|strict]]_ abelian [[groupoid object in an (âˆž,1)-category|group object]]: as [[Kan complex]]es these are abelian [[simplicial group]]s.
 
-
-This way ordinary chain cohomology is seen to be a special case of general cohomology in $\mathbf{H} = $ [[âˆžGrpd]]. A more detailed discussion of how from this perspective the usual formulas for cochains and cocycles appear is at 
+This way, ordinary chain cohomology is seen to be a special case of general cohomology in $\mathbf{H} = $ [[âˆžGrpd]]. A more detailed discussion of how from this perspective the usual formulas for cochains and cocycles appear is at 
 
 * [[chain homology and cohomology]].
 
