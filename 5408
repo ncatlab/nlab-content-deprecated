@@ -15,11 +15,9 @@
 
 ## Definition
 
-For $X$ a [[scheme]] or more generally an [[algebraic stack]], let $X_{et}$ be its [[small Ã©tale site]]: the full [[subcategory]] of the [[slice category]] $Aff/X$ on the [[Ã©tale morphism]]s equipped with the induced [[Ã©tale topology]].
+For $X$ a [[scheme]] or more generally an [[algebraic stack]], let $X_{et}$ be its [[small Ã©tale site]]: the full [[subcategory]] of the [[slice category]] $Sch/X$ on the [[Ã©tale morphisms]] equipped with the induced [[Ã©tale topology]].
 
-Then the [[category of sheaves]] $Sh(X_{et})$ is called the **Ã©tale [[topos]]** of $X$. 
-
-This is the [[little topos]]-incarnation of $X$.
+Then the [[category of sheaves]] $Sh(X_{et})$ is called the **[[Ã©tale topos]]** of $X$. (See there for more) This is the [[little topos]]-incarnation of $X$.
 
 ## Related concepts
 
