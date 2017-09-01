@@ -40,6 +40,7 @@ For details see [[groupoid object in an (âˆž,1)-category]].
 
 ## Related concepts
 
+
 * [[group]]
 
 * [[2-group]]
@@ -48,15 +49,19 @@ For details see [[groupoid object in an (âˆž,1)-category]].
 
 * **$\infty$-group**
 
-* [[looping and delooping]]
+  * [[looping and delooping]]
 
-* [[automorphism âˆž-group]],
+  * [[automorphism âˆž-group]],
 
-* [[center of an âˆž-group]]
+  * [[center of an âˆž-group]]
 
-* [[outer automorphism âˆž-group]]
+  * [[normal morphism of âˆž-groups]]
 
-* [[Eilenberg-MacLane object]], [[âˆž-gerbe]]
+  * [[stabilizer âˆž-group]]
+
+  * [[outer automorphism âˆž-group]]
+
+  * [[Eilenberg-MacLane object]], [[âˆž-gerbe]]
 
 
 ## References
