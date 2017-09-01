@@ -17,7 +17,7 @@
 
 This is the analog of a [[filtered category]] in the context of [[(âˆž,1)-categories]].
 
-The main purpose of considering filtered (âˆž,1)-categories is to define filtered (âˆž,1)-colimits, which are the colimits that commute with [[finite (âˆž,1)-limits]].
+The main purpose of considering filtered (âˆž,1)-categories is to define [[filtered (âˆž,1)-colimits]], which are the colimits that commute with [[finite (âˆž,1)-limits]].
 
 ## Definition
 
