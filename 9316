@@ -1,0 +1,47 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+### Context
+#### Riemannian geometry
++--{: .hide}
+[[!include Riemannian geometry - contents]]
+=--
+#### Complex geometry
++--{: .hide}
+[[!include complex geometry - contents]]
+=--
+=--
+=--
+
+
+## Idea
+
+A _KÃ¤hler-Einstein manifold_ is a [[Riemannian manifold]] which is both a [[KÃ¤hler manifold]] as well as an [[Einstein manifold]].
+
+## References
+
+* Xiu-Xiong Chen, [[Simon Donaldson]], Song Sun, _KÃ¤hler-Einstein metrics and stability_ ([arXiv:1210.7494](http://arxiv.org/abs/1210.7494))
+
+[[!redirects KÃ¤hler-Einstein manifolds]]
+
+[[!redirects KÃ¤hler-Einstein metric]]
+[[!redirects KÃ¤hler-Einstein metrics]]
+
+
+[[!redirects Einstein-KÃ¤hler manifold]]
+[[!redirects Einstein-KÃ¤hler manifolds]]
+
+[[!redirects Einstein-KÃ¤hler metric]]
+[[!redirects Einstein-KÃ¤hler metrics]]
+
+[[!redirects Kahler-Einstein manifolds]]
+[[!redirects Kahler-Einstein manifolds]]
+
+[[!redirects Kahler-Einstein metric]]
+[[!redirects Kahler-Einstein metrics]]
+
+[[!redirects Einstein-Kahler manifold]]
+[[!redirects Einstein-Kahler manifolds]]
+
+[[!redirects Einstein-Kahler metric]]
+[[!redirects Einstein-Kahler metrics]]
