@@ -1,0 +1,35 @@
+
+#Contents#
+* table of contents
+{:toc}
+
+
+## Idea
+
+An [[âˆž-group]] equipped with a map to a fixed base [[âˆž-group]], such as that underlying the [[sphere spectrum]] or an [[Eilenberg-MacLane spectrum]].
+
+## Related concepts
+
+* [[augmentation]]
+
+* [[augmented algebra]], [[augmentation ideal]]
+
+* [[augmented A-infinity algebra]]
+
+## References
+
+Discussion of [[âˆž-groups of units]] of [[E-âˆž rings]] as [[abelian âˆž-groups]] augmented over the [[sphere spectrum]] is in
+
+* Steffen Sagave, _Spectra of units for periodic ring spectra_ ([arXiv:1111.6731](http://arxiv.org/abs/1111.6731))
+
+Augmentation over the [[Eilenberg-MacLane spectrum]] $H\mathbb{Z}$ appears in
+
+* Fregory Arone, [[Kathryn Hess]], _Augmented $\Gamma$-spaces, the stabe rank filtration, and a $b u$-analogue of the Whitehead conjectur_ ([pdf](http://www.math.union.edu/~leshk/papers/FilteredGammaSpaces-revision.pdf))
+ {#AroneHess}
+
+
+[[!redirects augmented infinity-groups]]
+
+[[!redirects augmented âˆž-group]]
+[[!redirects augmented âˆž-groups]]
+
