@@ -34,6 +34,11 @@ An ordinary [[group]] is either an [[abelian group]] or not. For an [[âˆž-gro
 
 [[!include k-monoidal table]]
 
+## Related concepts
+
+* [[âˆž-groupd]]
+
+* [[braided âˆž-group]]
 
 ## References
 
@@ -45,4 +50,5 @@ Section 5 of
 [[!redirects k-monoidal âˆž-group]]
 
 [[!redirects abelian âˆž-group]]
+[[!redirects abelian âˆž-groups]]
 
