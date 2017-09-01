@@ -210,6 +210,8 @@ More on this is at [[(âˆž,1)-category of (âˆž,1)-presheaves]].
 
 * **(âˆž,1)-functor**
 
+  * [[monoidal (âˆž,1)-functor]]
+
 * [[(âˆž,n)-functor]]
 
 
@@ -225,3 +227,5 @@ discusses morphisms of [[quasi-category|quasi-categories]].
 [[!redirects (infinity,1)-functors]]
 [[!redirects (âˆž,1)-functor]]
 [[!redirects (âˆž,1)-functors]]
+
+
