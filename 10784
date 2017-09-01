@@ -24,12 +24,10 @@
 
 ## Idea
 
-A variant of the [[Ã©tale site]] where the finitess conditions on the [[fibers]] of [[Ã©tale morphisms]] is relaxed to a 
-[[pro-object|pro-]]finitenss condition.
+The _pro-Ã©tale site_ is a variant of the [[Ã©tale site]] where the finitess conditions on the [[fibers]] of [[Ã©tale morphisms of schemes|Ã©tale morphisms]] is relaxed to a 
+[[pro-object|pro-]]finitenss condition ([[pro-Ã©tale morphism of schemes|pro-Ã©tale morphisms]])
 
-The [[sheaf topos]] over the pro-Ã©tale site might by called the pro-[[Ã©tale topos]].
-
-The resulting [[abelian sheaf cohomology]] -- _pro Ã©tale cohomology_ -- has a good relation to [[â„“-adic cohomology]].
+The [[sheaf topos]] over the pro-Ã©tale site might by called the _pro-[[Ã©tale topos]]_. Its [[abelian sheaf cohomology]] -- _pro Ã©tale cohomology_ -- improves on that of the original [[Ã©tale topos]] in that it genuinely contains ([Bhatt-Scholze 13](#BhattScholze13)) the [[Weil cohomology theory]] called [[â„“-adic cohomology]] (while over the [[Ã©tale site]] this is only given by an [[inverse limit]] of [[abelian sheaf cohomology]]).
 
 ## Definition
 
