@@ -1,0 +1,20 @@
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+The notion of [[formally Ã©tale morphism]] between [[schemes]].
+
+## Properties
+
+### Relation to Ã©tale morphism
+
+Formally Ã©tale morphisms of schemes which are in addition [[locally of finite presentation]] are equivalently [[Ã©tale morphisms of schemes]].
+
+
+[[!redirects formally Ã©tale morphisms of schemes]]
+
+[[!redirects formally etale morphism of schemes]]
+[[!redirects formally etale morphisms of schemes]]
