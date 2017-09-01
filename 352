@@ -15,11 +15,22 @@
 
 ## Idea
 
-$\infty$-Categories are the entities studied in [[higher category theory]]. See also there.
+The term "$\infty$-category" refers to a joint higher generalization of the notion of [[groupoid]], [[category]], and [[2-groupoid]], [[3-groupoid]], ... [[âˆž-groupoid]]. 
 
-In generalization to how an ordinary [[category]] has [[morphism|morphisms]] going between [[object|objects]], and a [[2-category]] has both morphisms (or 1-morphisms) between objects and 2-morphisms (or 2-cells) going between 1-morphisms, in an $\infty$-category (sometimes called an $\omega$-[[omega-category|category]]), there are $j$-morphisms going between $(j-1)$-morphisms for all $j = 1, 2, \ldots$.  (The $0$-morphisms are the objects of the $\infty$-category.)
+In generalization to how an ordinary [[category]] has [[morphisms]] going between [[objects]], and a [[2-category]] has both morphisms (or _[[1-morphisms]]_ or _1-cells_) between objects and _[[2-morphisms]]_ (or _2-cells_) going between 1-morphisms, in an $\infty$-category, there are [[n-morphism|k-morphisms]] going between $(j-1)$-morphisms for all $j = 1, 2, \ldots$.  (The $0$-morphisms are the objects of the $\infty$-category.)
 
-If all the $j$-morphisms in an $\infty$-category are [[equivalence|equivalences]] in some suitable sense, we call the $\infty$-category an $\infty$-[[infinity-groupoid|groupoid]].  In this case we can think of the $j$-morphisms for $j\ge 1$ as "homotopies" and the $\infty$-groupoid as a model for a "space."  By analogy, we can, if we wish, think of an arbitrary $\infty$-category as a combinatorial model for a [[directed space]] containing [[directed homotopy theory|higher directed homotopies]].
+There are two crucially different uses of the term: 
+
+1. If one speaks strictly only of the joint generalization of _[[category]]_ and _[[âˆž-groupoid]]_, hence of the notion of [[category object in an (âˆž,1)-category|internal category]] in [[homotopy theory]], then the "$\infty$-"-prefix is to be read as in _[[A-âˆž algebra]]_, _[[E-âˆž algebra]]_, _[[L-âˆž algebra]]_ and, in fact, _[[A-âˆž category]]_: in all these cases it means that the defining structural relations such as [[associativity]] of [[morphisms]] are taken to hold up to [[coherence|coherent]] higher [[homotopy]], also called _strong homotopy_.
+
+   This meaning of "$\infty$-category" is also, less ambiguously, called **[[(âˆž,1)-category]]** (following the pattern of _[[(n,r)-categories]]_). For more on this notion **turn to the entry _[[(âˆž,1)-category]]_.**
+
+1. In a more encompassing view on [[higher category theory]] one may take the maximal "weakening" of structures as implicit and speak of just _[[2-category]]_ to mean a _[[bicategory]]_ or rather a _[[(âˆž,2)-category]]_, of just _[[3-category]]_ to mean a _[[tricategory]]_ or rather a _[[(âˆž,n)-category|(âˆž,3)-category]]_, of just _[[4-category]]_ to mean a _[[tetracategory]]_ or rather _[[(âˆž,n)-category|(âˆž,4)-category]]_, and so on. With this counting then an "$\infty$-category" is some limiting notion of $(\infty,\infty)$-category. With this meaning one also often speaks of _[[Ï‰-categories]]_.
+
+   This is hence a much more encompassing notion of $\infty$-category than that of [[(âˆž,1)-category]]. It is also much harder to formalize. While there is by now a very good [[(âˆž,1)-category theory]]/[[homotopy theory]] of [[(âˆž,n)-categories]] for all $n \in \mathbb{N}$, the limiting case where $n \to \infty$ is currently still poorly understood. While there are severeal existing proposed definitions for what a single [[Ï‰-category]] is, in the most general sense, there is no real understaninding of the correct morphisms between them, hence of the correct [[(âˆž,1)-category]] of [[Ï‰-categories]]. But this may of course change with time.
+
+
+If all the $j$-morphisms in an $\infty$-category are [[equivalence|equivalences]] in some suitable sense, we call the $\infty$-category an [[âˆž-groupoid]].  In this case we can think of the $j$-morphisms for $j\ge 1$ as "homotopies" and the $\infty$-groupoid as a model for a [[homotopy type]]. By analogy, we can, if we wish, think of an arbitrary $\infty$-category as a combinatorial model for a [[directed homotopy theory|directed homotopy type]].
 
 There are many different definitions realizing the general idea of $\infty$-category.  Models for $\infty$-categories usually fall into two classes:
 
@@ -40,16 +51,38 @@ There are many different definitions of $\infty$-categories, which may differ in
 
 * See [[semi-strict infinity-category]].
 
-* See the discussion we had at [[discussion on terminology -- omega-category]].
+## Related entries
+
+* [[0-category]], [[(0,1)-category]]
+
+* [[category]]
+
+* [[2-category]]
+
+* [[3-category]]
+
+* [[n-category]]
+
+* [[(âˆž,0)-category]]
+
+* [[(n,1)-category]]
+
+* [[(âˆž,1)-category]], [[internal (âˆž,1)-category]], [[âˆž-groupoid]]
+
+  [[table - models for (âˆž,1)-categories]]
+
+* [[(âˆž,2)-category]]
+
+* [[(âˆž,n)-category]]
+
+* [[(n,r)-category]]
 
 
-## Literature
+## References
 
-For a very gentle introduction to higher category theory, try [The Tale of <em>n</em>-Categories](http://math.ucr.edu/home/baez/week73.html#tale), which begins in "week73" of This Week's Finds and goes on from there... keep clicking the links.
+(For detailed references see at _[[(âˆž,1)-category]]_, _[[(âˆž,n)-category]]_, _[[(n,r)-category]]_ and _[[Ï‰-category]]_.)
 
-The following is a short and introductory expository paper by Jacob Lurie that motivates $\infty$-categories using algebraic topology.
-
-* Jacob Lurie, [What is... an $\infty$-category?](http://www.ams.org/notices/200808/tx080800949p.pdf) in _Notices of the AMS_, September 2008.
+For a very gentle introduction to notions of higher categories, try [The Tale of <em>n</em>-Categories](http://math.ucr.edu/home/baez/week73.html#tale), which begins in "week73" of This Week's Finds and goes on from there... keep clicking the links.
 
 For a slightly more formal but still pathetically easy introduction, try:
 
@@ -68,15 +101,8 @@ For a free introductory text on $n$-categories that's <i>full of pictures</i>, t
 
 * Tom Leinster, _Higher Operads, Higher Categories_ ([arXiv](http://arxiv.org/abs/math/0305049))
 
-Recently $(\infty, 1)$-categories (see [[homotopy theory]]) have attracted much attention :
 
-* Jacob Lurie, _[[Higher Topos Theory]]_ ([arXiv](http://arxiv.org/abs/math.CT/0608040))
 
-There's a lot more to add here, even if we restrict ourselves to very general texts.  (More specialized stuff should go under more specialized subcategories!)
-
-## Related entries
-
-* [[(n,r)-category]]
 
 
 [[!redirects $infinity$-category]]
