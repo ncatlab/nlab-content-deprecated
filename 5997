@@ -52,7 +52,7 @@ For $n = -1$ this says that [[effective epimorphisms in an (âˆž,1)-category]]
 +-- {: .num_prop}
 ###### Proposition
 
-For all $n$, the $n$-connected/$n$-truncated factorization system is [[stable factorization system|stable]]: the class of [[n-connected]] morphisms is preserves under [[(âˆž,1)-pullback]].
+For all $n$, the $n$-connected/$n$-truncated factorization system is [[stable factorization system|stable]]: the class of [[n-connected]] morphisms is preserved under [[(âˆž,1)-pullback]].
 
 =--
 
