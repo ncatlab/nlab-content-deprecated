@@ -1,11 +1,13 @@
-[[!redirects {ÄŒ}ech cohomology]]
-[[!redirects ?ech cohomology]]
-[[!redirects ÄŒech cohomology]]
-[[!redirects Cech cohomology]]
 
-<div class="rightHandSide toc">
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Cohomology
++--{: .hide}
 [[!include cohomology - contents]]
-</div>
+=--
+=--
+=--
 
 #ÄŒech cohomology#
 * automatic table of contents goes here
@@ -1043,6 +1045,10 @@ in the Deligne complex, we obtain the formulas for
 
 ##References##
 
+A classical reference is
+
+* Godement _Topologie algÃ©brique et thÃ©orie de faisceaux_
+
 A discussion of ÄŒech cohomology in the wider context of [[cohomology]] particularly realized in terms of the [[model structure on simplicial presheaves]] and with an emphasis on the shades of notions between [[ÄŒech cover]] and [[hypercover]] is
 
 * Tibor Beke, _Higher ÄŒech theory_ ([journal](http://www.math.uiuc.edu/K-theory/0646/), [pdf](http://www.math.uiuc.edu/K-theory/0646/cech.pdf))
@@ -1062,3 +1068,9 @@ A long list of reasons why higher ÄŒech cohomology might
 is after all better behaved than its [[hypercompletion]] where a cycle is with respect to an arbitrary [[hypercover]] is in section 6.5.4, **Descent versus Hyperdescent** of
 
 * [[Jacob Lurie]], [[Higher Topos Theory]]
+
+
+[[!redirects {ÄŒ}ech cohomology]]
+[[!redirects ?ech cohomology]]
+[[!redirects ÄŒech cohomology]]
+[[!redirects Cech cohomology]]
