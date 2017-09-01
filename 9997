@@ -1,0 +1,29 @@
+[[!redirects cohesive âˆž-prestack]]
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+In [Lurie 12, def. 2.1.1](#Lurie12) an [[âˆž-prestack]] $\mathcal{C}^{op} \to $ [[âˆžGrpd]] is called _cohesive_ if it sends [[(âˆž,1)-fiber products]] of "essentially surjective" maps (in the [[opposite (âˆž,1)-category]] of the [[(âˆž,1)-site]] $\mathcal{C}$) to $(\infty,1)$-fiber products in [[âˆžGrpd]]. It is called _infinitesimally cohesive_ ([Lurie 12, def. 2.1.1](#Lurie12)) if this property holds at least for fiber products of maps with "[[infinitesimal object|infinitesimal]] kernel".
+
+## Related concepts
+
+This is _un-related_ to the notion of _[[cohesive (âˆž,1)-topos]]_.
+
+## References
+
+* [[Jacob Lurie]], _Representability theorems_ ([pdf](http://www.math.harvard.edu/~lurie/papers/DAG-XIV.pdf))
+ {#Lurie12}
+
+[[!redirects cohesive âˆž-prestacks]]
+
+[[!redirects cohesive infinity-prestacks]]
+
+[[!redirects infinitesimally cohesive âˆž-prestack]]
+[[!redirects infinitesimally cohesive âˆž-prestacks]]
+
+[[!redirects infinitesimally cohesive infinity-prestack]]
+[[!redirects infinitesimally cohesive infinity-prestacks]]
+
