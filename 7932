@@ -730,6 +730,10 @@ For $G$ and $A$ 0-truncated groups, $A$ an [[abelian group]] with $G$-[[module]]
 
 =--
 
+### Infinitesimally: actions of $L_\infty$-algebroids
+
+See _[[Lie infinity-algebroid representation]]_.
+
 ## Properties
 
 ### Model category presentation
@@ -769,7 +773,7 @@ Actions of [[A-âˆž algebras]] in some [[symmetric monoidal (âˆž,1)-categor
 
 Aspects of actions of [[âˆž-groups]] in an [[âˆž-topos]] in the contect of [[associated âˆž-bundles]] are discussed in section I 4.1 of 
 
-* {#NSS} _[[schreiber:Principal âˆž-bundles -- theory, presentations and applications]]_
+* {#NSS} [[Thomas Nikolaus]], [[Urs Schreiber]], [[Danny Stevenson]], _[[schreiber:Principal âˆž-bundles -- theory, presentations and applications]]_, Journal of Homotopy and Related Structures 2013
  
 
 ### For discrete geometry
