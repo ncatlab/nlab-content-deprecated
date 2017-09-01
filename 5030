@@ -26,6 +26,14 @@ An [[(âˆž,1)-category]] with [[(âˆž,1)-product]]s $\times$ which is a [[cl
 
 Every [[(âˆž,1)-topos]] is a cartesian closed $(\infty,1)$-category. See the section <a href="http://ncatlab.org/nlab/show/(infinity%2C1)-topos#ClosedMonoidalStructure">Closed monoidal structure</a>.
 
+## Related concepts
+
+* [[cartesian closed category]]
+
+* [[locally cartesian closed (âˆž,1)-category]]
+
+
+
 [[!redirects cartesian closed (âˆž,1)-category]]
 
 
