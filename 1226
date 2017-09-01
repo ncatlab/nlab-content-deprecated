@@ -15,13 +15,15 @@
 
 ## Idea 
 
-This is the analog of a [[filtered category]] in the context of [[(âˆž,1)-categories]]. The main purpose of considering filtered (âˆž,1)-categories is to define filtered (âˆž,1)-colimits. These are commuting with finite (âˆž,1)-limits.
+This is the analog of a [[filtered category]] in the context of [[(âˆž,1)-categories]].
+
+The main purpose of considering filtered (âˆž,1)-categories is to define filtered (âˆž,1)-colimits, which are the colimits that commute with [[finite (âˆž,1)-limits]].
 
 ## Definition
 
-Let $\kappa$ be a [[regular cardinal]], let $C\in \sSet$ be an (âˆž,1)-category.
+Let $\kappa$ be a [[regular cardinal]], and let $C\in \sSet$ be an (âˆž,1)-category, incarnated as a [[quasicategory]].
 
-$C$ is called **$\kappa$-filtered** if for all $\kappa$-small $K\in\sSet$ and every morphism $f:K\to C$ there is a morphism $\hat p:\rcone(K)\to C$ extending $f$ where $\rcone(K)$ denotes the (right) [[cone]] of the simplicial set $K$. $C$ is called **filtered** if it is $\omega$-filterd.
+$C$ is called **$\kappa$-filtered** if for all $\kappa$-small $K\in\sSet$ and every morphism $f\colon K\to C$ there is a morphism $\hat p\colon \rcone(K)\to C$ extending $f$, where $\rcone(K)$ denotes the (right) [[cone]] of the simplicial set $K$.  $C$ is called **filtered** if it is $\omega$-filtered.
 
 
 ## Properties
@@ -29,7 +31,7 @@ $C$ is called **$\kappa$-filtered** if for all $\kappa$-small $K\in\sSet$ and ev
 +-- {: .un_prop}
 ###### Proposition
 
-An [[(âˆž,1)-category]] $K$ is filtered precisely if [[(âˆž,1)-colimit]]s of shape $K$ in [[âˆž Grpd]] commute with all [[finite limit|finite]] [[(âˆž,1)-limit]], hence if
+An [[(âˆž,1)-category]] $K$ is filtered precisely if [[(âˆž,1)-colimit]]s of shape $K$ in [[âˆž Grpd]] commute with all [[finite (âˆž,1)-limits]], hence if
 
 $$
   {\lim_\to} : Func(K, \infty Grpd) \to \infty Grpd
