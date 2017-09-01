@@ -1,3 +1,4 @@
+[[!redirects Conduche functor]]
 
 +-- {: .rightHandSide}
 +-- {: .toc .clickDown tabindex="0"}
@@ -91,9 +92,9 @@ Non-strict ConduchÃ© functors and [[Street fibrations]] may be equivalently ch
 
 ## References
 
-* F. ConduchÃ©, \'Au sujet de l'existence d'adjoints Ã  droite aux foncteurs "image rÃ©ciproque" dans la catÃ©gorie des catÃ©gories\', *C.R. Acad. Sci. Paris* 275 (1972), A891--894.
+* [[F. ConduchÃ©]], 'Au sujet de l'existence d'adjoints Ã  droite aux foncteurs "image rÃ©ciproque" dans la catÃ©gorie des catÃ©gories', *C.R. Acad. Sci. Paris* 275 (1972), A891--894.
 
-* J. Giraud, \'MÃ©thode de la descente\', *Bull. Math. Soc. Memoire* 2 (1964)
+* [[J. Giraud]], 'MÃ©thode de la descente', *Bull. Math. Soc. Memoire* 2 (1964)
 
 The definitions and proofs of the above theorems, along with the 2-categorical generalization (ConduchÃ© considered only the 1-categorical case) can also be found in
 
