@@ -40,7 +40,9 @@ $$
 
 ## Examples
 
-Every [[(âˆž,1)-topos]] with its structure of a [[cartesian monoidal (âˆž,1)-category]] is closed. See there for details.
+* Every [[(âˆž,1)-topos]] with its structure of a [[cartesian monoidal (âˆž,1)-category]] is closed. See there for details.
+
+* The [[(âˆž,1)-category of (âˆž,1)-modules]] over an [[E-âˆž ring]] is closed.
 
 ## Related concepts
 
