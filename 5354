@@ -79,9 +79,12 @@ The [[derived geometry]] of the Ã©tale site is the [[Ã©tale (âˆž,1)-site]
 
 * [[Ã©tale morphism]], **Ã©tale site**, [[Ã©tale topos]], [[Ã©tale cohomology]], [[Ã©tale homotopy]]
 
+* [[pro-Ã©tale site]]
+
 * [[Ã©tale (âˆž,1)-site]]
 
 [[fpqc-site]] $\to$ [[fppf-site]] $\to$ [[syntomic site]] $\to$ **Ã©tale site** $\to$ [[Nisnevich site]] $\to$ [[Zariski site]]
+
 
 
 ## References
@@ -104,7 +107,7 @@ Lecture notes include
 * [[Aise Johan de Jong]], _&Eacute;tale cohomology_ ([pdf](http://math.columbia.edu/~pugin/Teaching/Etale_files/EtaleCohomology.pdf))
 {#deJong}
 
-A variant, the _pro-Ã©tale site_ (locally contractible in some sense) is discussed in 
+A variant, the _[[pro-Ã©tale site]]_ (locally contractible in some sense) is discussed in 
 
 * Bhargav Bhatt, Peter Scholze, _The pro-Ã©tale topology for schemes_ ([arXiv:1309.1198](http://arxiv.org/abs/1309.1198))
 
