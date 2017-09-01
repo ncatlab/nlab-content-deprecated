@@ -1,7 +1,24 @@
 
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+### Context
+#### Homotopy theory
++--{: .hide}
+[[!include homotopy - contents]]
+=--
+#### Equality and Equivalence
++--{: .hide}
+[[!include equality and equivalence - contents]]
+=--
+=--
+=--
 
-An [[equivalence in an (âˆž,1)-category]] in [[âˆžGrpd]].
-A [[weak homotopy equivalence]]. An [[equivalence of (âˆž,1)-categories]] between [[(âˆž,1)-categories]] that happen to be [[âˆž-groupoids]].
+An [[equivalence in an (âˆž,1)-category]] in [[âˆžGrpd]], hence ann [[equivalence of (âˆž,1)-categories]] between [[(âˆž,1)-categories]] that happen to be [[âˆž-groupoids]].
+
+In terms of presentation by [[topological spaces]] or [[simplicial sets]] (see at _[[homotopy hypothesis]]_) this is a [[weak homotopy equivalence]]. 
+
+In terms of presentation by [[CW-complexes]] or [[Kan complexes]], it is a [[homotopy equivalence]].
+
 
 [[!redirects equivalence of âˆž-groupoids]]
 
