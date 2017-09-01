@@ -2,7 +2,93 @@ This entry will be about the 1960 thesis of [[Pierre Gabriel]], published in 196
 
 * __Des catÃ©gories abÃ©liennes__, Bulletin de la SociÃ©tÃ© MathÃ©matique de France, 90 (1962), p. 323-448 ([numdam](http://www.numdam.org/item?id=BSMF_1962__90__323_0))
 
-The article develops some of the central aspects of the theory of [[abelian category|abelian categories]] canonized few years earlier by Grothendieck in [[Tohoku]]. Most important is an advanced theory of [[localization]] in the setting of abelian categories (extending ideas of Serre), and the applications to the study of rings and modules (where an alternative reconstructions via [[Gabriel filter]]s is proposed), as well as of [[quasicoherent sheaf|quasicoherent sheaves]] on schemes. It contains a remarkable reconstruction theorem: for any abelian category Gabriel introduces a spectrum whose points are indecomposable injectives. For a reasonable class of commutative schemes this gives a reconstruction of a scheme out of the abelian category of quasicoherent sheaves on the scheme (later extended to all schemes using different kind of spectra and in that generality known as the Gabriel-Rosenberg theorem). This article is one of the main precursors of a modern, categorically oriented, direction in [[noncommutative algebraic geometry]].
+The article develops some of the central aspects of the theory of [[abelian category|abelian categories]] canonized few years earlier by Grothendieck in [[Tohoku]]. Most important is an advanced theory of [[localization]] in the setting of abelian categories (extending ideas of Serre), and the applications to the study of rings and modules (where an alternative reconstructions via [[Gabriel filter]]s is proposed), as well as of [[quasicoherent sheaf|quasicoherent sheaves]] on schemes. It contains a remarkable reconstruction theorem: for any abelian category Gabriel introduces a spectrum whose points are (isomorphism classes of) indecomposable injectives (there is now a refinement using pure injectives, [[Ziegler spectrum]]). For a reasonable class of commutative schemes this gives a reconstruction of a scheme out of the abelian category of quasicoherent sheaves on the scheme (later extended to all schemes using different kind of spectra and in that generality known as the [[Gabriel-Rosenberg theorem]]). This article is one of the main precursors of a modern, categorically oriented, direction in [[noncommutative algebraic geometry]].
+
+TABLE DES MATIERES.
+
+INTRODUCTION 
+
+CHAPITRE 1 : Quelques rappels sur les catÃ©gories.
+
+1. Les univers de G r o t h e n d i e c k 
+
+2. DÃ©finition des c a t Ã© g o r i e s 
+
+3. Foncteurs 
+
+4. CatÃ©gories a d d i t i v e s 
+
+5. CatÃ©gories abÃ©liennes 
+
+6. CatÃ©gories avec gÃ©nÃ©rateurs et limites inductives exactes
+
+7. Foncteurs adjoints
+
+8. Equivalences de catÃ©gories 
+
+9. CatÃ©gories abÃ©liennes ayant assez d ' i n j e c t i f s 
+
+CHAPITRE II : Foncteurs exacts Ã  gauche et enveloppes injectives.
+
+1. CatÃ©gories de f o n c t e u r s 
+
+2. Foncteurs exacts Ã  gauche Ã  valeurs dans une catÃ©gorie abÃ©lienne 
+
+3. Foncteurs exacts Ã  gauche Ã  valeurs dans les groupes a b Ã© l i e n s 
+
+4. CatÃ©gories n Å“ t h Ã© r i e n n e s 
+
+5. Enveloppes injectives dans les catÃ©gories a b Ã© l i e n n e s 
+
+6. CatÃ©gories avec gÃ©nÃ©rateurs et limites inductives e x a c t e s
+
+CHAPITRE III : La localisation dans les catÃ©gories abÃ©liennes.
+
+1. CatÃ©gories quotient 
+
+2. PropriÃ©tÃ©s du foncteur s e c t i o n
+
+3. CatÃ©gories avec enveloppes injectives 
+
+4. CatÃ©gories avec gÃ©nÃ©rateurs et limites inductives exactes 
+
+5. Quelques exemples de sous-catÃ©gories l o c a l i s a n t e s 
+
+CHAPITRE IV : CatÃ©gories localement nÅ“thÃ©riennes.
+
+1. La dimension de Krull d'une catÃ©gorie a b Ã© l i e n n e 
+
+2. La structure des objets injectifs dans une catÃ©gorie localement nÅ“thÃ©rienne
+
+3. Modules pseudo-compacts 
+
+4. DualitÃ© entre catÃ©gories localement finies et modules pseudo-compacts
+
+CHAPITRE V : Applications Ã  l'Ã©tude des modules.
+
+1. CatÃ©gories de modules 
+
+2. La l o c a l i s a t i o n 
+
+3. Le thÃ©orÃ¨me de Goldie
+
+4. Injectifs indÃ©composables et idÃ©aux b i l a t Ã¨ r e s 
+
+5. StabilitÃ© par enveloppes injectives
+
+6. Extensions finies d'anneaux commutatifs nÅ“thÃ©riens 
+
+7. La dimension de Krull de quelques anneaux 
+
+CHAPITRE VI : Applications Ã  l'Ã©tude des faisceaux quasi cohÃ©rents.
+
+1. Recollement de catÃ©gories a b Ã© l i e n n e s 
+
+2. PropriÃ©tÃ©s d'un recollement de catÃ©gories a b Ã© l i e n n e s 
+
+3. PrÃ©schÃ©mas et catÃ©gories a b Ã© l i e n n e s 
+
+BIBLIOGRAPHIE
 
 
 category: reference
