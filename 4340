@@ -62,6 +62,11 @@ The same is true in the archetypical [[(âˆž,1)-topos]] [[âˆžGrpd]]. From t
 In this sense, the object $true$ in [[Set]] or [[âˆžGrpd]] may canonically be thought of as being [[generalized the|the]] unique [[(âˆ’2)-groupoid]].
 
 
+## Related concepts
+
+[[!include homotopy n-types - table]]
+
+
 [[!redirects true]]
 [[!redirects True]]
 [[!redirects truth]]
