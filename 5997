@@ -23,7 +23,7 @@
 
 ## Idea
 
-The $n$-connected/$n$-truncated factorization system is an [[orthogonal factorization system in an (âˆž,1)-category]] which is an [[(âˆž,1)-topos]] $\mathbf{H}$ that generalizes the _relative [[Postnikov systems]]_ of $\mathbf{H} =$ [[âˆžGrpd]].
+The $n$-connected/$n$-truncated factorization system is an [[orthogonal factorization system in an (âˆž,1)-category]],  specifically in an [[(âˆž,1)-topos]], that generalizes the _relative [[Postnikov systems]]_ of [[âˆžGrpd]]: it factors a morphism through its _[[n-image]]_.
 
 ## Definitions
 
