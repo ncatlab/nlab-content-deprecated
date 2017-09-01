@@ -7,6 +7,6 @@
 | **[[category theory]]** | [[Grothendieck topos|toposes]] | $\hookrightarrow$ | [[locally presentable categories]] | $\simeq$ [AdÃ¡mek-RosickÃ½'s theorem](locally+presentable+category#AsLocalizationsOfPresheafCategories) | [[accessible functor|accessible]] [[reflective subcategories]] of [[presheaf categories]] |
 $\hookrightarrow$ | [[accessible categories]]  |
 | **[[model category|model category theory]]** | [[model toposes]] | $\hookrightarrow$ | [[combinatorial model categories]] | $\simeq$ [Dugger's theorem](combinatorial+model+category#DuggerTheoreml) | [[left Bousfield localization]] of global [[model structures on simplicial presheaves]]  | | |
-| **[[(âˆž,1)-topos theory]]** | [[(âˆž,1)-toposes]] |$\hookrightarrow$ | [[locally presentable (âˆž,1)-categories]] | $\simeq$ <br/> [Simpson's theorem](locally+presentable+infinity-category#Definition) | [[accessible (âˆž,1)-functor|accessible]] [[reflective sub-(âˆž,1)-categories]] of [[(âˆž,1)-presheaf (âˆž,1)-categories]] |
+| **[[(âˆž,1)-topos theory]]** | [[(âˆž,1)-toposes]] |$\hookrightarrow$ | [[locally presentable (âˆž,1)-categories]] | $\simeq$ <br/> [Simpson's theorem](locally+presentable+infinity-category#Definition) | [[accessible (âˆž,1)-functor|accessible]] [[reflective sub-(âˆž,1)-categories]] of [[(âˆž,1)-presheaf (âˆž,1)-categories]] | 
 $\hookrightarrow$ |[[accessible (âˆž,1)-categories]] |
 
