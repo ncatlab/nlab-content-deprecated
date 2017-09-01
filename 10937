@@ -1,0 +1,44 @@
+
+#Contents#
+* table of contents
+{:toc}
+
+
+## Idea
+
+According to ([Hegel, Science of Logic, Â§714 ](Science+of+Logic#714)):
+
+> Ein MaaÃŸ, als MaaÃŸstab im gewÃ¶hnlichen Sinne, ist ein Quantum, das als die an sich bestimmte Einheit gegen Ã¤uÃŸerliche Anzahl willkÃ¼rlich angenommen wird. Eine solche Einheit kann zwar auch in der That an sich bestimmte Einheit seyn, wie FuÃŸ und dergleichen ursprÃ¼ngliche MaaÃŸe; insofern sie aber als MaaÃŸstab zugleich fÃ¼r andere Dinge gebraucht wird, ist sie fÃ¼r diese nur Ã¤uÃŸerliches, nicht ihr ursprÃ¼ngliches MaaÃŸ.â€”So mag der Erddurchmesser, oder die PendellÃ¤nge, als specifisches Quantum fÃ¼r sich genommen werden. Aber es ist willkÃ¼rlich, den wievielsten Theil des Erddurchmessers oder der PendellÃ¤nge und unter welchem Breitengrade man diese nehmen wolle, um sie als MaaÃŸstab zu gebrauchen. Noch mehr aber ist fÃ¼r andere Dinge ein solcher MaaÃŸstab etwas Ã„uÃŸerliches. Diese haben das allgemeine specifische Quantum wieder auf besondere Art specificirt, und sind dadurch zu besondern Dingen gemacht. Es ist daher thÃ¶richt, von einem natÃ¼rlichen MaaÃŸstab der Dinge zu sprechen. Ohnehin soll ein allgemeiner MaaÃŸstab nur fÃ¼r die Ã¤uÃŸerliche Vergleichung dienen; in diesem oberflÃ¤chlichsten Sinne, in welchem er als allgemeines MaaÃŸ genommen wird, ist es vÃ¶llig gleichgÃ¼ltig, was dafÃ¼r gebraucht wird. Es soll nicht ein GrundmaaÃŸ in dem Sinne seyn, daÃŸ die NaturmaaÃŸe der besondern Dinge daran dargestellt und daraus nach einer Regel, als Specifikationen Eines allgemeinen MaaÃŸes, des MaaÃŸes ihres allgemeinen KÃ¶rpers, erkannt wÃ¼rden. Ohne diesen Sinn aber hat ein absoluter MaaÃŸstab nur das Interesse und die Bedeutung eines Gemeinschaftlichen, und ein solches ist nicht an sich, sondern durch Ãœbereinkommen ein Allgemeines.
+
+> A measure taken as a gauge in the usual meaning of the word is a quantum which is arbitrarily assumed as the intrinsically determinate unit relatively to an external amount. Such a unit can, it is true, also be in fact an intrinsically determinate unit, like a foot and suchlike original measures; but in so far as it is also used as a standard for other things it is in regard to them only an external measure, not their original measure. Thus the diameter of the earth or the length of a pendulum may be taken, each on its own account, as a specific quantum; but the selection of a particular fraction of the earth's diameter or of the length of the pendulum, as well as the degree of latitude under which the latter is to be taken for use as a standard, is a matter of choice. But for other things such a standard is still more something external. These have further specified the general specific quantum in a particular way and have thereby become particular things. It is therefore foolish to speak of a natural standard of things. Moreover, a universal standard ought only to serve for external comparison; in this most superficial sense in which it is taken as a universal measure it is a matter of complete indifference what is used for this purpose. It ought not to be a fundamental measure in the sense that it forms a scale on which the natural measures of particular things could be represented and from which, by means of a rule, they could be grasped as specifications of a universal measure, i.e. of the measure of their universal body. Without this meaning, however, an absolute measure is interesting and significant only as a common element, and as such is a universal not in itself but only by agreement.
+
+## Related entries
+
+* [[gauge symmetry]]
+
+* [[gauge theory]], [[gauge field]]
+
+* [[gauge transformation]]
+
+* [[gauge group]]
+
+* [[gauge fixing]]
+
+## References
+
+A discussion of "gauge" and [[gauge transformation]] in [[metaphysics]] is in
+
+* [[Georg Hegel]], [Â§714](Science+of+Logic#714) of _[[Science of Logic]]_
+
+[[Hermann Weyl]]'s historical argument motivating [[gauge theory]] in [[physics]] from rescaling of units of length was given in 1918 in
+
+* [[Hermann Weyl]], _Raum, Zeit, Materie: Voerlesungen Ã¼ber die Allgemeine RelativitÃ¤tstheorie_, Springer Berlin Heidelberg 1923
+
+Quick reviews include
+
+* Quigley, _On the origins of gauge theory_ ([pdf](http://www.math.toronto.edu/~colliand/426_03/Papers03/C_Quigley.pdf))
+
+* Afriat, _Weylâ€™s gauge argument_ ([pdf](http://hal.inria.fr/docs/00/76/96/90/PDF/WGA.pdf))
+
+
+[[!redirects gauges]]
