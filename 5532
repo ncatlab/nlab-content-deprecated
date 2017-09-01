@@ -53,6 +53,9 @@ The traditional terminology is â€˜$n$-connectedâ€™, but this violates t
 
 An $n$-connected topological space is precisely an [[n-connected object]] in the [[(âˆž,1)-topos]] [[âˆžGpd]], presented by the [[model category]] [[Top]] of [[topological spaces]].
 
+## Related concepts
+
+* [[n-connected continuous function]]
 
 [[!redirects n-connected space]]
 [[!redirects n-connected spaces]]
