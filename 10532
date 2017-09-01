@@ -21,7 +21,7 @@
 
 ## Idea
 
-In the context of [[Goodwillie calculus]], an [[(âˆž,1)-category]] is called _Goodwillie-differentiable_ if [[(âˆž,1)-functors]] to it admit "derivatives" in the form of [[n-excisive approximations]]. Note that this concept is not related to that of [[Lie (âˆž,1)-groupoids]].
+In the context of [[Goodwillie calculus]], an [[(âˆž,1)-category]] is called _Goodwillie-differentiable_ if [[(âˆž,1)-functors]] to it admit "derivatives" in the form of [[n-excisive approximations]]. Note that this concept is not related to that of [[Lie âˆž-groupoids]].
 
 ## Definition
 
