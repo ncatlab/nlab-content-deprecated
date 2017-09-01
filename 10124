@@ -23,6 +23,18 @@ For $R \in CRing_\infty$ an [[E-âˆž ring]], the [[(âˆž,1)-modules]] over $
 
 ## Properties
 
+### Compact generation
+
++-- {: .num_prop}
+###### Propositon
+
+Let $R$ be an [[A-âˆž ring]]. The (âˆž,1)-category of âˆž-modules $R Mod$ is a [[compactly generated (âˆž,1)-category]] and the [[compact object in an (âˆž,1)-category|compact objects]] coincide with the [[perfect modules]]
+
+=--
+
+([[Higher Algebra|HA, prop. 8.2.5.2]])
+
+
 ### Stable Dold-Kan correspondence
  {#StableDoldKan}
 
