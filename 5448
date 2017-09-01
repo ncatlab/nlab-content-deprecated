@@ -72,7 +72,7 @@ Because the collection of fpqc covers of a scheme does not have a small collecti
 
 ## Related concepts
 
-* [[fppf site]], [[Ã©tale site]], [[Zariski site]]
+**fpqc-site** $\to$ [[fppf-site]] $\to$ [[syntomic site]] $\to$ [[Ã©tale site]] $\to$ [[Nisnevich site]] $\to$ [[Zariski site]]
 
 
 ## References
