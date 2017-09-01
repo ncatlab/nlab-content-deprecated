@@ -24,11 +24,26 @@
 
 ## Idea
 
-A variant of the [[Ã©tale site]] where the finitess conditions on [[Ã©tale morphisms]] are relaxed.
+A variant of the [[Ã©tale site]] where the finitess conditions on the [[fibers]] of [[Ã©tale morphisms]] is relaxed to a 
+[[pro-object|pro-]]finitenss condition.
+
+The [[sheaf topos]] over the pro-Ã©tale site might by called the pro-[[Ã©tale topos]].
 
 The resulting [[abelian sheaf cohomology]] -- _pro Ã©tale cohomology_ -- has a good relation to [[â„“-adic cohomology]].
 
 ## Definition
+
++-- {: .num_defn}
+###### Definition
+
+For $X$ a [[scheme]], its _pro Ã©tale site_ $X_{proet}$ is the [[site]]
+whose [[objects]] are [[pro-Ã©tale morphisms]] into $X$ and whose [[Grothendieck topology]] is that of the [[fpqc site]].
+
+=--
+
+## Properties
+
+### In terms of weakly Ã©tale maps
 
 +-- {: .num_defn}
 ###### Definition
@@ -55,37 +70,47 @@ whose [[objects]] are [[weakly Ã©tale morphisms]] into $X$ (hence weakly Ã©t
 ([Bhatt-Scholze 13, def. 4.1.1](#BhattScholze13))
 
 
-## Properties
+### Relation to the Ã©tale topos
+
+
++-- {: .num_defn}
+###### Definition
+
+Since every [[Ã©tale morphism of schemes]] is in particular a [[pro-Ã©tale morphism of schemes|pro Ã©tale morphism]], there is induced a [[geometric morphism]]
+
+$$
+  \nu
+  \;\colo\;
+  Sh(X_{proet})
+  \longrightarrow
+  Sh(X_{et})
+$$
+
+from the [[pro-Ã©tale topos]] to the [[Ã©tale topos]] of any [[scheme]] $X$.
+
+=--
 
 +-- {: .num_prop}
 ###### Proposition
 
-Every [[weakly Ã©tale morphism]] is a [[formally Ã©tale morphism]].
+$\nu$ is a [[surjective geometric morphism]] with [[full and faithful functor|fully faithful]] [[inverse image]]. Hence the ordinary [[Ã©tale topos]] is a [[coreflective subcategory|coreflection]] of the pro-Ã©tale topos.
 
 =--
 
-([Gabber-Ramero 03, theorem 2.5.36, prop. 3.2.16](#GabberRamero03) [Bhatt-Scholze 13, prop. 2.3.3. (2)](#BhattScholze13))
-
-
-+-- {: .num_cor}
-###### Corollary
-
-A [[weakly Ã©tale morphism]] which is [[locally of finite presentation]] is an [[Ã©tale morphism of schemes|Ã©tale morphism]].
-
-
-=--
-
+([Bhatt-Scholze 13, lemma 5.1.2](#BhattScholze13))
 
 ## References
 
-*  [[Ofer Gabber]] and Lorenzo Ramero, _Almost ring theory_, volume 1800 of Lecture Notes in Mathematics. Springer-Verlag, Berlin, 2003. ([arXiv:math/0201175](http://arxiv.org/abs/math/0201175))
- {#GabberRamero03}
 
 The pro-Ã©tale topology was suggested by Scholze and then fully developed in
 
 * Bhargav Bhatt, [[Peter Scholze]], _The pro-Ã©tale topology for schemes_ ([arXiv:1309.1198](http://arxiv.org/abs/1309.1198))
  {#BhattScholze13}
 
+Some results used in the study of weakly Ã©tale maps appeared earlier in
+
+*  [[Ofer Gabber]] and Lorenzo Ramero, _Almost ring theory_, volume 1800 of Lecture Notes in Mathematics. Springer-Verlag, Berlin, 2003. ([arXiv:math/0201175](http://arxiv.org/abs/math/0201175))
+ {#GabberRamero03}
 
 
 Reviews include
@@ -100,3 +125,8 @@ Reviews include
 
 [[!redirects pro-Ã©tale cohomology]]
 [[!redirects pro-etale cohomology]]
+
+[[!redirects pro-Ã©tale topos]]
+[[!redirects pro-Ã©tale toposes]]
+[[!redirects pro-etale topos]]
+[[!redirects pro-etale toposes]]
