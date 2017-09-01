@@ -1,0 +1,30 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Super-Geometry
++--{: .hide}
+[[!include supergeometry - contents]]
+=--
+#### Lie theory
++--{: .hide}
+[[!include infinity-Lie theory - contents]]
+=--
+=--
+=--
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+The _super PoincarÃ© group_ is the [[Lie integration]] in [[supergeometry]] of the [[super PoincarÃ© Lie algebra]]. This is a super-extension of the ordinary [[PoincarÃ© group]].
+
+## Related concepts
+
+* [[PoincarÃ© group]]
+
+* [[unitary representation of the super PoincarÃ© group]]
+
+[[!redirects super Poincare group]]
