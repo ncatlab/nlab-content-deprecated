@@ -1,0 +1,32 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Higher category theory
++--{: .hide}
+[[!include higher category theory - contents]]
+=--
+#### Higher topos Theory
++--{: .hide}
+[[!include (infinity,1)-topos - contents]]
+=--
+=--
+=--
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+An [[(âˆž,2)-category]] of [[(âˆž,2)-sheaves]]. The joint higher generalization of the notion of [[(âˆž,1)-topos]] and [[2-topos]].
+
+## Related concepts
+
+* [[(0,1)-topos]]
+
+* [[topos]], [[(âˆž,1)-topos]]
+
+* [[2-topos]]
+
+[[!redirects (âˆž,2)-topos]]
