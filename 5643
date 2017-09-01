@@ -28,7 +28,7 @@ This includes [[supermanifold]]s and [[delooping]]s of [[super Lie group]]s.
 
 ## Definition
 
-We conceive a smooth super $\infty$-groupoid as [[smooth âˆž-groupoid]] but not over the [[base topos]] [[âˆžGrpd]] of bare [[âˆž-groupoid]]s, but over the [[base topos]] [[SuperâˆžGrpd]] of [[super âˆž-groupoid]]s.
+We take a _smooth super $\infty$-groupoid_ to be a [[smooth âˆž-groupoid]] but not over the [[base topos]] [[âˆžGrpd]] of bare [[âˆž-groupoid]]s, but over the [[base topos]] [[SuperâˆžGrpd]] of [[super âˆž-groupoid]]s.
 
 Recall from the discussion at _[[super âˆž-groupoid]]_ that there is a canonical [[line object]] 
 
