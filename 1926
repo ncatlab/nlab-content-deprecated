@@ -336,7 +336,7 @@ If we regard the ordinary [[Ã©tale site]] as a pregeometry $\mathcal{T}_{et}$,
 +-- {: .un_prop}
 ###### Proposition 
 
-The [n-localic (âˆž,1)-topos|1-localic]] $\mathcal{G}_{et}$-[[generalized scheme]]s  are precisely [[Deligne-Mumford stack]]s (without the separation axiom). 
+The [[n-localic (âˆž,1)-topos|1-localic]] $\mathcal{G}_{et}$-[[generalized scheme]]s  are precisely [[Deligne-Mumford stack]]s (without the [[separated (infinity,1)-presheaf|separation axiom]]). 
 
 =--
 
