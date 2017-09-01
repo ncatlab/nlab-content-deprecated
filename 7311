@@ -82,6 +82,11 @@ Then for $X\in H$ the locally constant âˆž-stacks $E\in \L\Const(X)$, regarde
 
 If a [[differential cohesive (âˆž,1)-topos]] $\mathbf{H}_{th}$, the [[de Rham space]] functor $\mathbf{\Pi}_{inf}$ satisfies the above assumptions. The $\mathbf{\Pi}_{inf}$-closed morphisms are precisely the [[formally Ã©tale morphisms]].
 
+## Related entries
+
+
+* [differential cohesion - cotangent bundles](http://ncatlab.org/nlab/show/cohesive+%28infinity%2C1%29-topos+--+infinitesimal+cohesion#CotangentBundles)
+
 
 ## References
 
