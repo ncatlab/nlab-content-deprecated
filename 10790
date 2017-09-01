@@ -1,13 +1,9 @@
-
-
-
 +-- {: .rightHandSide}
 +-- {: .toc .clickDown tabindex="0"}
 ###Context###
 #### Ã‰tale morphisms
 +--{: .hide}
 [[!include etale morphisms - contents]]
-=--
 #### Geometry
 +--{: .hide}
 [[!include higher geometry - contents]]
@@ -24,10 +20,16 @@
 
 An $R$-[[associative algebra|algebra]] $A$ is _Ã©tale_ if the definition [[homomorphism]] $R \to A$ is, dually, an [[Ã©tale morphism of schemes]].
 
+A more elementary definition for algebras over a discrete field exists in constructive algebra.
+
 ## Related concepts
 
 [[Ã©tale morphism of schemes|Ã©tale morphism]] $\Rightarrow$ [[pro-Ã©tale morphism of schemes|pro-Ã©tale morphism]] $\Rightarrow$ [[weakly Ã©tale morphism of schemes|weakly Ã©tale morphism]] $\Rightarrow$ [[formally Ã©tale morphism of schemes|formally Ã©tale morphism]]
 
+## References
+
+Henri Lombardi & Claude QuittÃ©, _Constructive Algebra, Constructive Methods_, 2014,
+[PDF](http://hlombardi.free.fr/CACM-english.pdf)
 
 [[!redirects etale algebra]]
 
