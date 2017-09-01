@@ -15,7 +15,7 @@
 
 ## Idea
 
-The analog in [[(âˆž,1)-category theory]] of [[epimorphism]] in [[category theory]].
+One analog in [[(âˆž,1)-category theory]] of _[[epimorphism]]_ in [[category theory]]. Beware that there are other variants such as _[[effective epimorphism in an (infinity,1)-category]]_ and generally the concept of _[[n-epimorphism]]_.
 
 ## Definition
 
@@ -26,6 +26,7 @@ $$
 $$
 
 is a [[monomorphism in an (âˆž,1)-category]] in [[âˆžGrpd]].
+
 
 
 [[!redirects epimorphism in an (âˆž,1)-category]]
