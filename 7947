@@ -1,5 +1,8 @@
 
-**[[âˆž-group extension]] of [[âˆž-group of bisections]] of [[higher Atiyah groupoid]] for $\mathbb{G}$-[[principal âˆž-connection]]**
+
+**higher and integrated [[Kostant-Souriau extensions]]**
+
+([[âˆž-group extension]] of [[âˆž-group of bisections]] of [[higher Atiyah groupoid]] for $\mathbb{G}$-[[principal âˆž-connection]])
 
 $$
   (\Omega \mathbb{G})\mathbf{FlatConn}(X) \to \mathbf{QuantMorph}(X,\nabla) \to \mathbf{HamSympl}(X,\nabla)
