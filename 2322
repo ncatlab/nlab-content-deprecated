@@ -181,7 +181,7 @@ The proof essentially consists of showing that by the [[adjoint functor theorem]
   {#ObjectClassifierInInfinityGroupoid}
 
 We discuss that the $\kappa$-small object classifier in the $(\infty,1)$-topos
-[[âˆžGrpd]] of [[âˆž-groupoids]] is itself the [[core]] of the [[(âˆž,1)-category]] $\infty Grpd_\kappa$ of $\kappa$-small $\infty$-groupoids. Observing that the connected components of this are the [[delooping]] $B Aut(F)$ of the [[automorphism âˆž-group]] of a given [[homotopy type]], and using that [[âˆžGrpd]] is [[presentable (âˆž,1)-category|presented]] by [[Top]] $\simeq$ [[sSet]] (see also at _[[homotopy hypothesis]]_) this recovers classical theorems about the classification of [[fibrations]] in simplicial sets/topological spaces, as listed in the [References](http://ncatlab.org/nlab/show/associated+infinity-bundle#References) at _[[associated âˆž-bundle]]_.
+[[âˆžGrpd]] of [[âˆž-groupoids]] is itself the [[core]] of the [[(âˆž,1)-category]] $\infty Grpd_\kappa$ of $\kappa$-small $\infty$-groupoids. Observing that the connected components of this are the [[delooping]] $B Aut(F)$ of the [[automorphism âˆž-group]] of a given [[homotopy type]] $[F]$, and using that [[âˆžGrpd]] is [[presentable (âˆž,1)-category|presented]] by [[Top]] $\simeq$ [[sSet]] (see also at _[[homotopy hypothesis]]_) this recovers classical theorems about the classification of [[fibrations]] in simplicial sets/topological spaces, as listed in the [References](http://ncatlab.org/nlab/show/associated+infinity-bundle#References) at _[[associated âˆž-bundle]]_.
 
 +-- {: .num_prop }
 ###### Proposition
@@ -221,7 +221,7 @@ of the [[universal right fibration]] along the defining inclusion of (the [[Kan 
 +-- {: .num_lemma #RelativelyCompactInInfinityGroupods}
 ###### Lemma
 
-In [[âˆžGrpd]] the relatively $\kappa$-compact morphisms, $X \to Y$, def. \ref{RelativelyKappaCompact} are precisely those all whose [[homotopy fibers]]
+In [[âˆžGrpd]] the relatively $\kappa$-compact morphisms, $X \to Y$, def. \ref{RelativelyKappaCompact}, are precisely those all whose [[homotopy fibers]]
 
 $$
   X_{y} := X \times_{Y} \{y\}
