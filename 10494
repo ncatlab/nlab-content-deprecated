@@ -27,7 +27,7 @@ to a [[cohesive (âˆž,1)-topos]] is itself cohesive,
 _[tangent âˆž-category -- Examples -- Of an âˆž-topos](tangent+%28infinity%2C1%29-category#TangentTopos)_), the 
 _tangent cohesive (âˆž,1)-topos_.
 
-This $T \mathbf{H}$ the $\infty$-topos of [[parameterized spectra]] in $\mathbf{H}$, hence is context for cohesive [[stable homotopy theory]].
+This $T \mathbf{H}$ is the $\infty$-topos of [[parameterized spectra]] in $\mathbf{H}$, hence is the context for cohesive [[stable homotopy theory]].
 
 $$
   \array{
