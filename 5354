@@ -81,7 +81,8 @@ The [[derived geometry]] of the Ã©tale site is the [[Ã©tale (âˆž,1)-site]
 
 * [[Ã©tale (âˆž,1)-site]]
 
-* [[fppf-site]], [[fpqc-site]], [[Zariski site]]
+[[fpqc-site]] $\to$ [[fppf-site]] $\to$ [[syntomic site]] $\to$ **Ã©tale site** $\to$ [[Nisnevich site]] $\to$ [[Zariski site]]
+
 
 ## References
 
