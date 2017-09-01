@@ -272,7 +272,7 @@ Distributions can be alternatively described using [[nonstandard analysis]], see
 
 ## References
 
-See also _[[hyperfunction]]_ and references therein.
+See also _[[hyperfunction]]_, [[ultradistribution]] and references therein.
 
 ### General
 
@@ -282,6 +282,8 @@ The original articles include
 
 * [[I. M. Gel'fand]], G.E. Shilov, _Generalized functions_, 1â€“5 , Acad. Press  (1966â€“1968) transl. from Ð˜. Ðœ. Ð“ÐµÐ»ÑŒÑ„Ð°Ð½Ð´, Ð“. Ð•. Ð¨Ð¸Ð»Ð¾Ð² ÐžÐ±Ð¾Ð±Ñ‰ÐµÐ½Ð½Ñ‹Ðµ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¸, Ð²Ñ‹Ð¿. 1-3, Ðœ.:Ð¤Ð¸Ð·Ð¼Ð°Ñ‚Ð³Ð¸Ð·, 1958; 1: ÐžÐ±Ð¾Ð±Ñ‰ÐµÐ½Ð½Ñ‹Ðµ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¸ Ð¸ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð½Ð°Ð´ Ð½Ð¸Ð¼Ð¸, 2: ÐŸÑ€Ð¾ÑÑ‚Ñ€Ð°Ð½ÑÑ‚Ð²Ð° Ð¾ÑÐ½Ð¾Ð²Ð½Ñ‹Ñ… Ð¾Ð±Ð¾Ð±Ñ‰ÐµÐ½Ð½Ñ‹Ñ… Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¹, 3: ÐÐµÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð²Ð¾Ð¿Ñ€Ð¾ÑÑ‹ Ñ‚ÐµÐ¾Ñ€Ð¸Ð¸ Ð´Ð¸Ñ„Ñ„ÐµÑ€ÐµÐ½Ñ†Ð¸Ð°Ð»ÑŒÐ½Ñ‹Ñ… ÑƒÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ð¹
 
+* E. Magenes, G. Stampacchia, _Teoria delle distribuzioni_, Lectures Given at a Summer School of the Centro Internazionale Matematico Estivo (C.i.m.e.) Held in Saltino (Firenza) Italy, September 1-9, 1961; C.I.M.E., Ed. Cremonese, Roma, 1961; reprinted as CIME __24__, Springer 2011 [doi](http://dx.doi.org/10.1007/978-3-642-10967-6)
+    
 Modern accounts include
 
 * L.V. HÃ¶rmander, _The analysis of linear partial differential operators_, vol. I, Springer 1983
@@ -303,7 +305,7 @@ Applications of distributions in [[physics]] are discussed in
 
 In theorem 5.1.1 of 
 
-* [[Alfred FrÃ¶licher]], [[Andreas Kriegl]], _Linear Spaces and Differentiation Theory_, Wiley 1988. 
+* [[Alfred FrÃ¶licher]], [[Andreas Kriegl]], _Linear spaces and differentiation theory_, Wiley 1988. 
 
 the [[convenient vector space]] of Schwartz distributions of compact support is characterized by a [[monad|monadic]] construction.
 In generalization of this, an abstract formalization of distribiutions in [[category theory]]/[[universal algebra]] is discussed in 
