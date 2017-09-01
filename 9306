@@ -36,7 +36,7 @@ on those [[(âˆž,1)-functors]] $X \colon \mathcal{Y}^{inf} \to \infty Grpd$ su
 
 1. over the [[terminal object]] they are [[contractible]]: $X(*) \simeq *$;
 
-1. they preserves [[(âˆž,1)-pullbacks]].
+1. they preserve [[(âˆž,1)-pullbacks]] (are [[cohesive âˆž-presheaf on E-âˆž rings|infinitesimally cohesive]])
 
 =--
 
