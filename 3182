@@ -996,7 +996,11 @@ This adjunction $(L \dashv R)$ is a [[Quillen equivalence]] with respect to the 
 
   * [[discrete âˆž-groupoid]]
 
-  * **Euclidean-topological âˆž-groupoid**
+  * [[topological infinity-groupoid]]
+
+    * **Euclidean-topological âˆž-groupoid**
+
+    * [[locally contractible topological infinity-groupoid]]
 
   * [[smooth âˆž-groupoid]]
 
@@ -1042,19 +1046,3 @@ Discussion of [[geometric realization of simplicial topological spaces|geometric
 
 [[!redirects ETopâˆžGrpd]]
 
-[[!redirects topological infinity-groupoid]]
-[[!redirects topological infinity-groupoids]]
-[[!redirects topological âˆž-groupoid]]
-[[!redirects topological âˆž-groupoids]]
-
-[[!redirects âˆžTopGrpd]]
-
-[[!redirects continuous infinity-groupoid]]
-[[!redirects continuous infinity-groupoids]]
-[[!redirects continuous âˆž-groupoid]]
-[[!redirects continuous âˆž-groupoids]]
-
-[[!redirects topological infinity-group]]
-[[!redirects topological infinity-groups]]
-[[!redirects topological âˆž-group]]
-[[!redirects topological âˆž-groups]]
