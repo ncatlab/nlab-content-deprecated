@@ -126,9 +126,17 @@ There is a [[strict 2-category]] BrMonCat with:
 
 ## Related concepts
 
-* [[braided 2-group]]
-
 * [[k-tuply monoidal (n,r)-category]]
+
+* [[monoidal category]], [[monoidal (âˆž,1)-category]]
+
+* **braided monoidal category**, [[braided monoidal (âˆž,1)-category]]
+
+  * [[braided 2-group]], [[braided âˆž-group]]
+ 
+* [[symmetric monoidal category]], [[symmetric monoidal (âˆž,1)-category]]
+
+* [[closed monoidal category]] ,  [[closed monoidal (âˆž,1)-category]]
 
 ## References
 
