@@ -4,7 +4,7 @@
 |--|----------------|--------------------------------|----|--------|------|
 | | [[A-âˆž operad]]  | [[A-âˆž algebra]] | [[âˆž-group]] | [[A-âˆž space]], e.g. [[loop space]] | [[loop space object]] |
 | | [[E-k operad]] | [[E-k algebra]] | [[k-monoidal âˆž-group]] | [[iterated loop space]] | [[iterated loop space object]] |
-|  | [[E-âˆž operad]] | [[E-âˆž algebra]] | [[abelian âˆž-group]] | [[E-âˆž space]] e.g. [[infinite loop space]] $\simeq$ [[Î“-space]] | [[infinite loop space object]] |
+|  | [[E-âˆž operad]] | [[E-âˆž algebra]] | [[abelian âˆž-group]] | [[E-âˆž space]], if grouplike: [[infinite loop space]] $\simeq$ [[Î“-space]] | [[infinite loop space object]] |
 |  |  |  |  | $\simeq$ [[connective spectrum]] | $\simeq$ [[connective spectrum object]] |   
 | **[[stabilization]]** |  |  |  |  [[spectrum]] | [[spectrum object]] |   
 
