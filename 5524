@@ -677,7 +677,7 @@ $X^{\Delta^\bullet_{inf}} \to \mathbf{\Pi}_{inf}(X)$ which is an equivalence in 
 
 We discuss [[cohesive (âˆž,1)-topos -- structure âˆž-sheaves|cohesive structure (âˆž,1)-sheaves]] in the context of [[SmoothâˆžGrpd]].
 
-+-- {: .num_prop}
++-- {: .num_prop #RecoveringLocalDiffeomorphisms}
 ###### Proposition
 
 Regard [[SmoothâˆžGrpd]] as being equipped with [[cohesive (infinity,1)-topos|infinitesimal cohesion]] exhibited by the canonical inclusion $i : Smooth \infty Grpd \to $ [[SynthDiffâˆžGrpd]].
