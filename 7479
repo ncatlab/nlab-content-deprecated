@@ -39,7 +39,7 @@ Yet another description is that it is the [[Freyd cover]] of **Set**.
 +-- {: .num_defn}
 ###### Definition
 
-Similarly, the **Sierpinski [[(âˆž,1)-topos]]** is the arrow category $\infty Grpd^{\Delta[1]}$ of [[âˆžGrpd]]. 
+Similarly, the **Sierpinski [[(âˆž,1)-topos]]** is the [[arrow (âˆž,1)-category]] $\infty Grpd^{\Delta[1]}$ of [[âˆžGrpd]]. 
 
 Equivalently this is the [[(âˆž,1)-category of (âˆž,1)-presheaves]] on $\Delta[1]$ and equivalently the [[(âˆž,1)-category of (âˆž,1)-sheaves]] on $Sierp$:
 
