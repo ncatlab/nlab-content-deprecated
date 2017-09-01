@@ -15,7 +15,7 @@
 
 ## Idea
 
-A $\Gamma$-space is a model for an [[âˆž-groupoid]] equipped with a multiplication that is unital, associative, and commutative up to higher [[coherence|coherent]]  [[homotopies]]:  they are models for [[E-âˆž spaces]] / [[infinite loop spaces]].
+A $\Gamma$-space is a model for an [[âˆž-groupoid]] equipped with a multiplication that is unital, associative, and commutative up to higher [[coherence|coherent]]  [[homotopies]]:  they are models for groupal [[E-âˆž spaces]] / [[infinite loop spaces]] / [[abelian âˆž-groups]].
 
 The notion of $\Gamma$-space is a close variant of that of [[Segal category]] for the case that the underlying [[(âˆž,1)-category]] happens to be an [[âˆž-groupoid]], happens to be [[n-connected object in an (âˆž,1)-category|connected]] and is equipped with extra structure.
 
