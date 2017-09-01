@@ -1,0 +1,46 @@
+
+#Contents#
+* table of contents
+{:toc}
+
+## Definition
+
+A [[topological space]] is a _LindelÃ¶f space_ if every [[open cover]] has a [[countable cover|countable]] sub-cover.
+
+## Examples
+
+* Every [[compact topological space]] is LindelÃ¶f.
+
+* Every [[second-countable topological space]] is LindelÃ¶f.
+
+* Every [[sigma-compact topological space]] is LindelÃ¶f.
+
+## Properties
+
+[[regular LindelÃ¶f spaces are paracompact]]
+
+## References
+
+Named after [[Ernst Leonard LindelÃ¶f]].
+
+See also 
+
+* Wikipedia, _[LindelÃ¶f space](https://en.wikipedia.org/wiki/Lindel%C3%B6f_space)_
+
+[[!redirects LindelÃ¶f topological spaces]]
+
+[[!redirects LindelÃ¶f space]]
+[[!redirects LindelÃ¶f spaces]]
+
+[[!redirects Lindeloef topological space]]
+[[!redirects Lindeloef topological spaces]]
+
+[[!redirects Lindeloef space]]
+[[!redirects Lindeloef spaces]]
+
+[[!redirects Lindelof topological space]]
+[[!redirects Lindelof topological spaces]]
+
+[[!redirects Lindelof space]]
+[[!redirects Lindelof spaces]]
+
