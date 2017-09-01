@@ -1027,6 +1027,21 @@ In addition,
 
 * Another class of examples are [[(âˆž,n)-categories of spans]].
 
+## Extra structure and properties
+
+We discuss extra [[structure]] that an [[(âˆž,n)-category]] can carry
+and extra [[properties]] that it may enjoy.
+
+### $\mathcal{O}$-Monoidal $(\infty,n)$-categories 
+
+* [[monoidal (âˆž,1)-category]]
+
+* [[symmetric monoidal (âˆž,n)-category]]
+
+### $(\infty,n)$-Categories with all adjoints
+
+* [[(âˆž,n)-category with all adjoints]]
+
 ## Related concepts
 
 * [[0-category]], [[(0,1)-category]]
