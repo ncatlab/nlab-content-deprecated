@@ -304,6 +304,8 @@ See ([RosenbergKontsevich, section 5.8](#RosenbergKontsevich))
 
 [[formally smooth morphism]] and [[formally unramified morphism]] $\Rightarrow$ **formally Ã©tale morphism**
 
+[[!include cohesion - table]]
+
 ## References
 
 The idea of defining Ã©tale morphisms $f$ as those that get send to a pullback square by a natural transformartion goes back to lectures by [[AndrÃ© Joyal]] in the 1970s.
@@ -328,3 +330,10 @@ Formalization and discussion in the context of [[cohesive (âˆž,1)-toposes]] i
 [[!redirects formally Ã©tale morphisms]]
 
 [[!redirects formally etale morphisms]]
+
+[[!redirects formally Ã©tale map]]
+[[!redirects formally Ã©tale maps]]
+
+[[!redirects formally etale map]]
+[[!redirects formally etale maps]]
+
