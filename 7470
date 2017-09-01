@@ -44,6 +44,18 @@ A construction that should be a model for this notion in terms of a [[model cate
 
 Once a model category $V$ for $\mathcal{V}$ has been chosen, one can consider [[semi-strict infinity-category|semi-strict]] $\infty$-enrichments given by ordinary $V$-[[enriched categories]] equipped with a notion of weak equivalence that remembers that these are presentations for enriched $(\infty,1)$-categories. See also _[[enriched homotopical category]]_. 
 
+## Examples
+ {#Examples}
+
+A [[stable (âˆž,1)-category]] is naturally enriched in the [[(âˆž,1)-category of spectra]].
+
+More generally, for $R$ an [[E-âˆž ring]] then an $R$-[[linear (âˆž,1)-category]] is naturally enriched in $R$-[[âˆž-modules]]. (This includes the previous case for $R$ the [[sphere spectrum]].)
+
+A [[closed monoidal (âˆž,1)-category]] is naturally enriched over itself.
+
+([Gepner-Haugseng 13](#GepnerHaugseng13))
+
+
 ## Related concepts
 
 * [[Segal category]], [[Segal n-category]]
@@ -62,7 +74,7 @@ Once a model category $V$ for $\mathcal{V}$ has been chosen, one can consider [[
 * [[Jacob Lurie]], _[[Higher Algebra]]_
  {#Lurie}
 
-* [[David Gepner]], Rune Haugseng, _Enriched âˆž-categories via non-symmetric âˆž-operads_ ([arXiv:1312.3178](http://arxiv.org/abs/1312.3178))
+* {#GepnerHaugseng13} [[David Gepner]], [[Rune Haugseng]], _Enriched âˆž-categories via non-symmetric âˆž-operads_ ([arXiv:1312.3178](http://arxiv.org/abs/1312.3178))
 
 [[!redirects enriched (âˆž,1)-category]]
 [[!redirects enriched (âˆž,1)-categories]]
