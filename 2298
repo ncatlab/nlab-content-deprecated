@@ -35,7 +35,11 @@
 
 * [[derived algebraic geometry]]
 
-  * [[Ã©tale (âˆž,1)-site]], [[dg-geometry]], [[Hochschild cohomology]] of [[dg-algebra]]s
+  * [[Ã©tale (âˆž,1)-site]], [[Hochschild cohomology]] of [[dg-algebra]]s
+
+  * [[dg-geometry]]
+
+    * [[dg-scheme]]
 
   * [[schematic homotopy type]]
 
@@ -47,7 +51,7 @@
 
   * [[differential geometry]], [[differential topology]]
 
-  * [[derived smooth manifold]]
+  * [[derived smooth manifold]], [[dg-manifold]]
 
   * [[smooth âˆž-groupoid]], [[âˆž-Lie algebroid]]
 
