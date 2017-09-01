@@ -1,0 +1,47 @@
+
++-- {: .rightHandSide}
++-- {: .toc .clickDown tabindex="0"}
+###Context###
+#### Higher algebra
++--{: .hide}
+[[!include higher algebra - contents]]
+=--
+=--
+=--
+
+
+#Contents#
+* table of contents
+{:toc}
+
+## Idea
+
+The notion of _$\infty$-module_ over an [[monoid object in an (âˆž,1)-category]] (for instance an [[A-âˆž ring]] or [[E-âˆž ring]]) is the generalization to ([[stable homotopy theory|stable]])[[homotopy theory]] of the notion of [[module]] over a [[ring]].
+
+## Definition
+
+See at _[[module over an algebra over an (âˆž,1)-operad]]_.
+
+## Examples
+
+* in the [[stable (âˆž,1)-category of spectra]]: [[module spectrum]] over an [[ring spectrum]]
+
+## Related concepts
+
+* [[action]], [[âˆž-action]]
+
+* [[module]], **$\infty$-module**
+
+* [[representation]], [[âˆž-representation]]
+
+## References
+
+Section 3.3 of 
+
+* [[Jacob Lurie]], _[[Higher Algebra]]_
+
+
+[[!redirects âˆž-module]]
+[[!redirects infinity-modules]]
+[[!redirects âˆž-modules]]
+
