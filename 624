@@ -126,11 +126,11 @@ See at _[(âˆž,1)-category of (âˆž,1)-modules -- Compact generation](%28â�
 
 ### Properties
 
-### Trace
+#### Trace
 
 Dualizable objects support a good abstract notion of [[trace]]. (...)
 
-### Relation to cobordism hypothesis
+#### Relation to cobordism hypothesis
 
 Dualizable objects in an [[symmetric monoidal (âˆž,1)-category]] are already [[fully dualizable objects]]. The [[cobordism hypothesis]] implies that there is a canonical $O(1) \simeq \mathbb{Z}/2\mathbb{Z}$-action on the [[âˆž-groupoid]] of dualizable objects, and this is just the dualizing operation. See at _[cobordism hypothesis -- Framed version -- Implications: Canonical O(n)-action](cobordism+hypothesis#TheCanonicalOnAction)_.
 
