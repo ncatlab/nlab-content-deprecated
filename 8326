@@ -156,6 +156,7 @@ The following table lists proposals for possible such identifications. The conte
 | moment of two negations | [[double negation modality]] $\not \not$, more generally: [[bracket type]]/[[n-truncation modality|(-1)-truncation modality]] |
 | something | [[n-truncation modality|(-1)-truncation modality]], classically [[double negation modality]] |
 | measure (= [[gauge field|gauge]]) | quality $\dashv$ quantity |
+| absolute indifference (essence) | $id \dashv id$ |
 
 Notice that the above involves the first two stages in the tower
 of [[n-truncation modalities]]:
@@ -498,6 +499,7 @@ Notice that [above](#Becoming) this [[unity of opposites|unity]] is called _[[be
 
 * DieÃŸ fÃ¼hrt zu einer weitern Bestimmung. Ansichseyn und Seyn-fÃ¼r-Anderes sind zunÃ¤chst verschieden; aber daÃŸ Etwas dasselbe, was es an sich ist, auch an ihm hat, und umgekehrt, was es als Seyn-fÃ¼r-Anderes ist, auch an sich ist,â€”dieÃŸ ist die IdentitÃ¤t des Ansichseyns und Seyns-fÃ¼r-Anderes, nach der Bestimmung, daÃŸ das Etwas selbst ein und dasselbe beider Momente ist, sie also ungetrennt in ihm sind.â€”Es ergiebt sich formell diese IdentitÃ¤t schon in der SphÃ¤re des Daseyns, aber ausdrÃ¼cklicher in der Betrachtung des Wesens und dann des VerhÃ¤ltnisses der Innerlichkeit und Ã„uÃŸerlichkeit, und am bestimmtesten in der Betrachtung der Idee, als der Einheit des Begriffs und der Wirklichkeit.
 
+
 ##### C. Die Unendlichkeit
 
 ###### a. Das Unendliche Ãœberhaupt
@@ -714,11 +716,7 @@ $$
 
 where "$\subset$" denotes inclusion of modal types
 
-Equivalently we may arrange this as follows.
-
-+-- {: bluebox #Cascade}
-###### .
-
+Equivalently we may arrange this as follows
 
 $$
   \array{
@@ -747,7 +745,9 @@ $$
   }
 $$
 
-=--
+to exhibit a cascade (Bewegung) of oppositions and their Aufhebung.
+
+See the labeled [Cascade](#Cascade) below.
 
 See also the commented diagram for _[gauge](#gauge)_ below.
 
@@ -1019,6 +1019,8 @@ The [[continuum]].
 #### Second chapter. Quantum
 
 
+
+
 ### Third section. The measure.
  {#TheMeasure}
 
@@ -1026,17 +1028,33 @@ The [[continuum]].
 
 * Â§699 Abstractly expressed, in measure quality and quantity are united
 
-[[unity of opposites]]
+
+So by the formalization of [[unity of opposites]] we have 
 
 $$
   measure \colon quantity \dashv quality
 $$
 
+and since quantity and quality are already themselves unities of opposites, we find that MaÃŸ (EichmaÃŸ) is the second-order adjunction
+
+$$
+  \array{
+    Qualitaet && \int &\dashv& \flat
+    \\
+    EichmaÃŸ && \bot && \bot
+    \\
+    Quantitaet y && \flat &\dashv& \sharp
+  }
+$$
+
+See the [Cascade](#Cascade)
 
 
 * Â§703 The observation here made extends generally to those systems of pantheism which have been partially developed by thought. The first is being, the one, substance, the infinite, essence; in contrast to this abstraction the second, namely, all determinateness in general, what is only finite, accidental, perishable, non-essential, etc. can equally abstractly be grouped together; and this is what usually happens as the next step in quite formal thinking. But the connection of this second with the first is so evident that one cannot avoid grasping it as also in a unity with the latter;
 
-#### A. The Specific Quantum
+#### First chapter. Die specifische QuantitÃ¤t.
+
+##### A. Das specifische Quantum / The Specific Quantum
 
 * {#714} Â§714 Ein MaaÃŸ, als MaaÃŸstab im gewÃ¶hnlichen Sinne, ist ein Quantum, das als die an sich bestimmte Einheit gegen Ã¤uÃŸerliche Anzahl willkÃ¼rlich angenommen wird. Eine solche Einheit kann zwar auch in der That an sich bestimmte Einheit seyn, wie FuÃŸ und dergleichen ursprÃ¼ngliche MaaÃŸe; insofern sie aber als MaaÃŸstab zugleich fÃ¼r andere Dinge gebraucht wird, ist sie fÃ¼r diese nur Ã¤uÃŸerliches, nicht ihr ursprÃ¼ngliches MaaÃŸ.â€”So mag der Erddurchmesser, oder die PendellÃ¤nge, als specifisches Quantum fÃ¼r sich genommen werden. Aber es ist willkÃ¼rlich, den wievielsten Theil des Erddurchmessers oder der PendellÃ¤nge und unter welchem Breitengrade man diese nehmen wolle, um sie als MaaÃŸstab zu gebrauchen. Noch mehr aber ist fÃ¼r andere Dinge ein solcher MaaÃŸstab etwas Ã„uÃŸerliches. Diese haben das allgemeine specifische Quantum wieder auf besondere Art specificirt, und sind dadurch zu besondern Dingen gemacht. Es ist daher thÃ¶richt, von einem natÃ¼rlichen MaaÃŸstab der Dinge zu sprechen. Ohnehin soll ein allgemeiner MaaÃŸstab nur fÃ¼r die Ã¤uÃŸerliche Vergleichung dienen; in diesem oberflÃ¤chlichsten Sinne, in welchem er als allgemeines MaaÃŸ genommen wird, ist es vÃ¶llig gleichgÃ¼ltig, was dafÃ¼r gebraucht wird. Es soll nicht ein GrundmaaÃŸ in dem Sinne seyn, daÃŸ die NaturmaaÃŸe der besondern Dinge daran dargestellt und daraus nach einer Regel, als Specifikationen Eines allgemeinen MaaÃŸes, des MaaÃŸes ihres allgemeinen KÃ¶rpers, erkannt wÃ¼rden. Ohne diesen Sinn aber hat ein absoluter MaaÃŸstab nur das Interesse und die Bedeutung eines Gemeinschaftlichen, und ein solches ist nicht an sich, sondern durch Ãœbereinkommen ein Allgemeines.
 
@@ -1066,17 +1084,85 @@ $$
 
 
 
-#### B. Specifying measure
+##### B. Specificirendes MaÃŸ / Specifying measure
 
-##### (a) The Rule
+###### (a) Die Regel / The Rule
 
-* {725} Â§725 Die Regel oder der MaaÃŸstab, von dem schon gesprochen worden, ist zunÃ¤chst als eine an sich bestimmte GrÃ¶ÃŸe, welche Einheit gegen ein Quantum ist, das eine besondere Existenz ist, an einem andern Etwas, als das Etwas der Regel ist, existirt,â€”an ihr gemessen, d. i. als Anzahl jener Einheit bestimmt wird. Diese Vergleichung ist ein Ã¤uÃŸerliches Thun, jene Einheit selbst eine willkÃ¼rliche GrÃ¶ÃŸe, die ebenso wieder als Anzahl (der FuÃŸ als eine Anzahl von Zollen) gesetzt werden kann. Aber das MaaÃŸ ist nicht nur Ã¤uÃŸerliche Regel, sondern als specifisches ist es dieÃŸ, sich an sich selbst zu seinem Andern zu verhalten, das ein Quantum ist.
+* {#725} Â§725 Die Regel oder der MaaÃŸstab, von dem schon gesprochen worden, ist zunÃ¤chst als eine an sich bestimmte GrÃ¶ÃŸe, welche Einheit gegen ein Quantum ist, das eine besondere Existenz ist, an einem andern Etwas, als das Etwas der Regel ist, existirt,â€”an ihr gemessen, d. i. als Anzahl jener Einheit bestimmt wird. Diese Vergleichung ist ein Ã¤uÃŸerliches Thun, jene Einheit selbst eine willkÃ¼rliche GrÃ¶ÃŸe, die ebenso wieder als Anzahl (der FuÃŸ als eine Anzahl von Zollen) gesetzt werden kann. Aber das MaaÃŸ ist nicht nur Ã¤uÃŸerliche Regel, sondern als specifisches ist es dieÃŸ, sich an sich selbst zu seinem Andern zu verhalten, das ein Quantum ist.
 
 * Â§725 The rule or standard $[$ gauge $]$, which has already been mentioned, is in the first place an intrinsically determinate magnitude which is a unit with reference to a quantum having a particular existence in a something other than the something of the rule; this other something is measured by the rule, i.e. is determined as an amount of the said unit. This comparison is an external act, the unit itself being an arbitrary magnitude which in turn can equally be treated as an amount (the foot as an amount of inches). But measure is not only an external rule; as a specifying measure its nature is to be related in its own self to an other which is a quantum.
 
-##### (b) Specifying Measure
+###### (b) Das specificirende MaÃŸ / Specifying Measure
 
-##### (c) Relation of the two Sides as Qualities
+###### (c) VerhÃ¤ltnis beider Seiten als QualitÃ¤ten / Relation of the two Sides as Qualities
+
+##### C. Das FÃ¼rsichseyn im MaaÃŸe
+
+#### Chapter two. Das reale MaaÃŸ
+
+#### Chapter three. Das Werden des Wesens.
+
+##### A. Die absolute Indifferenz
+
+##### B. Die Indifferenz als umgekehrtes VerhÃ¤ltniÃŸ ihrer Faktoren.
+
+##### C. Ãœbergang in das Wesen.
+ {#UeberGangInDasWesen}
+
+* {#803} Â§803 Die absolute Indifferenz ist die letzte Bestimmung des Seyns, ehe dieses zum Wesen wird; 
+
+* Â§803 Absolute indifference is the final determination of being before it becomes essence; but it does not attain to essence.
+
+Under the formalization of [[unity of opposites]], "absolute indifference" is plausibly the name of the trivial adjunction $id\dashv id$ which describes a difference that is none, hence an indifference.
+
+$$
+  Wesen \colon id \dashv id
+  \,.
+$$
+
+This fits well with the idea in [Â§803](#803) that the process of determination comes to an end in the Wesen, because indeed $(id \dashv id)$ is the topmost [[level of a topos|level]] in the mathematical sense.
+
+$$
+  \array{
+     Wesen &\colon& id &\dashv& id
+     \\
+     && \vee && \vee
+     \\
+     && \vdots && \vdots
+  }
+$$
+
++-- {: bluebox #Cascade}
+###### .
+
+$$
+  \array{
+    && id &\stackrel{Das\;Wesen}{\dashv}& id
+    \\
+    && \vee &Aufhebung \atop {der\;Differenzen}& \vee 
+    \\
+    && \Re &\stackrel{Idealitaet}{\dashv}& &#643;_{inf}
+    \\
+    && \bot && \bot 
+    \\
+    && &#643;_{inf} &\stackrel{Realitaet}{\dashv}& \flat_{inf}
+    \\
+    && \vee &{Aufhebung \atop {der\;Endlichkeit}}& \vee 
+    \\
+    &Attraktion& &#643; &\stackrel{Qualitaet}{\dashv}& \flat & Repulsion
+    \\
+    && \bot && \bot 
+    \\
+    &Diskretion& \flat &\stackrel{Quantitaet}{\dashv}& \sharp & Kontinuum
+    \\
+    && \vee &Aufhebung& \vee 
+    \\
+    &Nichts& \emptyset &\stackrel{Werden}{\dashv}& \ast & Sein
+    \\
+  }
+$$
+
+=--
 
 ## **Book two** Die Lehre vom Wesen / The doctrine of essence 
 
