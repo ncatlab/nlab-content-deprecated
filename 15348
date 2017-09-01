@@ -20,7 +20,7 @@ The _JÃ³nsson-Tarski topos_ is 'the topos analogue of the [[Cantor space]]'.[^
 [^fine]: Quote from Bunge&Funk (2006, p.183). 
 
 ##Definition
-The category of [[JÃ³nsson-Tarski algebras]] $\mathcal{J}_2$ is called the **JÃ³nsson-Tarski topos**.
+The **JÃ³nsson-Tarski topos** $\mathcal{J}_2$ is the category of [[JÃ³nsson-Tarski algebras]] considered as topos, i.e. its objects are sets $X$ together with an isomorphism $X\to X\times X$ and morphisms are functions that commute with the structure isomorphisms.
 
 ##Properties
 
