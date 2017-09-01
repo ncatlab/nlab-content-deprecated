@@ -173,7 +173,7 @@ $\,$
 The following shows that system of _[[unity of opposites]]_ and _[[Aufhebung]]_ into which these formalizations fit. This is the adjoint pair of adjoint triples of [[cohesion]] and [[differential cohesion]] arranged such as to match, it seems, Hegel's text. Below this is discussed with pointers to the relevant passages.
 
 
-+-- {: bluebox #Cascade}
++-- {: bluebox #Process}
 ###### ProceÃŸ der Bewegung des Seyns
 
 $$
@@ -582,7 +582,7 @@ $$
   }
 $$
 
-in the [ProceÃŸ](#Cascade).
+in the [ProceÃŸ](#Process).
 
 On the other hand, mathematically we actually have an [[adjoint triple]] $\Re \dashv &#643;_{inf} \dashv \flat_{inf}$, with the [[reduction modality]] on the  left. Recall that the reduction modality expresses precisely the "disappearance of infinitesimal quantity" in [Â§174](#174).
 
@@ -622,7 +622,7 @@ $$
   }
 $$
 
-as part of the [ProceÃŸ](#Cascade).
+as part of the [ProceÃŸ](#Process).
 
 Notice that here the bottom step upward is an [[Aufhebung]] in the mathematical sense that $\flat_{inf} \circ &#643; \simeq &#643;$. In view of this, we learn from [Â§305](#305) 
 "Die IdealitÃ¤t ... Als [[Aufhebung|Aufheben]] der Endlichkeit" that we might label this as
@@ -794,7 +794,7 @@ $$
 
 to exhibit a ProceÃŸ (Bewegung) of oppositions and their Aufhebung.
 
-See the labeled diagram _[ProceÃŸ](#Cascade)_ below.
+See the labeled diagram _[ProceÃŸ](#Process)_ below.
 
 See also the commented diagram for _[gauge](#gauge)_ below.
 
@@ -1121,7 +1121,7 @@ $$
   }
 $$
 
-See the _[ProceÃŸ](#Cascade)_ diagram.
+See the _[ProceÃŸ](#Process)_ diagram.
 
 
 > {##703} Â§703 The observation here made extends generally to those systems of pantheism which have been partially developed by thought. The first is being, the one, substance, the infinite, essence; in contrast to this abstraction the second, namely, all determinateness in general, what is only finite, accidental, perishable, non-essential, etc. can equally abstractly be grouped together; and this is what usually happens as the next step in quite formal thinking. But the connection of this second with the first is so evident that one cannot avoid grasping it as also in a unity with the latter;
@@ -1150,7 +1150,7 @@ This concept of _MaÃŸstab_ in [Â§714](#714) is very explicitly that of _Eich
 
 This aspect is further amplified below in [Â§725](#725), which states that this choice is the choice of _Einheit_ (unit), i.e. MaÃŸeinheit. Mathematically, indeed, the choice of units is precisely a choice of [[gauge]] as in [[gauge theory]]. See at _[[physical unit]]_ for more on this. By the discussion there (see also at _[[torsor]]_), this is indeed all about ratios, just as stated in [Â§708](#708) above. Observe that [Â§709](#709) above said that to to develop a theory of measure, hence a theory of gauge, is to develop a "mathematics of nature".
 
-Therefore by ([Â§699](#699)) we may label this part of the [ProceÃŸ](#Cascade) as follows:
+Therefore by ([Â§699](#699)) we may label this part of the [ProceÃŸ](#Process) as follows:
 
 +-- {: bluebox #gauge}
 ###### .
