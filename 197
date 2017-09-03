@@ -1,9 +1,13 @@
 
-__$Quiv$__ or __$DiGraph$__ is the category of [[quivers]] or (as category theorists often call them) [[directed graphs]].
+## Idea
+
+__$Quiv$__ or __$DiGraph$__ is the category of [[quivers]] or (as category theorists often call them) [[directed graphs]]. It can be viewed as the default categorical model for the concept of a category of graphs.
+
+## Definition
 
 We can define a quiver to be a functor $G\colon X^{op} \to Set$, where $X^{op}$ is the [[category]] with an [[object]] $0$, an object $1$ and two [[morphisms]] $s, t\colon 1 \to 0$, along with [[identity morphisms]].  This lets us efficiently define $Quiv$ as the category of [[presheaves]] on $X$, where:
 
-* objects are [[functors]] $G\colon X^{op} \to C$,
+* objects are [[functors]] $G\colon X^{op} \to Set$,
 * morphisms are [[natural transformations]] between such functors.
 
 In other words, $Quiv$ is the [[functor category]] from this $X^{op}$ to [[Set]].
@@ -25,6 +29,8 @@ $$\array{
 }$$ 
 
 (so there is one loop labeled "empty" at the vertex $\emptyset$, and two loops at the vertex $\bullet$, one labeled $(x, y)$ and the other $x \stackrel{e}{\to} y$). 
+
+How does $\Omega$ work? Suppose that $X\subseteq Y$ is a subgraph and $\chi_X:Y\to\Omega$ its characteristic map, then $\chi_X$ maps vertices of $Y$ not in $X$ to $\emptyset$ and vertices in $X$ to $\bullet$ (a vertex is either contained in a subgraph or not - the choice is binary and, accordingly, $\Omega$ needs two vertices to represent this). For edges the situation is more complicated since there are five ways (and, accordingly five edges in $\Omega$ to represent this) for an edge $z$ of $Y$ to be related to the subgraph $X$: the most straightforward is when $z$ has neither source nor target in $X$, such $z$ are definitely not in $X$ and are represented in $\Omega$ by the loop at $\emptyset$. Now suppose that $z$ has either source or target vertex in $X$ but not both: $\chi_X$ maps these to the maps $x,y$ between $\emptyset\rightleftarrows\bullet$, respectively. When $z$ has both source and target in $X$, the edge itself might or might not be in $X$, and the corresponding two cases are represented by the two loops at $\bullet$ , respectively.
 
 
 category: category
