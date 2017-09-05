@@ -1,32 +1,51 @@
-## Do tags on elements of a sub list work?
+## Where should tags for text elements appear. Start or end?
+
+This started off as "do tags on elements of a sub list work?"
+
+{#pgh} Here is a paragraph starting with the tag `pgh`.
+
+See [this paragraph](#pgh).
 
 from [[quasitopos]] 
 
 * The following examples are categories of separated presheaves for the $\neg\neg$-topology on various presheaf toposes: 
 
-  * The category of [[monomorphisms]] between sets (as presheaves on the [[interval category]]). {#inj} 
+  * {#inj} The category of [[monomorphisms]] between sets (as presheaves on the [[interval category]]).  
 
-  * The category of sets equipped with a [[relation]] (as presheaves on 
+  * {#endorel} The category of sets equipped with a [[relation]] (as presheaves on 
     $$G_1 = (0 \stackrel{\overset{s}{\to}}{\underset{t}{\to}} 1),$$ 
-    a truncation of the [[globular category]]). {#endorel} 
+    a truncation of the [[globular category]]).  
 
-  * The category of sets equipped with a reflexive relation (as presheaves on a truncated reflexive globular category). {#endoref}
+  * {#endoref} The category of sets equipped with a reflexive relation (as presheaves on a truncated reflexive globular category). 
 
-  * The category of sets equipped with a symmetric relation (as presheaves on the full subcategory of finite sets and injections consisting of just the objects $1$, $2$). {#endosym}
+  * {#endosym} The category of sets equipped with a symmetric relation (as presheaves on the full subcategory of finite sets and injections consisting of just the objects $1$, $2$). 
 
-  * The category of sets equipped with a reflexive symmetric relation (as presheaves on the full subcategory of finite sets consisting of just the objects $1$, $2$). See [[category of simple graphs]]. {#endorefsym}
+  * {#endorefsym} The category of sets equipped with a reflexive symmetric relation (as presheaves on the full subcategory of finite sets consisting of just the objects $1$, $2$). See [[category of simple graphs]]. 
 
-* The category of [[bornological set|bornological sets]]. {#born}
+* {#born} The category of [[bornological set|bornological sets]].
+
+* The tag at the end of this list item doesn't make it into the HTML. {#atend} 
+
+* removing the space before the tag doesn't help.{#atend2}
 
 ----
 
-[$Inj$](#inj), [$EndoRel$](#endorel), [$EndoSym$](#endosyml), [$EndoRef$](#endorefl), [$EndoRefSym$](#endorefsyml).
+Tag [at end](#atend) of text preceded by a space doesn't work. 
 
-Above don't seem to work as in moving to entry and highlighting it.
+Spaceless tag [at end](#atend2) doesn't work.
 
+All of these work (with the tag at the start):
 
-How about top-level [$Born$](#born)?
+* [$Inj$](#inj), [$EndoRel$](#endorel), [$EndoSym$](#endosym), [$EndoRef$](#endoref), [$EndoRefSym$](#endorefsym).
 
+-----
 
+## heading1 with tag at end works.{#head1}
+
+link to [heading1](#head1).
+
+## {#head2}heading2 with tag at start. The tag doesn't make it into HTML.
+
+link to [heading2](#head2).
 
 
