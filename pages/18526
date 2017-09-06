@@ -132,9 +132,7 @@ $$
 +-- {: .proof}
 ###### Proof
 
-We discuss the case of the retarded propagator. The other case is directly analogous.
-
-Consider the abbreviation
+We first discuss the case of the retarded propagator. To that end, consider the abbreviation
 
 $$
   E_\epsilon(\vec k) 
@@ -145,7 +143,7 @@ $$
  \,.
 $$
 
-With this we compute:
+With this we compute as follows:
 
 $$
   \begin{aligned}
@@ -234,11 +232,15 @@ where the key step is the third: To obtain this in the case $x \gt 0$ we
 
 1. complete this to a sum of two [[contour integrals]], the first going clockwise around the [[pole]] at $- E_\epsilon(\vec k) - i \epsilon \in \mathbb{C}$ in the [[lower half plane]], the second going clockwise around $+ E_\epsilon(\vec k) - i \epsilon$;
 
-1. apply [[Cauchy's integral formula]] to find the sum of the [[residues]] at these two [[poles]] (compare the corresponding computation for the [[causal propagator]] in [this prop.](causal+propagator#EquivalentExpressinsForCausalPropagatorOnMinkowskiSpacetime)).
-
+1. apply [[Cauchy's integral formula]] to find the sum of the [[residues]] at these two [[poles]] (compare the corresponding computation for the [[causal propagator]] in [this prop.](causal+propagator#EquivalentExpressinsForCausalPropagatorOnMinkowskiSpacetime)). Observe that the minus sign in the prefactor $(-2\pi i)$ comes from the fact that the contours run _clockwise_ instead of counter-clockwise.
 
 For $x \lt 0$ we proceeds analogously, now completing to contours in the upper half plane. These do not enclose the two [[poles]] and hence in this case [[Cauchy's integral formula]] says that the result vanishes.
 
+Finally, for the advanced propagator the argument is directly analogous, with two differences:
+
+1. now the poles sit in the upper half plane, and hence we pick up a contribution for $(x-y)^0 \lt 0$ and none for $(x-y)^0 \gt 0$, hence in the end a prefactor of $\Theta(-(x-y)^0)$ instead of $\Theta((x-y)^0)$;
+
+1. the contours that do contribute now go counter-clockwise, instead of counter-clockwise, and hence we pick up an extra minus sign compared to the previous computation, as befits the definition of $\Delta_A(x,y) \coloneqq -\Theta(-(x-y)^0) \Delta(x,y)$.
 
 
 =--
@@ -290,6 +292,12 @@ Review in the context of [[perturbative algebraic quantum field theory]] include
 
 [[!redirects retarded propagator]]
 [[!redirects retarded propagators]]
+
+[[!redirects advanced causal propagator]]
+[[!redirects advanced causal propagators]]
+
+[[!redirects retarded causal propagator]]
+[[!redirects retarded causal propagators]]
 
 [[!redirects advanced Green function]]
 [[!redirects advanced Green functions]]
