@@ -1,7 +1,7 @@
 
 [[ContoursForHeavisideFourierTransform.png:file]]
 
-<img src="https://ncatlab.org/nlab/files/ContoursForHeavisideFourierTransform.png" width="200">
+<img src="https://ncatlab.org/nlab/files/ContoursForHeavisideFourierTransform.png" width="300">
 
 
 ## Where should tags for text elements appear. Start or end?
@@ -43,6 +43,18 @@ Spaceless tag [at end](#atend2) doesn't work.
 All of these work (with the tag at the start):
 
 * [$Inj$](#inj), [$EndoRel$](#endorel), [$EndoSym$](#endosym), [$EndoRef$](#endoref), [$EndoRefSym$](#endorefsym).
+
+-----
+
+Strangely single bracket link texts allow math expressions while double bracket texts don't. For example
+
+    the topos [$Set^\to$](https://ncatlab.org/nlab/show/Sierpinski+topos) or[$Set^\to$](nlab/show/Sierpinski+topos) or [[Sierpinski topos|$Set^\to$]]. 
+
+produces
+
++-- {: .standout}
+the topos [$Set^\to$](https://ncatlab.org/nlab/show/Sierpinski+topos) or[$Set^\to$](nlab/show/Sierpinski+topos) or [[Sierpinski topos|$Set^\to$]]. 
+=--
 
 -----
 
