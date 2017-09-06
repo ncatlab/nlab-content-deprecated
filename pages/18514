@@ -80,6 +80,8 @@ $$
 
 =--
 
+Definition \ref{CausalPropagatorOnMinkowskiSpacetime} is the expression that one obtains from a standard calculation of the [[Poisson bracket]] on the [[covariant phase space]] of the [[free field|free]] [[scalar field]] ([this prop.](scalar+field#IntegralKernelForPoissonBracketOfFreeScalarFieldOnMinkowskiSpacetime)). But the causal propagator has various other equivalent expressions, which are useful in different contexts:
+
 +-- {: .num_prop #EquivalentExpressinsForCausalPropagatorOnMinkowskiSpacetime}
 ###### Proposition
 **(equivalent expressions for causal propagator on Minkowski spacetime)**
@@ -104,7 +106,7 @@ $$
      & = 
      - i
      (2\pi)^{-p}
-     \frac{1}{E(\vec k)} sin(E(\vec k) (x-y)^0 ) e^{ - i \vec k \cdot (\vec x - \vec y)}
+     \int \frac{1}{E(\vec k)} sin(E(\vec k) (x-y)^0 ) e^{ - i \vec k \cdot (\vec x - \vec y)}
      d^p \vec k
      \\
   \end{aligned}
@@ -119,7 +121,7 @@ $$
 
 and where in the last expression the integral is to be understood as the weak limit of integrals up to ${\vert \vec k\vert}$ as ${\vert k \vert} \to \infty$ ([Scharf 95 (2.3.8)](#Scharf95)).
 
-The last expresion may be computed to be equal to
+The last expression may be computed to be equal to
 
 $$
   \label{CausalPropagatorOnMinkowskiSpacetimeInTermsOfBesselFunction}
@@ -215,7 +217,93 @@ $$
   \end{aligned}
 $$
 
-For the expression (eq:CausalPropagatorOnMinkowskiSpacetimeInTermsOfBesselFunction) see [Scharf 95 (2.3.8) to (2.3.18)](#Scharf95)
+For the derivation of  (eq:CausalPropagatorOnMinkowskiSpacetimeInTermsOfBesselFunction) from the last line of (eq:CausalPropagatorOnMinkowskiSpacetimeInTermsOfModeExpansion) see [Scharf 95 (2.3.8) to (2.3.18)](#Scharf95).
+
+Now regarding (eq:CausalPropagatorOnMinkowskiSpacetimeInTermsOfFeynmanIntegrand).
+Consider the abbreviation
+
+$$
+  E_\epsilon(\vec k) 
+    \coloneqq 
+  \sqrt{ 
+    \vec k^2 + m^2 - \epsilon^2
+  }
+ \,.
+$$
+
+With this we compute:
+
+$$
+  \begin{aligned}
+    \underset{\epsilon \to 0^+}{\lim}
+    \int
+     \frac{e^{-i k_\mu (x-y)^\mu}}{ k_\mu k^\mu + m^2 - i k_0 \epsilon /2 }
+    d^{p+1} k
+    & =
+    \underset{\epsilon \to 0^+}{\lim}
+    \int
+    \int
+      \frac{
+        e^{-i k_0 x^0} e^{- i \vec k \cdot (\vec x - \vec y)}
+      }{
+        - (k_0 + i \epsilon )^2 + E_\epsilon(\vec k)^2 
+      } 
+    d k_0
+    d^p \vec k 
+    \\
+    & =
+    \underset{\epsilon \to 0^+}{\lim}
+    \int
+      \frac{
+        e^{-i k_0 (x-y)^0} e^{- i \vec k \cdot (\vec x - \vec y)}
+      }{
+        ( E_\epsilon(\vec k) + (k_0 + i \epsilon) )
+        ( E_\epsilon(\vec k) - (k_0 + i \epsilon) )
+      } 
+    d k_0
+    d^p \vec k
+    \\
+    & = 
+    \left\{
+      \array{
+        2\pi i
+        \int
+        \frac{
+          e^{-i E(\vec k) (x-y)^2 e^{-i \vec k \cdot (\vec x - \vec y)}}
+        }
+        {
+          2 E(\vec k)
+        }
+        -
+        \frac{
+          e^{ + i E(\vec k)(x-y)^2} e^{-i \vec k \cdot (\vec x - \vec y)}
+        }{
+          2 E(\vec k)
+        }
+        & \vert & x^0 \gt 0
+        \\
+        0 & \vert & x^0 \lt 0
+      }
+    \right.
+    \\
+    & = 
+    - \pi i
+    \Theta(x^0)
+    \int
+      \frac{1}{E(\vec k)}
+      sin\left( E(\vec k)(x-y)^0 \right)
+      e^{-i \vec k \cdot (\vec x - \vec y)}
+     d^p \vec k
+     \,,
+  \end{aligned}
+$$
+
+where the key step is the third: To obtain this we 
+
+1. decompose the integral over $k_0$ as $\int_{-\infty}^\infty d k_0 = \int_{-\infty}^0 d k_0 + \int_0^\infty d k_0$;
+
+1. for $x \gt 0 $
+
 
 =--
 
