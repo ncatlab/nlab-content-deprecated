@@ -123,7 +123,7 @@ The space of distributions on $X$ is denoted $\mathcal{D}'(X)$ (see also remark 
 
 $$
   \array{
-    \mathcal{D}(X) \times C_c^{\infty}(X) &\longrightarrow& \mathbb{R}
+    \mathcal{D}'(X) \times C_c^{\infty}(X) &\longrightarrow& \mathbb{R}
     \\
     (S, \phi) &\mapsto& S(\phi)
   }
@@ -358,9 +358,7 @@ A proof is given in these [notes](http://www-math.mit.edu/~helgason/hormander.pd
 
 There is another point of view on distributions: that they _can_ be modeled by actual functions provided that one admits infinite and infinitesimal quantities of the type used in Robinson [[nonstandard analysis]]. One particular approach is to formulate axiomatically the theory of distributions so that it can be interpreted in [[smooth toposes]] that model the axioms of [[synthetic differential geometry]] and support a suitable notion of invertible [[infinitesimal object]]s and infinitely large integers.
 
-This is discussed in chapter VII, section 3 of
-
-* [[Ieke Moerdijk]], [[Gonzalo Reyes]], [[Models for Smooth Infinitesimal Analysis]]
+This is discussed in ([Moerdijk-Reyes 91](#MoerdijkReyes91)).
 
 which closely mirrors the original treatment in Robinson's book Non-standard Analysis. Examples of models that support these axioms are the toposes $\mathcal{Z}$ and $\mathcal{B}$ described there. 
 
@@ -404,7 +402,7 @@ Distributions can be alternatively described using [[nonstandard analysis]], see
 
 See also _[[hyperfunction]]_, [[ultradistribution]] and references therein.
 
-### General
+### Traditional
 
 Generalized functions were introduced by S. L. Sobolev in 1935, and independently (under the name _distributions_) by [[Laurent Schwartz]] in the 1940's, who unaware of Sobolev's work developed an extensive theory for them. For an infinite-dimensional variant used in the foundation of Feynman [[path integral]] see also [[Connes distribution]].
 
@@ -438,13 +436,17 @@ Application of distributions in [[perturbative quantum field theory]] is discuss
 
 * {#Scharf95} [[GÃ¼nter Scharf]] _[[Finite Quantum Electrodynamics -- The Causal Approach]]_, Springer 1995 ([ZMATH entry] (http://www.zentralblatt-math.org/zmath/en/advanced/?q=an:0844.53052&format=complete))
 
-For more on this see the references at _[[locally covariant perturbative quantum field theory]]_.
+For more on this see the references at _[[perturbative AQFT]]_.
 
 See also 
 
 * Springer online [[eom]], _[generalized function](http://eom.springer.de/g/g043810.htm)_
 
+References on [[Colombeau algebra]] include
 
+* J. F. Colombeau, _New generalized functions and multiplications of distributions_, North Holland, Amsterdam (1984); _Elementary introduction in new generalized functions_, North Holland (1985)
+* N. DjapiÄ‡, S. PilipoviÄ‡, _Microlocal analysis of Colombeauâ€™s generalized functions on a manifold_, Indag. Math. N.S. 7, 293â€“309 (1996)
+* Stevan PilipoviÄ‡, Milica Å½igiÄ‡, _Suppleness of the sheaf of algebras of generalized functions on manifolds_, J. Math. Anal. Appl. __379__:2 (2011) 482â€“486, [arxiv/1101.4552](http://arxiv.org/abs/1101.4552), [MR2784335](http://www.ams.org/mathscinet-getitem?mr=2784335), [doi](http://dx.doi.org/10.1016/j.jmaa.2010.12.060)
 
 
 
@@ -452,7 +454,13 @@ See also
 ### In terms of smooth toposes
  {#InTermsOfSmoothToposes}
 
-Discussion of distributions in terms morphisms out of [[internal homs]] in the  [[Cahiers topos]] is in
+Discussion of distributions in terms morphisms out of [[internal homs]] in a [[smooth topos]] is in
+
+* {#MoerdijkReyes91} [[Ieke Moerdijk]], [[Gonzalo Reyes]], around prop. 3.6 of _[[Models for Smooth Infinitesimal Analysis]]_, Springer 1991
+
+and for the [[Cahiers topos]] in
+
+* {#KockReyes03} [[Anders Kock]], [[Gonzalo Reyes]], _Some calculus with extensive quantities: wave equation_, Theory and Applications of Categories , Vol. 11, 2003, No. 14, pp 321-336 ([TAC](http://www.tac.mta.ca/tac/volumes/11/14/11-14abs.html))
 
 * {#KockReyes04} [[Anders Kock]], [[Gonzalo Reyes]], _Categorical distribution theory; heat equation_ ([arXiv:math/0407242](https://arxiv.org/abs/math/0407242))
 
@@ -470,11 +478,7 @@ Similar [[sheaf theory|sheaf theoretic]] discussion of distributions as morphism
 
 * {#Paugam12} [[FrÃ©dÃ©ric Paugam]], section 3.2 of _Towards the mathematics of quantum field theory_, 2012 ([pdf](https://webusers.imj-prg.fr/~frederic.paugam/documents/enseignement/master-mathematical-physics.pdf)) 
 
-### On Colombeau's functions
 
-* J. F. Colombeau, _New generalized functions and multiplications of distributions_, North Holland, Amsterdam (1984); _Elementary introduction in new generalized functions_, North Holland (1985)
-* N. DjapiÄ‡, S. PilipoviÄ‡, _Microlocal analysis of Colombeauâ€™s generalized functions on a manifold_, Indag. Math. N.S. 7, 293â€“309 (1996)
-* Stevan PilipoviÄ‡, Milica Å½igiÄ‡, _Suppleness of the sheaf of algebras of generalized functions on manifolds_, J. Math. Anal. Appl. __379__:2 (2011) 482â€“486, [arxiv/1101.4552](http://arxiv.org/abs/1101.4552), [MR2784335](http://www.ams.org/mathscinet-getitem?mr=2784335), [doi](http://dx.doi.org/10.1016/j.jmaa.2010.12.060)
 
 category: analysis
 
