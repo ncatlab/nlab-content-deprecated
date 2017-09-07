@@ -40,4 +40,9 @@ Therefore and since Schwartz's notation for the space $C^\infty(X)$ of all smoot
 
 * {#Hoermander90} [[Lars HÃ¶rmander]], section 2.3 of _The analysis of linear partial differential operators_, vol. I, Springer 1983, 1990
 
+Discussion in terms of [[monads]] is in 
+
+* {#Kock11} [[Anders Kock]], _Commutative monads as a theory of distributions_ ([arxiv/1108.5952](http://arxiv.org/abs/1108.5952)) 
+
+
 [[!redirects compactly supported distributions]]
