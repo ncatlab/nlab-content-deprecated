@@ -250,8 +250,17 @@ Vol. 112, No. 4 (Aug., 1990), pp. 657-685 ([jstor]( http://www.jstor.org/stable/
 The [[symplectic Lie groupoid]] [[Lie integration|Lie integrating]] Lie-Poisson structures is discussed as example 4.3 in
 
 * {#BursztynCrainic} [[Henrique Bursztyn]], [[Marius Crainic]], _Dirac structures, momentum maps and quasi-Poisson manifolds_ ([pdf](http://www.preprint.impa.br/FullText/Bursztyn__Fri_Dec_23_11_24_19_BRDT_2005.html/alanfestimpa.pdf))
- 
 
+Review of the [[deformation quantization]] of Lie-Poisson structures via transfer of the product on the [[universal enveloping algebra]] of the given Lie algebra is  for instance in 
+
+* {#Gutt11} Simone Gutt, section 2.2 of _Deformation quantization of Poisson manifolds_, Geometry and TopologyMonographs 17 (2011) 171-220
+
+and generalization to more general polynomial Poisson algebras is discussed in
+
+* Michael Penkava, Pol Vanhaecke, _Deformation Quantization of Polynomial Poisson Algebras_, Journal of Algebra
+227, 365Ã±393 (2000) ([arXiv:math/9804022](https://arxiv.org/abs/math/9804022))
+
+ 
 See also
 
 * [[Victor Ginzburg]], [[Alan Weinstein]], _Lie-Poisson structure on some Poisson Lie groups_, Journal of the AMS, volume 5, number 2 (1992) ([pdf](http://www.ams.org/journals/jams/1992-05-02/S0894-0347-1992-1126117-8/S0894-0347-1992-1126117-8.pdf))
