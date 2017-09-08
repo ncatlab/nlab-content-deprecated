@@ -124,6 +124,10 @@ $$
 
 ## Properties
 
+### Deformation quantization by universal enveloping algebra
+
+See at _[[deformation quantization]]_ the section _[Relation to universal enveloping algebras](deformation+quantization#RelationToUniversalEnvelopingAlgebras)_.
+
 ### Symplectic groupoid
 
 The [[symplectic groupoid]] [[Lie integration|integrating]] the Lie-Poisson structure on $\mathfrak{g}^*$ is the [[action groupoid]] $\mathfrak{g}^* //G$ of the [[coadjoint action]]. For more see at _[[symplectic groupoid]]_ in the section _[Examples -- Of Lie-Poisson stucture](symplectic+groupoid#OfLiePoissonStructure)_.
@@ -241,24 +245,27 @@ General accounts include
 
 *  Izu Vaisman, section 3.1 of _Lectures on the Geometry of Poisson Manifolds_, BirkhÃ¤user 1994
 
-The [[strict deformation quantization]] of Lie-Poisson structures was considered in 
+* [[Camille Laurent-Gengoux]], _Linear Poisson Structures and Lie Algebras_, chapter 7 pp 179-203 of Camille Laurent-Gengoux, Anne Pichereau, Pol Vanhaecke (eds.) _Poisson Structures_, Grundlehren der mathematischen Wissenschaften book series (GL, volume 347) ([web](https://link.springer.com/chapter/10.1007/978-3-642-31090-4_7))
 
-* [[Marc Rieffel]], _Lie group convolution algebras as deformation quantization of linear Poisson structures_, American Journal of Mathematics
-Vol. 112, No. 4 (Aug., 1990), pp. 657-685 ([jstor]( http://www.jstor.org/stable/2374874))
- {#Rieffel90
 
-The [[symplectic Lie groupoid]] [[Lie integration|Lie integrating]] Lie-Poisson structures is discussed as example 4.3 in
+Review of the [[formal deformation quantization]] of Lie-Poisson structures via transfer of the product on the [[universal enveloping algebra]] of the given Lie algebra is  for instance in 
 
-* {#BursztynCrainic} [[Henrique Bursztyn]], [[Marius Crainic]], _Dirac structures, momentum maps and quasi-Poisson manifolds_ ([pdf](http://www.preprint.impa.br/FullText/Bursztyn__Fri_Dec_23_11_24_19_BRDT_2005.html/alanfestimpa.pdf))
-
-Review of the [[deformation quantization]] of Lie-Poisson structures via transfer of the product on the [[universal enveloping algebra]] of the given Lie algebra is  for instance in 
-
-* {#Gutt11} Simone Gutt, section 2.2 of _Deformation quantization of Poisson manifolds_, Geometry and TopologyMonographs 17 (2011) 171-220
+* {#Gutt11} Simone Gutt, section 2.2. of _Deformation quantization of Poisson manifolds_, Geometry and Topology Monographs 17 (2011) 171-220 ([pdf](http://msp.org/gtm/2011/17/gtm-2011-17-003p.pdf))
 
 and generalization to more general polynomial Poisson algebras is discussed in
 
 * Michael Penkava, Pol Vanhaecke, _Deformation Quantization of Polynomial Poisson Algebras_, Journal of Algebra
 227, 365Ã±393 (2000) ([arXiv:math/9804022](https://arxiv.org/abs/math/9804022))
+
+The [[strict deformation quantization]] of Lie-Poisson structures was considered in 
+
+* {#Rieffel90} [[Marc Rieffel]], _Lie group convolution algebras as deformation quantization of linear Poisson structures_, American Journal of Mathematics
+Vol. 112, No. 4 (Aug., 1990), pp. 657-685 ([jstor]( http://www.jstor.org/stable/2374874))
+ 
+
+The [[symplectic Lie groupoid]] [[Lie integration|Lie integrating]] Lie-Poisson structures is discussed as example 4.3 in
+
+* {#BursztynCrainic} [[Henrique Bursztyn]], [[Marius Crainic]], _Dirac structures, momentum maps and quasi-Poisson manifolds_ ([pdf](http://www.preprint.impa.br/FullText/Bursztyn__Fri_Dec_23_11_24_19_BRDT_2005.html/alanfestimpa.pdf))
 
  
 See also
