@@ -386,7 +386,7 @@ Survey includes
 
 * {#Waldmann07} [[Stefan Waldmann]] _Poisson-Geometrie und Deformationsquantisierung. Eine EinfÃ¼hrung_, Springer (2007)
 
-* {#Gutt11} Simone Gutt, _Deformation quantization of Poisson manifolds_, Geometry and TopologyMonographs 17 (2011) 171-220
+* {#Gutt11} Simone Gutt, _Deformation quantization of Poisson manifolds_, Geometry and Topology Monographs 17 (2011) 171-220 ([pdf](http://msp.org/gtm/2011/17/gtm-2011-17-003p.pdf))
 
 
 The concept of algebraic deformation quantization originates around
@@ -435,7 +435,7 @@ The classification of the space of such formal deformation quantization is discu
 * {#DolgushevRogersWillwacher12} [[Vasily Dolgushev]], [[Christopher Rogers]], [[Thomas Willwacher]], _Kontsevich's graph complex, GRT, and the deformation complex of the sheaf of polyvector fields_ ([arXiv:1211.4230](http://arxiv.org/abs/1211.4230))
  
 
-Deformation quantization of [[polynomial algebra|polynomial]] Poisson algebras via [[universal enveloping allgebra]] (generalizing that of [[Lie-Poisson structures]]) is discussed in
+Deformation quantization of [[polynomial algebra|polynomial]] Poisson algebras via [[universal enveloping algebra]] (generalizing that of [[Lie-Poisson structures]]) is discussed in
 
 
 * {#PenkavaVanhaecke00} Michael Penkava, Pol Vanhaecke, _Deformation Quantization of Polynomial Poisson Algebras_, Journal of Algebra
@@ -453,10 +453,16 @@ See also
 * MO discussion , _[Kontsevich's conjectures on the Grothendieck-TeichmÃ¼ller group?](http://mathoverflow.net/questions/42148/kontsevichs-conjectures-on-the-grothendieck-teichmuller-group)_
 
 
-Deformation quantization in [[quantum field theory]] in the context of [[AQFT]] is discussed in
+Deformation quantization in [[quantum field theory]] is discussed for [[free field theory]] in
 
-* [[Michael DÃ¼tsch]], [[Klaus Fredenhagen]], _Perturbative algebraic quantum field theory and deformation quantization_
-Proceedings of the Conference on Mathematical Physics in Mathematics and Physics, Siena June 20-25 (2000) ([arXiv:hep-th/0101079](http://xxx.uni-augsburg.de/abs/hep-th/0101079)) 
+* [[Michael DÃ¼tsch]], [[Klaus Fredenhagen]], _Perturbative algebraic quantum field theory and deformation quantization_, Proceedings of the Conference on Mathematical Physics in Mathematics and Physics, Siena June 20-25 (2000) ([arXiv:hep-th/0101079](http://xxx.uni-augsburg.de/abs/hep-th/0101079)) 
+
+and for interacting field theories in [[perturbative quantum field theory]] ([[perturbative AQFT]]) in
+
+* {#Collini16} [[Giovanni Collini]], _Fedosov Quantization and Perturbative Quantum Field Theory_ ([arXiv:1603.09626](https://arxiv.org/abs/1603.09626))
+
+* {#HawkinsRejzner16} [[Eli Hawkins]], [[Kasia Rejzner]], _The Star Product in Interacting Quantum Field Theory_ ([arXiv:1612.09157](https://arxiv.org/abs/1612.09157))
+
 
 
 
@@ -472,12 +478,6 @@ and some remarks on the relation are also in section 1.4 of
  
 
 which is about [[quantization via the A-model]].
-
-Discussion for interacting Lorentzian [[perturbative quantum field theory]] includes
-
-* {#Collini16} [[Giovanni Collini]], _Fedosov Quantization and Perturbative Quantum Field Theory_ ([arXiv:1603.09626](https://arxiv.org/abs/1603.09626))
-
-* {#HawkinsRejzner16} [[Eli Hawkins]], [[Kasia Rejzner]], _The Star Product in Interacting Quantum Field Theory_ ([arXiv:1612.09157](https://arxiv.org/abs/1612.09157))
 
 The formulation of deformation quantization as lifts from [[P-n operads]] over [[BD-n operads]] to [[E-n operads]] is discussed in section 2.3 and 2.4 of
 
