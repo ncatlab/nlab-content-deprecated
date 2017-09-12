@@ -26,15 +26,37 @@ The fact that any two spacelike-separated regions of spacetime thus behave like 
 
 (One sometimes sees a further criterion to causality, that the causal influences in timelike and lightlike directions only propagate into the [[future]], but this is not so simply dealt with; it probably only makes sense as a statement about coarse-grained [[entropy]] in [[statistical physics]].)
 
-For a formalization of this idea see for instance
+## In algebraic quantum field theory
+  {#InAlgebraicQuantumFieldTheory}
 
-* [[local quantum field theory]]
+In [[algebraic quantum field theory]] causal locality is formalized by the conditon that two [[algebras of quantum observables]] $\mathcal{A}(\mathcal{O})$ localized in [[spacelike]] separated [[spacetime]] regions $\mathcal{O}$ have to commute with each other (inside any of the algebras of observables localized in the causal closure $\mathcal{O}$ of the union of the two spacetime regions). This is a key statement in the [[Haag-Kastler axioms]] on [[causally local nets of quantum observables]]:
 
-* [[local prequantum field theory]]
+$$
+  \left(
+    \mathcal{O}_1 
+     \;\text{spacelike separated from}
+     \;
+    \mathcal{O}2
+  \right)
+  \;\Rightarrow\;
+  \left(
+    [\mathcal{A}(\mathcal{O}_1), \mathcal{A}(\mathcal{O}_2)]
+    \;=\;
+    0
+    \;\;\;\;
+    \in \mathcal{A}( \mathcal{O} )
+  \right)
+  \,.
+$$
 
-* [[local net of observables]]
 
-Under [[Wick rotation]], causal locality becomes "[[statistical locality]]"  (see _[[Osterwalder-Schrader theorem]]_).
+Under [[Wick rotation]], this causal locality becomes "[[statistical locality]]"  (see _[[Osterwalder-Schrader theorem]]_).
+
+In [[perturbative algebraic quantum field theory]] this condition follows from the [[causal additivity]] of the [[S-matrix]] (see there the section _[Causal locality and Quantum obsrvables](S-matrix#CausalLocality)_).
+
+There have been various proposals to understand this condition from other principles: 
+
+([Brunetti-Fredenhagen-Imani-Rejzner 12](#BrunettiFredenhagenImaniRejzner12))
 
 ## Microcausality
  {#Microcausality}
@@ -57,7 +79,7 @@ It seems that [Grigor'ev 197x](#Grigoriev) just cited the length scale resolutio
 
 ## In S-matrix theories and string theory
 
-In [[S-matrix]] theories causality is meant to be incarnated in terms of [[analytic function|analyticity]] properties of the [[scattering amplitudes]] (for this reason one often speaks of "the analytic S-matrix").
+In [[S-matrix]] theories [[causal additivity]] is meant to also be incarnated in terms of [[analytic function|analyticity]] properties of the [[scattering amplitudes]] (for this reason one often speaks of "the analytic S-matrix").
 
 One S-matrix theory is [[perturbative string theory]]. Discussion of causality in string theory includes [Martinec 95](#Martinec95) and ([Erler-Gross 04](#ErlerGross04)). The latter write in their introduction:
 
@@ -109,10 +131,14 @@ Then they comment on Martinec's account above, and other's, by saying:
 * Anthony Duncan, _The Conceptual Framework of Quantum Field Theory -- Dynamics IV: Aspects of locality: clustering, microcausality, and analyticity_, Oxford Scholarship Online ([web](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199573264.001.0001/acprof-9780199573264-chapter-6))
 
 * {#Bell75} [[John Bell]], _The theory of local beables_ (1975) ([pdf](http://cds.cern.ch/record/980036/files/197508125.pdf))
- 
-
 
 * [pdf](http://ptp.oxfordjournals.org/content/52/1/335.full.pdf)
+
+### In algebraic quantum field theory
+
+For references on the traditional discussion in [[AQFT]] see at _[[Haag-Kastler axioms]]_ and at _[[causally local net of observables]]_. Proposals to understand the causal locality axiom from other principles include
+
+* {#BrunettiFredenhagenImaniRejzner12} [[Romeo Brunetti]], [[Klaus Fredenhagen]], Paniz Imani, [[Katarzyna Rejzner]], _The Locality Axiom in Quantum Field Theory and Tensor Products of $C^*$-algebras_ ([arXiv:1206.5484](https://arxiv.org/abs/1206.5484))
 
 ### In S-matrix theories and string theory
 
