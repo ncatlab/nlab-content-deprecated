@@ -205,7 +205,7 @@ running example:
 
 Survey and exposition of locally covariant algebraic quantum field theory beyond [[causal perturbation theory]] in [[Minkowski spacetime]] (for which see [there](causal+perturbation+theory#References)) includes the following:
 
-* {#Hollands07} [[Stefan Hollands]], section 3 of _Renormalized Quantum Yang-Mills Fields in Curved Spacetime_, Rev. Math. Phys. 20:1033-1172, 2008 ([arXiv:0705.3340](https://arxiv.org/abs/0705.3340))
+* [Hollands 07, section 3](#Hollands 07)
 
 * [[Robert Wald]], _The Formulation of Quantum Field Theory in Curved Spacetime_ ([arXiv:0907.0416](https://arxiv.org/abs/0907.0416))
 
@@ -249,6 +249,10 @@ The observation that the [[causal perturbation theory]] of [Epstein-Glaser 73](#
 * {#BrunettiFredenhagen00} [[Romeo Brunetti]], [[Klaus Fredenhagen]], _Microlocal Analysis and Interacting Quantum Field Theories: Renormalization on Physical Backgrounds_, Commun. Math. Phys. 208 : 623-661, 2000 ([math-ph/9903028](https://arxiv.org/abs/math-ph/9903028))
 
 * {#BrunettiDuetschFredenhagen09} [[Romeo Brunetti]], [[Michael DÃ¼tsch]], [[Klaus Fredenhagen]], _Perturbative Algebraic Quantum Field Theory and the Renormalization Groups_, Adv. Theor. Math. Physics 13 (2009), 1541-1599 ([arXiv:0901.2038](http://arxiv.org/abs/0901.2038))
+
+Specifically construction of [[renormalization|renormalized]] [[Yang-Mills theory]] on curved spacetimes is due to
+
+* {#Hollands07} [[Stefan Hollands]], _Renormalized Quantum Yang-Mills Fields in Curved Spacetime_, Rev. Math. Phys.20:1033-1172, 2008 ([arXiv:0705.3340](https://arxiv.org/abs/0705.3340))
 
 The observation that this construction produces [[formal deformation quantization]] of the classical field theory was made for the [[free field]] and its quantization by [[Wick algebras]] is
 
