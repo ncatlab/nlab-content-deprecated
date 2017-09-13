@@ -124,7 +124,7 @@ $$
   \Gamma_\Sigma(E) \in SmoothSet
 $$
 
-for its [[smooth space|]] [[space of smooth sections]].
+for its [[smooth space|smooth]] [[space of smooth sections]].
 
 
 +-- {: .num_example #TrivialVectorBundleAsAFieldBundle}
@@ -168,7 +168,7 @@ $$
 is the _[[trivial fiber bundle|trivial]] [[real line bundle]]_ (a special case of example \ref{TrivialVectorBundleAsAFieldBundle}) and the corresponding [[field (physics)|field]] is called the _[[real scalar field]]_ on $\Sigma$. A configuration of this field is simply a [[smooth function]] on $\Sigma$ with values in the [[real numbers]]:
 
 $$
-  \Gamma_\Sigma(\Sigma \times mathbb{R})
+  \Gamma_\Sigma(\Sigma \times \mathbb{R})
     \;\simeq\;
   C^\infty(\Sigma)
   \,.
@@ -176,7 +176,16 @@ $$
 
 =--
 
-+-- {: .num_defn}
+### Variational calculus
+
+Given a [[field bundle]] as above, we know what type of quantities the corresponding fields assign to a given spacetime point. Among all consistent such field configurations, some are to qualify as those that "may occur in reality" (if we think of the field theory as a means to describe parts of the [[observable universe]]). Moreover, if the reality to be described does not exhibit "spooky action at a distance" then admissibility of its field configurations should be determined over arbitrary small spacetime regions,in fact over the [[infinitesimal neighbourhood]] of any point. This means equivalently that the "real" field configurations should be those that satisfy a given [[differential equation]], hence an [[equation]] between the value of its [[derivatives]] at any spacetime point.
+
+In order to formalize this, it is clearly useful to first collect all the possible derivatives that a field may have at any given point into one big space of "field derivatives at spacetime points". This collection is called the _[[jet bundle]]_ of the [[field bundle]], given as def. \ref{JetBundleOfTrivialVectorBundleOverMinkowskiSpacetime} below.
+
+Moving around in this space means to change the possible value of fields and their derivatives, hence to _vary_ the fields. Accordingly [[variational calculus]] is just [[differential calculus]] on a [[jet bundle]], this we consider in def. \ref{VariationalBicomplexOnSecondOrderJetBundleOverTrivialVectorBundleOverMinkowskiSpacetime} below..
+
+
++-- {: .num_defn #JetBundleOfTrivialVectorBundleOverMinkowskiSpacetime}
 ###### Definition
 **([[jet bundle]] of a [[trivial vector bundle]] over [[Minkowski spacetime]])**
 
@@ -197,7 +206,7 @@ $$
 equipped with canonical coordinates
 
 $$
-  \left\{
+  \left(
      (x^\mu)
      \,,\,
      (\phi^a )
@@ -205,14 +214,13 @@ $$
      ( \phi^a_{,\mu} )
      \,,\,
      ( \phi^a_{,\mu_1 \mu_2} )
-     \,,\,
-  \right\}
+  \right)
 $$    
 
-where the indices $\mu_i$ range from 0 to $p$ and are symmetric, while the index $a$ ranges from $1$ to $s$, and equipped with the corresponding[[projection]] map.
+where the indices $\mu_i$ range from 0 to $p$ and are symmetric, while the index $a$ ranges from $1$ to $s$, and equipped with the corresponding [[projection]] map.
 
 
-Moreover, the _second order [[jet prolongation]]_ is the function
+Given such a second order jet bundle then the _second order [[jet prolongation]]_ is the function from the [[space of sections]] of the original bundle to the jet bundle which records the field and all its [[derivatives]] up to order 2:
 
 $$
   \array{
@@ -234,6 +242,121 @@ $$
 =--
 
 
++-- {: .num_defn #VariationalBicomplexOnSecondOrderJetBundleOverTrivialVectorBundleOverMinkowskiSpacetime}
+###### Definition
+**([[variational bicomplex]])**
+
+Given a second order [[jet bundle]] $J^2_\Sigma(E)$ of a [[trivial vector bundle]] over [[Minkowski spacetime]] as in def. \ref{JetBundleOfTrivialVectorBundleOverMinkowskiSpacetime}, then its
+ _[[horizontal derivative]]_ (or "[[total derivative]]") is the map
+
+$$
+  \mathbf{d}_h
+  \;\colon\;
+  \Omega^\bullet( J^2_\Sigma(E) )
+  \longrightarrow
+  \Omega^{\bullet+1}( J^2_\Sigma(E) )
+$$
+
+which on functions (0-forms) $f \colon J^2_\Sigma(E) \to \mathbb{R}$ is defined by
+
+$$
+  \mathbf{d}_h f
+    \;\coloneqq\;
+  \underoverset{p}{\mu = 0}{\sum}
+  \left(
+    \frac{\partial f}{\partial x^\mu}
+    + 
+    \frac{\partial f}{\partial \phi^a}
+    \phi^a_{,\mu}
+    + 
+    \frac{ \partial f }{ \partial \phi^a_{,\nu}}
+    \phi^a_{,\nu \mu }
+  \right)
+  \mathbf{d} x^\mu
+$$
+
+and extended to all forms by the graded [[Leibniz rule]], hence  as a [[derivation]] of degree +1. 
+
+The _[[vertical derivative]]_ is 
+
+$$
+  \mathbf{d}_v \coloneqq \mathbf{d} - \mathbf{d}_h
+  \,.
+$$
+
+This defines a bigrading on the [[de Rham complex]] on $J^2_\Sigma(E)$ 
+
+$$
+  \Omega^\bullet\left( J^2_\Sigma(E) \right)
+  \;\coloneqq\;
+  \underset{r,s}{\oplus} \Omega^{r,s}(E)
+  \,.
+$$
+
+
+=--
+
++-- {: .num_defn #LocalLagrangianDensityOnSecondOrderJetBundleOfTrivialVectorBundleOverMinkowskiSpacetime}
+###### Definition
+**([[local Lagrangian density]])**
+
+Given a [[field bundle]] $E$ over a $(p+1)$-dimensional [[Minkowski spacetime]] $\Sigma$ as in example \ref{TrivialVectorBundleAsAFieldBundle}, then a _[[local Lagrangian density]]_ $L$ (for the field species thus defined) is a [[horizontal differential form]] of degree $(p+1)$ on the corresponding [[jet bundle]] (def. \ref{VariationalBicomplexOnSecondOrderJetBundleOverTrivialVectorBundleOverMinkowskiSpacetime}):
+
+$$
+  \mathbf{L} \;\in \; \Omega^{p+1,0}(E)
+  \,.
+$$
+
+Since there is a specified [[volume form]] $dvol_{\Sigma}$ and since every [[horizontal differential form]] of degree equal to the the spacetime dimension is necessarily proportional to this volume form, any such Lagrangian density may uniquely be written as
+
+$$
+  \mathbf{L} = L dvol_\Sigma
+$$
+
+with $L \;\colon\; J^2_\Sigma(E) \to \mathbb{R}$ a smooth function on the jet bundle.
+
+
+=--
+
++-- {: .num_prop #EulerLagrangeOperatorForTivialVectorBundleOverMinkowskiSpacetime}
+###### Proposition
+**([[Euler-Lagrange operator]])**
+
+If a [[Lagrangian density]] $\mathbf{L}$ (def. \ref{LocalLagrangianDensityOnSecondOrderJetBundleOfTrivialVectorBundleOverMinkowskiSpacetime}) depends at most on first order jets, then its de Rham differential has a _unique_ decomposition as a sum of two terms
+
+$$
+  \mathbf{d} \mathbf{L}
+  =
+  \delta_{EL} \mathbf{L}
+  + 
+  \mathbf{d}_h \theta  
+$$
+
+such that
+
+1. $\delta_{EL} \mathbf{L} \in \Omega^{p+1,0}(E) \otimes \mathbf{d}_v \Omega^{0,0}(E) \subset \Omega^{p+1,1}(E)$
+
+1. $\mathbf{d_h} \theta \in \mathbf{d}_h \Omega^{p,0}(E)$.
+
+The map
+
+$$
+   \delta_{EL} \;\colon\; \Omega^{p+1,0}(E) \longrightarrow \Omega^{p+1,1}_s(E)
+$$
+
+thus defined is called the _[[Euler-Lagrange operator]]_.
+
+=--
+
+
+### Equations of motion
+
+
++-- {: .num_prop #Smooth0TypeIsSheavesOnSmoothMfd}
+###### Proposition
+
+
+=--
 
 
 * [[field bundle]], [[jet bundle]], [[field (physics)|field]]
