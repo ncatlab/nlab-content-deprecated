@@ -126,10 +126,15 @@ This remaining problem is meant to be solved by passing from plain [[algebras of
 
 > under construction
 
+### A first idea of quantum fields
 
-[[prequantum geometry]]
+We introduce here the basic concepts of _[[Lagrangian field theory]]_, first for [[prequantum field theory]] and then for its [[deformation quantization]] to [[perturbative quantum field theory]]. 
 
-* [[globally hyperbolic spacetime]], [[time orientation]]
+In full beauty these concepts are extremely general; but here the aim is to give a first good idea of the subject, and therefore we present here only a restricted setup, notably assuming that the [[field bundle]] (see below) is an ordinary and [[trivial bundle|trivial]] [[fiber bundle]] over [[Minkowski spacetime]]. This is still general enough to subsume the setup considered in most traditional texts on the subject. 
+
+(In subsequent sections we will eventually discuss more general situations, notably we will eventually allow spacetime to be any [[globally hyperbolic manifold]] and the [[field bundle]] to be an [[infinity-Lie algebroid]]. This is sufficient generality to capture the established perturbative [[BV formalism|BRST-BV quantization]] of [[gauge theory]] [[AQFT on curved spacetime|on curved spacetimes]]. It is however still not the most general setup that may be considered.)
+
+
 
 * [[field bundle]], [[jet bundle]], [[field (physics)|field]]
 
@@ -154,6 +159,7 @@ This remaining problem is meant to be solved by passing from plain [[algebras of
 * [[algebra of quantum observables]]
 
 * [[quantum states]]
+
 
 [[S-matrix]]
 
@@ -246,9 +252,19 @@ The observation that the [[causal perturbation theory]] of [Epstein-Glaser 73](#
 
 * {#IlinSlavnov78} V. A. Ilâ€™in and D. S. Slavnov, _Observable algebras in the S-matrix approach_, Theor. Math. Phys. 36 (1978) 32. ([spire](http://inspirehep.net/record/135575), [doi](http://dx.doi.org/10.1007/BF01035870))
 
-* {#BrunettiFredenhagen00} [[Romeo Brunetti]], [[Klaus Fredenhagen]], _Microlocal Analysis and Interacting Quantum Field Theories: Renormalization on Physical Backgrounds_, Commun. Math. Phys. 208 : 623-661, 2000 ([math-ph/9903028](https://arxiv.org/abs/math-ph/9903028))
+* [Brunetti-Fredenhagen 00, last section](#BrunettiFredenhagen00)
 
 * {#BrunettiDuetschFredenhagen09} [[Romeo Brunetti]], [[Michael DÃ¼tsch]], [[Klaus Fredenhagen]], _Perturbative Algebraic Quantum Field Theory and the Renormalization Groups_, Adv. Theor. Math. Physics 13 (2009), 1541-1599 ([arXiv:0901.2038](http://arxiv.org/abs/0901.2038))
+
+Extension of [[causal perturbation theory]] to [[AQFT on curved spacetimes|curved spacetimes]] is due to
+
+* {#BrunettiFredenhagen00} [[Romeo Brunetti]], [[Klaus Fredenhagen]], _Microlocal Analysis and Interacting Quantum Field Theories: Renormalization on Physical Backgrounds_, Commun. Math. Phys. 208 : 623-661, 2000 ([math-ph/9903028](https://arxiv.org/abs/math-ph/9903028))
+
+* {#HollandsWald01} [[Stefan Hollands]], [[Robert Wald]], _Local Wick Polynomials and Time Ordered Products of Quantum Fields in Curved Spacetime_, Commun. Math. Phys. 223:289-326,2001 ([arXiv:gr-qc/0103074](https://arxiv.org/abs/gr-qc/0103074))
+
+* [[Stefan Hollands]], [[Robert Wald]], _On the Renormalization Group in Curved Spacetime_, Commun. Math. Phys. 237 (2003) 123-160 ([arXiv:gr-qc/0209029](https://arxiv.org/abs/gr-qc/0209029))
+
+* [[Stefan Hollands]], [[Robert Wald]], _Conservation of the stress tensor in perturbative interacting quantum field theory in curved spacetimes_, Rev.Math.Phys. 17 (2005) 227-312 ([arXiv:gr-qc/0404074](https://arxiv.org/abs/gr-qc/0404074))
 
 Specifically construction of [[renormalization|renormalized]] [[Yang-Mills theory]] on curved spacetimes is due to
 
