@@ -96,6 +96,11 @@ Lawvere takes this interpretation of Cantor up again in
 
 * [[William Lawvere|F. W. Lawvere]], _Foundations and Applications: Axiomatization and Education_, Bulletin of Symbolic Logic **9** no.2 (2003) pp.213-224. ([ps-preprint](https://www.math.ucla.edu/~asl/bsl/0902/0902-006.ps))
 
+He gives prominence to the essentiality of the [[double negation|double negation topos]] and the "Cantor monad" that comes with it in the more recent
+
+* {#Lawvere15} [[F. William Lawvere]], _Birkhoff's theorem from a geometric
+perspective: A simple example_ , Categories and General Algebraic Structures with Applications **4** no.1 (2015) pp.1â€“7. ([pdf](http://www.cgasa.ir/pdf_12425_5ddf468d82aad53ce2e8ee88dd3bf84d.html))
+
 Judging from the preface to [[Sets for Mathematics|(Lawvere-Rosebrugh 2003)]] Myhill made his observation presumably in Lawvere's 1985 course. C. McLarty interprets Cantor's cardinals as abstract sets in a [[well-pointed topos]] in
 
 * [[Colin McLarty]], _Defining Sets as Sets of Points of Spaces_ , JPL **17** (1988) pp.75-90.
