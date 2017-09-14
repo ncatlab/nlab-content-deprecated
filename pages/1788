@@ -4,15 +4,17 @@
 * table of contents
 {:toc}
 
-Throughout we use the case of the real [[scalar field]] as an illustrative running example, which we develop alongside with the theory. The discussion of other [[field (physics)|field]] species that are of more genuine interest in applications is postponed to dedicated sections below.
 
 ### A first idea of quantum fields
 
 We introduce here the basic concepts of _[[Lagrangian field theory]]_, first for [[prequantum field theory]] and then for its [[deformation quantization]] to [[perturbative quantum field theory]]. 
 
-In full beauty these concepts are extremely general; but in this section the aim is to give a first good idea of the subject, and therefore we present for the moment only a restricted setup, notably assuming that [[spacetime]] is [[Minkowski spacetime]], that the [[field bundle]] (see below) is an ordinary and [[trivial bundle|trivial]] [[fiber bundle]] and we consider its [[jet bundle]] only to second order.. 
+In full beauty these concepts are extremely general; but in this section the aim is to give a first good idea of the subject, and therefore we present for the moment only a restricted setup, notably assuming that [[spacetime]] is [[Minkowski spacetime]], that the [[field bundle]] (see below) is an ordinary and [[trivial bundle|trivial]] [[fiber bundle]] and we consider its [[jet bundle]] only to second order.
 
-(This does subsume what is considered in most traditional texts on the subject. In subsequent sections we will eventually discuss more general situations, notably we will eventually allow spacetime to be any [[globally hyperbolic Lorentzian manifold]] and the [[field bundle]] to be an [[infinity-Lie algebroid]]. This is sufficient generality to capture the established perturbative [[BV formalism|BRST-BV quantization]] of [[gauge theory]] [[AQFT on curved spacetime|on curved spacetimes]]. It is however still not the most general setup that may be considered.)
+This does subsume what is considered in most traditional texts on the subject. In subsequent sections we will eventually discuss more general situations, notably we will eventually allow spacetime to be any [[globally hyperbolic Lorentzian manifold]] and the [[field bundle]] to be an [[infinity-Lie algebroid]]. This is sufficient generality to capture the established perturbative [[BV formalism|BRST-BV quantization]] of [[gauge theory]] [[AQFT on curved spacetime|on curved spacetimes]]. 
+
+Throughout we use the case of the real [[scalar field]] as an illustrative running example, which we develop alongside with the theory. The discussion of other [[field (physics)|field]] species that are of more genuine interest in applications is postponed to their dedicated sections below.
+
 
 #### Spacetime
 
@@ -176,9 +178,9 @@ $$
 
 =--
 
-### Variational calculus
+#### Variational calculus
 
-Given a [[field bundle]] as above, we know what type of quantities the corresponding fields assign to a given spacetime point. Among all consistent such field configurations, some are to qualify as those that "may occur in reality" (if we think of the field theory as a means to describe parts of the [[observable universe]]). Moreover, if the reality to be described does not exhibit "spooky action at a distance" then admissibility of its field configurations should be determined over arbitrary small spacetime regions,in fact over the [[infinitesimal neighbourhood]] of any point. This means equivalently that the "real" field configurations should be those that satisfy a given [[differential equation]], hence an [[equation]] between the value of its [[derivatives]] at any spacetime point.
+Given a [[field bundle]] as above, we know what type of quantities the corresponding fields assign to a given spacetime point. Among all consistent such field configurations, some are to qualify as those that "may occur in reality" (if we think of the field theory as a means to describe parts of the [[observable universe]]). Moreover, if the reality to be described does not exhibit "[[action at a distance]]" then admissibility of its field configurations should be determined over arbitrary small spacetime regions,in fact over the [[infinitesimal neighbourhood]] of any point. This means equivalently that the "real" field configurations should be those that satisfy a given [[differential equation]], hence an [[equation]] between the value of its [[derivatives]] at any spacetime point.
 
 In order to formalize this, it is clearly useful to first collect all the possible derivatives that a field may have at any given point into one big space of "field derivatives at spacetime points". This collection is called the _[[jet bundle]]_ of the [[field bundle]], given as def. \ref{JetBundleOfTrivialVectorBundleOverMinkowskiSpacetime} below.
 
@@ -336,7 +338,7 @@ such that
 
 1. $\delta_{EL} \mathbf{L} \in \Omega^{p+1,0}(E) \otimes \mathbf{d}_v \Omega^{0,0}(E) \subset \Omega^{p+1,1}(E)$
 
-1. $\mathbf{d_h} \theta \in \mathbf{d}_h \Omega^{p,0}(E)$.
+1. $\mathbf{d_h} \theta \in \mathbf{d}_h \Omega^{p,1}(E)$.
 
 The map
 
@@ -344,12 +346,81 @@ $$
    \delta_{EL} \;\colon\; \Omega^{p+1,0}(E) \longrightarrow \Omega^{p+1,1}_s(E)
 $$
 
-thus defined is called the _[[Euler-Lagrange operator]]_.
+thus defined is called the _[[Euler-Lagrange operator]]_ and is given by
+
+$$
+  \delta_{EL} L dvol_\Sigma
+  \;=\;
+  \left(
+    \frac{\partial L}{\partial \phi^a}
+    -
+    \frac{\partia}{\partial x^\mu}
+    \frac{\partial L}{\partial \phi^a_{,\mu}}
+  \right)
+  dvol_\Sigma
+$$
+
+
 
 =--
 
 
-### Equations of motion
++-- {: .proof}
+###### Proof
+
+Regarding existence, we claim that one possible choice is
+
+$$
+  \theta 
+  \;=\;
+  \frac{\partial L}{\partial \phi^a_{,\mu}}
+  \mathbf{d}_v \phi^a \wedge \iota_{\partial_\mu} dvol_\Sigma
+$$
+
+hence
+
+$$
+  \mathbf{d}_h \theta
+  \;=\;
+  -
+  \frac{\partial}{\partial x^\mu}
+  \frac{\partial L}{\partial \phi^a_{,\mu}}
+  \mathbf{d}_v \phi^a \wedge dvol_\Sigma
+  -
+  \frac{\partial L}{\partial \phi^a_{,\mu}}
+  \mathbf{d}_v \phi^a_{,\mu} \wedge dvol \Sigma
+$$
+
+To see this, first notice that due to $\mathbf{L} = L dvol_\Sigma$
+we have
+
+$$
+  \begin{aligned}
+    \mathbf{d}\mathbf{L}
+    & =
+    \frac{\partial L}{\partial \phi^a} \mathbf{d}_v\phi^a \wedge dvol_{\Sigma}
+    + 
+    \frac{\partial L}{\partial \phi^a_{,\mu}} \mathbf{d}_v \phi^a_{,\mu} \wedge dvol_{\Sigma}
+    \\
+    & = 
+    \frac{\partial L}{\partial \phi^a} \mathbf{d}_v\phi^a \wedge dvol_{\Sigma}
+    -
+    \frac{\partial}{\partial x^\mu}
+    \frac{\partial L}{\partial \phi^a_{,\mu}}
+    \mathbf{d}_v \phi^a \wedge dvol_\Sigma
+     -
+    \mathbf{d}_h \theta    
+  \end{aligned}  
+$$
+
+
+
+
+=--
+
+
+
+#### Equations of motion
 
 
 +-- {: .num_prop #Smooth0TypeIsSheavesOnSmoothMfd}
