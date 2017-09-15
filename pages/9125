@@ -100,7 +100,7 @@ We write
 $$
   dvol_\Sigma
    \;\coloneq\;
-  d x^0 \wedge d x^1 \wedge \cdots d x^p
+  d x^0 \wedge d x^1 \wedge \cdots \wedge d x^p
   \in \Omega^{p+1}(\mathbb{R}^{p,1})
 $$
 
@@ -137,7 +137,7 @@ $$
 It will be useful to unify spacetime and the space of field values into a single space, the [[Cartesian product]]
 
 $$
-  E \;\coloneqq\; X \times \Sigma
+  E \;\coloneqq\; \Sigma \times F
 $$
 
 and to think of this equipped with the [[projection]] map onto the first factor as a [[fiber bundle]] of spaces of field values over spacetime
@@ -162,8 +162,8 @@ This is then called the _[[field bundle]]_, which specifies the kind of values t
 
 Given a [[spacetime]] $\Sigma$ and a [[field bundle]] $\array{E \\ \downarrow^{\mathrlap{fb}} \\ \Sigma }$,
 then a _[[field (physics)|field]] configuration_ (of type specified by this field bundle)
-is a smooth  [[section]] _smooth [[section]]_ of this [[bundle]], namely a [[smooth function]] of the form
-$\Phi \colon \Sigma \longrightarrow E$ such that composed with the [[projection]] map it is the [[identity function]], i.e. such that $p \circ \phi = id$, or, diagrammatically, such that
+is a _smooth [[section]]_ of this [[bundle]], namely a [[smooth function]] of the form
+$\Phi \colon \Sigma \longrightarrow E$ such that composed with the [[projection]] map it is the [[identity function]], i.e. such that $fb \circ \Phi = id$, or, diagrammatically, such that
 
 $$
   \array{
@@ -201,7 +201,7 @@ $$
   \array{
     && E
     \\
-    & {}^{\mathllap{\Phi_{(-)}(-)}}\nearrow & \downarrow^{\mathrlap{p}}
+    & {}^{\mathllap{\Phi_{(-)}(-)}}\nearrow & \downarrow^{\mathrlap{fb}}
     \\
     U \times \Sigma &\underset{pr_2}{\longrightarrow}& \Sigma
   }
